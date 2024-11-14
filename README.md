@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## Fun Fact of the Hour:
-<!-- START FACT -->Random fact loading...<!-- END FACT -->
+<!-- START FACT -->Random fact of the hour: The name of the girl on the statue of liberty is Mother of Exiles.<!-- END FACT -->
