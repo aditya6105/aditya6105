@@ -17,6 +17,7 @@ jobs:
         id: get_fact
         run: |
           FACT=$(curl -s -H "X-Api-Key: ${{ secrets.API_KEY }}" "https://api.api-ninjas.com/v1/facts" | grep -o '"fact":".*"' | sed 's/"fact":"\(.*\)"/\1/')
+          echo "Fetched Fact: $FACT"  # This line will print the fact to the logs
           echo "::set-output name=fact::$FACT"
 
       - name: Update README with Fun Fact
