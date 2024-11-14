@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3  # Use the latest version of actions/checkout
+      uses: actions/checkout@v3
 
     - name: Fetch Random Fact
       run: |
@@ -29,6 +29,7 @@ jobs:
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
         git add README.md
         git commit -m "Update random fact"
         git push origin main
