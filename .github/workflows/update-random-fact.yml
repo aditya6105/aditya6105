@@ -18,7 +18,7 @@ jobs:
     - name: Fetch Random Fact
       run: |
         fact=$(curl -s "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en" -H "Accept: application/json" | jq -r '.text')
-        echo "Random fact of the hour: $fact" > fact.txt
+        echo "$fact" > fact.txt
 
     - name: Update README with the new fact
       run: |
