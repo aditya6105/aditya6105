@@ -30,5 +30,5 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
-## Fun Fact of the Hour:
-<!-- START FACT -->Random fact of the hour: Conception occurs most in the month of December.<!-- END FACT -->
+## **Fun Facts** :
+**<!-- START FACT -->Random fact of the hour: Conception occurs most in the month of December.<!-- END FACT -->**
