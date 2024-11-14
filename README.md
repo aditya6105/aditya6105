@@ -27,3 +27,8 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya6105&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aditya6105" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6105&theme=dark" alt="aditya6105" /></p>
+
+<br><br><br><br><br><br>
+
+## Fun Fact of the Hour
+<!-- START FACT -->Random fact loading...<!-- END FACT -->
