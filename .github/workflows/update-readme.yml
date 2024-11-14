@@ -1,0 +1,33 @@
+name: Update Fun Fact in README
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Random Fun Fact
+        id: get_fact
+        run: |
+          FACT=$(curl -s -H "X-Api-Key: ${{ secrets.API_KEY }}" "https://api.api-ninjas.com/v1/facts" | grep -o '"fact":".*"' | sed 's/"fact":"\(.*\)"/\1/')
+          echo "::set-output name=fact::$FACT"
+
+      - name: Update README with Fun Fact
+        run: |
+          FACT="${{ steps.get_fact.outputs.fact }}"
+          sed -i "s|<!-- START FACT -->.*<!-- END FACT -->|<!-- START FACT -->$FACT<!-- END FACT -->|" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated Fun Fact in README"
+          git push
