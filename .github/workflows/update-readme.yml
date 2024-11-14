@@ -16,7 +16,7 @@ jobs:
       - name: Fetch Random Fun Fact
         id: get_fact
         run: |
-          FACT=$(curl -s -H "X-Api-Key: ${{ secrets.https://api.api-ninjas.com/v1/facts }}" "https://api.api-ninjas.com/v1/facts" | grep -o '"fact":".*"' | sed 's/"fact":"\(.*\)"/\1/')
+          FACT=$(curl -s -H "X-Api-Key: ${{ secrets.https://api.api-ninjas.com/v1/facts?limit={} }}" "https://api.api-ninjas.com/v1/facts" | grep -o '"fact":".*"' | sed 's/"fact":"\(.*\)"/\1/')
           echo "::set-output name=fact::$FACT"
 
       - name: Update README with Fun Fact
