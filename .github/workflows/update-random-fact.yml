@@ -2,10 +2,10 @@ name: Update Random Useless Fact
 
 on:
   schedule:
-    - cron: '0 * * * *'  # This will run the action every hour
+    - cron: '* * * * *'  # Run every minute
   push:
     branches:
-      - main  # Runs the action when changes are pushed to the 'main' branch
+      - main
 
 jobs:
   update_fact:
@@ -13,23 +13,24 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3  # Use the latest version of actions/checkout
 
     - name: Fetch Random Fact
       run: |
-        # Fetching a random useless fact using the UselessFacts API
         fact=$(curl -s "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en" -H "Accept: application/json" | jq -r '.text')
         echo "Random fact of the hour: $fact" > fact.txt
 
     - name: Update README with the new fact
       run: |
-        # Replacing the placeholder in the README with the new random fact
         fact=$(cat fact.txt)
         sed -i "s|<!-- START FACT -->.*<!-- END FACT -->|<!-- START FACT -->$fact<!-- END FACT -->|" README.md
 
-        # Committing and pushing the changes
+    - name: Commit and push changes
+      run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git add README.md
         git commit -m "Update random fact"
-        git push
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
