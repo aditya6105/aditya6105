@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Random fact of the hour: Conception occurs most in the month of December.<!-- END FACT -->**
+**<!-- START FACT -->Random fact of the hour: The state of Florida is bigger than England!<!-- END FACT -->**
