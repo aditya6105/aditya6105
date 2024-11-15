@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Non-dairy creamer is flammable.<!-- END FACT -->**
+**<!-- START FACT -->Barbie`s full name is Barbara Millicent Roberts.<!-- END FACT -->**
