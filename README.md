@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.<!-- END FACT -->**
+**<!-- START FACT -->If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.<!-- END FACT -->**
