@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.<!-- END FACT -->**
+**<!-- START FACT -->You can sail all the way around the world at latitude 60 degrees south.<!-- END FACT -->**
