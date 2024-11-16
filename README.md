@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The S in Harry S. Truman did not stand for anything.<!-- END FACT -->**
+**<!-- START FACT -->In medieval France, unfaithful wives were made to chase a chicken through town naked.<!-- END FACT -->**
