@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Blueberry Jelly Bellies were created especially for Ronald Reagan.<!-- END FACT -->**
+**<!-- START FACT -->Tom Sawyer was the first novel written on a typewriter.<!-- END FACT -->**
