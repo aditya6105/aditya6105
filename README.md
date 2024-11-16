@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It`s possible to lead a cow upstairs but not downstairs.<!-- END FACT -->**
+**<!-- START FACT -->The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.<!-- END FACT -->**
