@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A bull can inseminate 300 cows from one single ejaculation.<!-- END FACT -->**
+**<!-- START FACT -->It takes about 142.18 licks to reach the center of a Tootsie pop.<!-- END FACT -->**
