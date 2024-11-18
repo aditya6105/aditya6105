@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Intelligent people have more zinc and copper in their hair.<!-- END FACT -->**
+**<!-- START FACT -->Half of all Americans live within 50 miles of their birthplace.<!-- END FACT -->**
