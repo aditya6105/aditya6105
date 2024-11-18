@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are more psychoanalysts per capita in Buenos Aires than any other place in the world.<!-- END FACT -->**
+**<!-- START FACT -->A bull can inseminate 300 cows from one single ejaculation.<!-- END FACT -->**
