@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cats urine glows under a black light.<!-- END FACT -->**
+**<!-- START FACT -->A cat has 32 muscles in each ear.<!-- END FACT -->**
