@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.<!-- END FACT -->**
+**<!-- START FACT -->James Bond`s car had three different license plates in Goldfinger<!-- END FACT -->**
