@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A bull can inseminate 300 cows from one single ejaculation.<!-- END FACT -->**
+**<!-- START FACT -->Rhode Island is the only state which the hammer throw is a legal high school sport.<!-- END FACT -->**
