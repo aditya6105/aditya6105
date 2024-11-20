@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  <!-- END FACT -->**
+**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  <!-- END FACT --> Elvis Presley.<!-- END FACT -->**
