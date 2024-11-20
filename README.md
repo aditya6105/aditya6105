@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 1 million ants for every human in the world.<!-- END FACT -->**
+**<!-- START FACT -->Thirty-five percent of people who use personal ads for dating are already married.<!-- END FACT -->**
