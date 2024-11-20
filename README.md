@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.<!-- END FACT -->**
+**<!-- START FACT -->The plastic things on the end of shoelaces are called aglets.<!-- END FACT -->**
