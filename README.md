@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  <!-- END FACT -->**
+**<!-- START FACT -->Meteorologists claim they`re right 85% of the time (think about that one!)<!-- END FACT -->**
