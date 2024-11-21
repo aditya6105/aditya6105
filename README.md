@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.<!-- END FACT -->**
+**<!-- START FACT -->100% of lottery winners do gain weight<!-- END FACT -->**
