@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average woman consumes 6 lbs of lipstick in her lifetime.<!-- END FACT -->**
+**<!-- START FACT -->Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.<!-- END FACT -->**
