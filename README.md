@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->PEZ candy even comes in a Coffee flavor.<!-- END FACT -->**
+**<!-- START FACT -->In The Empire Strikes Back there is a potato hidden in the asteroid field<!-- END FACT -->**
