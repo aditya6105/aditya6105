@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person spends 12 weeks a year `looking for things`.<!-- END FACT -->**
+**<!-- START FACT -->Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.<!-- END FACT -->**
