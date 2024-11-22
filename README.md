@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aditya.rajx77x@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/195v-P4ZZONWK45q4iqyUHMd_wwlDZync/view?usp=drive_link)
+- 📄 Know about my experiences [resume](_link)
 
 - ⚡ Fun fact **“It works on my machine” is my only excuse**
 
