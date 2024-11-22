@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most dust particles in your house are made from dead skin.<!-- END FACT -->**
+**<!-- START FACT -->There are 1 million ants for every human in the world.<!-- END FACT -->**
