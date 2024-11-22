@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 1 million ants for every human in the world.<!-- END FACT -->**
+**<!-- START FACT -->The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.<!-- END FACT -->**
