@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every time you lick a stamp, you consume 1/10 of a calorie.<!-- END FACT -->**
+**<!-- START FACT -->In every episode of Seinfeld there is a Superman somewhere.<!-- END FACT -->**
