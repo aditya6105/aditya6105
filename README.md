@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.<!-- END FACT -->**
+**<!-- START FACT -->3.6 cans of Spam are consumed each second.<!-- END FACT -->**
