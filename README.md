@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."<!-- END FACT -->**
+**<!-- START FACT -->The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  <!-- END FACT -->**
