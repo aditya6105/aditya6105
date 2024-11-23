@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Pinocchio is Italian for "pine head."<!-- END FACT -->**
+**<!-- START FACT -->Tigers not only have striped fur, they have striped skin!<!-- END FACT -->**
