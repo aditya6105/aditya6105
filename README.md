@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average number of people airborne over the US any given hour: 61,000.<!-- END FACT -->**
+**<!-- START FACT -->Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.<!-- END FACT -->**
