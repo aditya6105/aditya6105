@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It is illegal to eat oranges while bathing in California.<!-- END FACT -->**
+**<!-- START FACT -->38% of American men say they love their cars more than women<!-- END FACT -->**
