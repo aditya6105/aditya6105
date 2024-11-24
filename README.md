@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Iceland consumes more Coca-Cola per capita than any other nation.<!-- END FACT -->**
+**<!-- START FACT -->The ant always falls over on its right side when intoxicated.<!-- END FACT -->**
