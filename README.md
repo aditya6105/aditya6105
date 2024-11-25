@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->`Stewardesses` is the longest word that is typed with only the left hand.<!-- END FACT -->**
+**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->`Stewardesses` is the longest word that is typed with only the left hand.<!-- END FACT --> Cancer.<!-- END FACT -->**
