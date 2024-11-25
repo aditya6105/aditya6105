@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mr. Rogers is an ordained minister.<!-- END FACT -->**
+**<!-- START FACT -->The giant squid has the largest eyes in the world.<!-- END FACT -->**
