@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is approximately one chicken for every human being in the world.<!-- END FACT -->**
+**<!-- START FACT -->The S in Harry S. Truman did not stand for anything.<!-- END FACT -->**
