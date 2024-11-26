@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dolphins sleep with one eye open!<!-- END FACT -->**
+**<!-- START FACT -->Prince Charles is an avid collecter of toilet seats.<!-- END FACT -->**
