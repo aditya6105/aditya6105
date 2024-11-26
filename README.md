@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Humans are the only primates that don`t have pigment in the palms of their hands.<!-- END FACT -->**
+**<!-- START FACT -->Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.<!-- END FACT -->**
