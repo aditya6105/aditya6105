@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.<!-- END FACT -->**
+**<!-- START FACT -->In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.<!-- END FACT -->**
