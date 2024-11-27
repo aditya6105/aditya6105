@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average number of people airborne over the US any given hour: 61,000.<!-- END FACT -->**
+**<!-- START FACT -->Only one person in two billion will live to be 116 or older.<!-- END FACT -->**
