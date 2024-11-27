@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first contraceptive was crocodile dung used by the ancient Egyptians.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends 6 months of their life sitting at red lights.<!-- END FACT -->**
