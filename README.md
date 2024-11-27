@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 1,575 steps from the ground floor to the top of the Empire State building.<!-- END FACT -->**
+**<!-- START FACT -->101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.<!-- END FACT -->**
