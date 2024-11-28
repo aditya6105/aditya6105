@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.<!-- END FACT -->**
+**<!-- START FACT -->Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.<!-- END FACT -->**
