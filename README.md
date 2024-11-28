@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Chewing gum while peeling onions will keep you from crying.<!-- END FACT -->**
+**<!-- START FACT -->There are 336 dimples on a regulation golf ball.<!-- END FACT -->**
