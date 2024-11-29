@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The HyperMart outside of Garland Texas has 58 check-outs.<!-- END FACT -->**
+**<!-- START FACT -->Thirty-five percent of people who use personal ads for dating are already married.<!-- END FACT -->**
