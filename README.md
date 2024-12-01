@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.<!-- END FACT -->**
+**<!-- START FACT -->Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  <!-- END FACT -->**
