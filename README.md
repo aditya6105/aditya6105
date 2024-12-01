@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->`Obsession` is the most popular boat name.<!-- END FACT -->**
+**<!-- START FACT -->The S in Harry S. Truman did not stand for anything.<!-- END FACT -->**
