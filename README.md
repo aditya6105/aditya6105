@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.<!-- END FACT -->**
+**<!-- START FACT -->South Dakota is the only U.S state which shares no letters with the name of it`s capital<!-- END FACT -->**
