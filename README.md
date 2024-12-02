@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mount Olympus Mons on Mars is three times the size of Mount Everest.<!-- END FACT -->**
+**<!-- START FACT -->The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."<!-- END FACT -->**
