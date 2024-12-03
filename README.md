@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  <!-- END FACT -->**
+**<!-- START FACT -->It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.<!-- END FACT -->**
