@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."<!-- END FACT -->**
+**<!-- START FACT -->Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates<!-- END FACT -->**
