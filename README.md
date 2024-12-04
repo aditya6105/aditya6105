@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.<!-- END FACT -->**
+**<!-- START FACT -->It has NEVER rained in Calama, a town in the Atacama Desert of Chile.<!-- END FACT -->**
