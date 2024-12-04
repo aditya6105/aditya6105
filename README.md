@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The most common name in world is Mohammed.<!-- END FACT -->**
+**<!-- START FACT -->60% of electrocutions occur while talking on the telephone during a thunderstorm.<!-- END FACT -->**
