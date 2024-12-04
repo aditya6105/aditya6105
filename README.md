@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Chewing gum while peeling onions will keep you from crying.<!-- END FACT -->**
+**<!-- START FACT -->Barbie`s measurements, if she were life-size, would be 39-29-33.<!-- END FACT -->**
