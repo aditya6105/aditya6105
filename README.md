@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->2,000 pounds of space dust and other space debris fall on the Earth every day.<!-- END FACT -->**
+**<!-- START FACT -->Oak trees do not produce acorns until they are fifty years of age or older.<!-- END FACT -->**
