@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average number of days a West German goes without washing his underwear: 7<!-- END FACT -->**
+**<!-- START FACT -->Donald Duck comics were banned from Finland because he doesn`t wear pants!<!-- END FACT -->**
