@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".<!-- END FACT -->**
+**<!-- START FACT -->On the ground, a group of geese is a gaggle, in the sky it is a skein.<!-- END FACT -->**
