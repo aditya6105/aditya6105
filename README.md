@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  <!-- END FACT -->**
+**<!-- START FACT -->The average North American will eat 35,000 cookies during their life span.<!-- END FACT -->**
