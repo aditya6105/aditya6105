@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name for Oz in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name "OZ."<!-- END FACT -->**
+**<!-- START FACT -->Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.<!-- END FACT -->**
