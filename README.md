@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first contraceptive was crocodile dung used by the ancient Egyptians.<!-- END FACT -->**
+**<!-- START FACT -->There were always 56 curls in Shirley Temple`s hair.<!-- END FACT -->**
