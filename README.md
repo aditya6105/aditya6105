@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`<!-- END FACT -->**
+**<!-- START FACT -->Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.<!-- END FACT -->**
