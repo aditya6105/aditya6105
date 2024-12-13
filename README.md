@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Men can read smaller print than women; women can hear better.<!-- END FACT -->**
+**<!-- START FACT -->3.9% of all women do not wear underwear.<!-- END FACT -->**
