@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the last 4000 years, no new animals have been domesticated.<!-- END FACT -->**
+**<!-- START FACT -->The Human eyes never grow, but nose and ears never stop growing.<!-- END FACT -->**
