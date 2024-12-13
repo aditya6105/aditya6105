@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Leonardo Da Vinci invented the scissors.<!-- END FACT -->**
+**<!-- START FACT -->In the last 4000 years, no new animals have been domesticated.<!-- END FACT -->**
