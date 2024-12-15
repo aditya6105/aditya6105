@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->3.9% of all women do not wear underwear.<!-- END FACT -->**
+**<!-- START FACT -->In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.<!-- END FACT -->**
