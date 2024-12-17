@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->400-quarter pounders can be made from 1 cow.<!-- END FACT -->**
+**<!-- START FACT -->You were born with 300 bones, but by the time you are an adult you will only have 206.<!-- END FACT -->**
