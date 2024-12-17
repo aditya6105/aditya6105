@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Peanuts are one of the ingredients of dynamite.<!-- END FACT -->**
+**<!-- START FACT -->Average number of people airborne over the US any given hour: 61,000.<!-- END FACT -->**
