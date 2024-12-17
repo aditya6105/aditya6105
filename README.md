@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word Pennsylvania is misspelled on the Liberty Bell.<!-- END FACT -->**
+**<!-- START FACT -->Lawn darts are illegal in Canada.<!-- END FACT -->**
