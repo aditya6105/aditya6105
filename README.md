@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.<!-- END FACT -->**
+**<!-- START FACT -->Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.<!-- END FACT -->**
