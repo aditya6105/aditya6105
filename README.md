@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A pig`s orgasm lasts for 30 minutes.<!-- END FACT -->**
+**<!-- START FACT -->A giraffe can go without water longer than a camel.<!-- END FACT -->**
