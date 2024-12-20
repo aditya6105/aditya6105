@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the Philippine jungle, the yo-yo was first used as a weapon.<!-- END FACT -->**
+**<!-- START FACT -->Tigers not only have striped fur, they have striped skin!<!-- END FACT -->**
