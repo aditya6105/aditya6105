@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Vermont, the ratio of cows to people is 10:1<!-- END FACT -->**
+**<!-- START FACT -->Half of all Americans live within 50 miles of their birthplace.<!-- END FACT -->**
