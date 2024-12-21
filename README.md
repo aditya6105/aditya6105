@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It is illegal to eat oranges while bathing in California.<!-- END FACT -->**
+**<!-- START FACT -->The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.<!-- END FACT -->**
