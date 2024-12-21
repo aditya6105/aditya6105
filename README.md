@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.<!-- END FACT -->**
+**<!-- START FACT -->The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.<!-- END FACT -->**
