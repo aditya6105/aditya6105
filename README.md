@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person spends about two years on the phone in a lifetime.<!-- END FACT -->**
+**<!-- START FACT -->If the population of China walked past you in single file, the line would never end because of the rate of reproduction.<!-- END FACT -->**
