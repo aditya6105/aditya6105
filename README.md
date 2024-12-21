@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.<!-- END FACT -->**
+**<!-- START FACT -->5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.<!-- END FACT -->**
