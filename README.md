@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Honeybees have a type of hair on their eyes!<!-- END FACT -->**
+**<!-- START FACT -->The sweat drops drawn in cartoon comic strips are called pleuts.<!-- END FACT -->**
