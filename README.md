@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Poland is the "stolen car capital of the world".<!-- END FACT -->**
+**<!-- START FACT -->A standard slinky measures 87 feet when stretched out.<!-- END FACT -->**
