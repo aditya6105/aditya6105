@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  <!-- END FACT -->**
+**<!-- START FACT -->Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.<!-- END FACT -->**
