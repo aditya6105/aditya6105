@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Virginia Woolf wrote all her books standing.<!-- END FACT -->**
+**<!-- START FACT -->It has been estimated that humans use only 10% of their brain.<!-- END FACT -->**
