@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.<!-- END FACT -->**
+**<!-- START FACT -->101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.<!-- END FACT -->**
