@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The giant squid has the largest eyes in the world.<!-- END FACT -->**
+**<!-- START FACT -->Over 60% of all those who marry get divorced.<!-- END FACT -->**
