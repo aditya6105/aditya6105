@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth<!-- END FACT -->**
+**<!-- START FACT -->A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`<!-- END FACT -->**
