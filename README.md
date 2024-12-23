@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.<!-- END FACT -->**
+**<!-- START FACT -->It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.<!-- END FACT -->**
