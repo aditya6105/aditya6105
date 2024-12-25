@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In The Empire Strikes Back there is a potato hidden in the asteroid field<!-- END FACT -->**
+**<!-- START FACT -->Golf courses cover 4% of North America.<!-- END FACT -->**
