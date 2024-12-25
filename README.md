@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000<!-- END FACT -->**
+**<!-- START FACT -->In the White House, there are 13,092 knives, forks and spoons!<!-- END FACT -->**
