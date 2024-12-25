@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.<!-- END FACT -->**
+**<!-- START FACT -->In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.<!-- END FACT -->**
