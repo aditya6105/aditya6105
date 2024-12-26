@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dr. Jack Kevorkian first patient has Alzheimer`s disease.<!-- END FACT -->**
+**<!-- START FACT -->Venus is the only planet that rotates clockwise.<!-- END FACT -->**
