@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ants closely resemble human manners:  When they wake, they stretch <!-- START FACT -->The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.<!-- END FACT --> appear to yawn in a human manner before taking up the tasks of the day.<!-- END FACT -->**
+**<!-- START FACT -->Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.<!-- END FACT -->**
