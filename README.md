@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 293 ways to make change for a dollar.<!-- END FACT -->**
+**<!-- START FACT -->In most advertisements, including newspapers, the time displayed on a watch is 10:10.<!-- END FACT -->**
