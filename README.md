@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Giraffes have no vocal cords.<!-- END FACT -->**
+**<!-- START FACT -->There are no clocks in Las Vegas gambling casinos.<!-- END FACT -->**
