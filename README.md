@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person`s left hand does 56% of the typing.<!-- END FACT -->**
+**<!-- START FACT -->The average North American will eat 35,000 cookies during their life span.<!-- END FACT -->**
