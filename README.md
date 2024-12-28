@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A `jiffy` is a unit of time for 1/100th of a second.<!-- END FACT -->**
+**<!-- START FACT -->It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.<!-- END FACT -->**
