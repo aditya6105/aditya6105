@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Canada makes up 6.67 percent of the Earth`s land area<!-- END FACT -->**
+**<!-- START FACT -->Length of beard an average man would grow if he never shaved 27.5 feet<!-- END FACT -->**
