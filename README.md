@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Each month, there is at least one report of UFOs from each province of Canada.<!-- END FACT -->**
+**<!-- START FACT -->The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.<!-- END FACT -->**
