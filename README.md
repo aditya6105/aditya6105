@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->South Dakota is the only U.S state which shares no letters with the name of it`s capital<!-- END FACT -->**
+**<!-- START FACT -->The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.<!-- END FACT -->**
