@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.<!-- END FACT -->**
+**<!-- START FACT -->In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.<!-- END FACT -->**
