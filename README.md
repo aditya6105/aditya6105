@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If Texas were a country, its GNP would be the fifth largest of any country in the world.<!-- END FACT -->**
+**<!-- START FACT -->Honeybees have a type of hair on their eyes!<!-- END FACT -->**
