@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Barbie`s measurements, if she were life-size, would be 39-29-33.<!-- END FACT -->**
+**<!-- START FACT -->There are 269 steps to the top of the Leaning Tower of Pisa<!-- END FACT -->**
