@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A horse can look forward with one eye and back with the other.<!-- END FACT -->**
+**<!-- START FACT -->In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.<!-- END FACT -->**
