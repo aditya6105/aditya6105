@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->%60 of all people using the Internet, use it for pornography.<!-- END FACT -->**
+**<!-- START FACT -->A dime has 118 ridges around the edge.<!-- END FACT -->**
