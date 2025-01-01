@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sperm of a mouse is actually longer than the sperm of an elephant.<!-- END FACT -->**
+**<!-- START FACT -->The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.<!-- END FACT -->**
