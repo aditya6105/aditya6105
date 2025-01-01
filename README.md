@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every time you lick a stamp, you consume 1/10 of a calorie.<!-- END FACT -->**
+**<!-- START FACT -->A pig`s orgasm lasts for 30 minutes.<!-- END FACT -->**
