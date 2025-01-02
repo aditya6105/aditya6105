@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.<!-- END FACT -->**
+**<!-- START FACT -->If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.<!-- END FACT -->**
