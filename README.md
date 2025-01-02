@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->400-quarter pounders can be made from 1 cow.<!-- END FACT -->**
+**<!-- START FACT -->The average lifespan of an eyelash is five months.<!-- END FACT -->**
