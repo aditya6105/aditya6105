@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->40,000 Americans are injured by toilets each year.<!-- END FACT -->**
+**<!-- START FACT -->Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.<!-- END FACT -->**
