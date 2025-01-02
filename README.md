@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The ant always falls over on its right side when intoxicated.<!-- END FACT -->**
+**<!-- START FACT -->It is illegal to eat oranges while bathing in California.<!-- END FACT -->**
