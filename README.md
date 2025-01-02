@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.<!-- END FACT -->**
+**<!-- START FACT -->Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.<!-- END FACT -->**
