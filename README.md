@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Because of the rotation of the earth, an object can be thrown farther if it is thrown west.<!-- END FACT -->**
+**<!-- START FACT -->Camels have three eyelids to protect themselves from blowing sand!<!-- END FACT -->**
