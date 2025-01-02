@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lawn darts are illegal in Canada.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends 12 weeks a year `looking for things`.<!-- END FACT -->**
