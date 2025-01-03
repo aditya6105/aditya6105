@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->3.9% of all women do not wear underwear.<!-- END FACT -->**
+**<!-- START FACT -->Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.<!-- END FACT -->**
