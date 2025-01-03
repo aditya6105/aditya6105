@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name of all continents in the world end with the same letter that they start with.<!-- END FACT -->**
+**<!-- START FACT -->Average life span of a major league baseball: 7 pitches.<!-- END FACT -->**
