@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cats have over one hundred vocal sounds, while dogs only have about ten.<!-- END FACT -->**
+**<!-- START FACT -->The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.<!-- END FACT -->**
