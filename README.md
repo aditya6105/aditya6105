@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Napoleon`s penis was sold to an American Urologist for $40,000.<!-- END FACT -->**
+**<!-- START FACT -->A piece of paper can be folded no more then 9 times.<!-- END FACT -->**
