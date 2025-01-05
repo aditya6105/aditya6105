@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->Daffy Duck`s middle name is "Dumas"<!-- END FACT -->**
