@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word "samba" means "to rub navels together."<!-- END FACT -->**
+**<!-- START FACT -->Elephants are the only animals that can`t jump.<!-- END FACT -->**
