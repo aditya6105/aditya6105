@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.<!-- END FACT -->**
+**<!-- START FACT -->Most Egyptians died by the time they were 30 about 300 years ago,<!-- END FACT -->**
