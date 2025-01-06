@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.<!-- END FACT -->**
+**<!-- START FACT -->The average American/Canadian will eat about 11.9 pounds of cereal per year!<!-- END FACT -->**
