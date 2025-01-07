@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hong Kong holds the most Rolls Royce’s per capita.<!-- END FACT -->**
+**<!-- START FACT -->The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.<!-- END FACT -->**
