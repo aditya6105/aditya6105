@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Owls are one of the only birds who can see the color blue!<!-- END FACT -->**
+**<!-- START FACT -->You spend 7 years of your life in the bathroom.<!-- END FACT -->**
