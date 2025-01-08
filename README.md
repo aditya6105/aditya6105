@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.<!-- END FACT -->**
+**<!-- START FACT -->Telly Savalas and Louis Armstrong died on their birthdays.  <!-- END FACT -->**
