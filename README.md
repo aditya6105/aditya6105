@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word Pennsylvania is misspelled on the Liberty Bell.<!-- END FACT -->**
+**<!-- START FACT -->A horse can look forward with one eye and back with the other.<!-- END FACT -->**
