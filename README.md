@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word "samba" means "to rub navels together."<!-- END FACT -->**
+**<!-- START FACT -->Almonds are a member of the peach family.<!-- END FACT -->**
