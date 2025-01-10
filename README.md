@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person spends 6 months of their life sitting at red lights.<!-- END FACT -->**
+**<!-- START FACT -->Dr. Jack Kevorkian first patient has Alzheimer`s disease.<!-- END FACT -->**
