@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->3.6 cans of Spam are consumed each second.<!-- END FACT -->**
+**<!-- START FACT -->On average, Americans eat 18 acres of pizza everyday.<!-- END FACT -->**
