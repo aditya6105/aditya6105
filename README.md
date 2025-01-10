@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  <!-- END FACT -->**
+**<!-- START FACT -->Giraffes have no vocal cords.<!-- END FACT -->**
