@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An ostrich`s eye is bigger than its brain.  <!-- END FACT -->**
+**<!-- START FACT -->There are 269 steps to the top of the Leaning Tower of Pisa<!-- END FACT -->**
