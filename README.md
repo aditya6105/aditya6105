@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you went out into space, you would explode before you suffocated because there`s no air pressure.<!-- END FACT -->**
+**<!-- START FACT -->The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  <!-- END FACT -->**
