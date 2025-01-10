@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.<!-- END FACT -->**
+**<!-- START FACT -->Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.<!-- END FACT -->**
