@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sweat drops drawn in cartoon comic strips are called pleuts.<!-- END FACT -->**
+**<!-- START FACT -->40,000 Americans are injured by toilets each year.<!-- END FACT -->**
