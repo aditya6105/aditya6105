@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In The Empire Strikes Back there is a potato hidden in the asteroid field<!-- END FACT -->**
+**<!-- START FACT -->Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.<!-- END FACT -->**
