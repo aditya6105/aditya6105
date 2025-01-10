@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rubber bands last longer when refrigerated.  <!-- END FACT -->**
+**<!-- START FACT -->In the last 4000 years, no new animals have been domesticated.<!-- END FACT -->**
