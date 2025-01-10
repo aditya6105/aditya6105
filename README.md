@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  <!-- END FACT -->**
+**<!-- START FACT -->There were always 56 curls in Shirley Temple`s hair.<!-- END FACT -->**
