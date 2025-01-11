@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Donald Duck comics were banned from Finland because he doesn`t wear pants!<!-- END FACT -->**
+**<!-- START FACT -->The first owner of the Marlboro company died of lung cancer.<!-- END FACT -->**
