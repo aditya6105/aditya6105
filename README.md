@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 269 steps to the top of the Leaning Tower of Pisa<!-- END FACT -->**
+**<!-- START FACT -->The buzz from an electric razor in America plays in the key of B flat; Key of G in England.<!-- END FACT -->**
