@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hong Kong holds the most Rolls Royce’s per capita.<!-- END FACT -->**
+**<!-- START FACT -->If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.<!-- END FACT -->**
