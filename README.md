@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average number of people airborne over the US any given hour: 61,000.<!-- END FACT -->**
+**<!-- START FACT -->Each month, there is at least one report of UFOs from each province of Canada.<!-- END FACT -->**
