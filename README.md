@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every acre of American crops harvested contains 100 pounds of insects.<!-- END FACT -->**
+**<!-- START FACT -->Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.<!-- END FACT -->**
