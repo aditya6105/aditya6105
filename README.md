@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Intelligent people have more zinc and copper in their hair.<!-- END FACT -->**
+**<!-- START FACT -->"Dreamt" is the only English word that ends in the letters "mt."<!-- END FACT -->**
