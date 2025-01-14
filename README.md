@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tigers not only have striped fur, they have striped skin!<!-- END FACT -->**
+**<!-- START FACT -->Shakespeare is quoted 33,150 times in the Oxford English dictionary.<!-- END FACT -->**
