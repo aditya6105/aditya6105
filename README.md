@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A Boeing 747`s wingspan is longer than the Wright brother`s first flight.<!-- END FACT -->**
+**<!-- START FACT -->In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.<!-- END FACT -->**
