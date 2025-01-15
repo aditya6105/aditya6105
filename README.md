@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Annual growth of WWW traffic is 314,000%<!-- END FACT -->**
+**<!-- START FACT -->The human heart creates enough pressure to squirt blood 30ft.<!-- END FACT -->**
