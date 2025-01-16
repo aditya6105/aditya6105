@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A pig`s orgasm lasts for 30 minutes.<!-- END FACT -->**
+**<!-- START FACT -->Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.<!-- END FACT -->**
