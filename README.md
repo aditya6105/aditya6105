@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->70% of all boats sold are used for fishing.<!-- END FACT -->**
+**<!-- START FACT -->A pig`s orgasm lasts for 30 minutes.<!-- END FACT -->**
