@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Miconesia, coins are 12 feet across.<!-- END FACT -->**
+**<!-- START FACT -->One third of all cancers are sun related.<!-- END FACT -->**
