@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women<!-- END FACT -->**
+**<!-- START FACT -->In Miconesia, coins are 12 feet across.<!-- END FACT -->**
