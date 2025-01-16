@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.<!-- END FACT -->**
+**<!-- START FACT -->Mount Olympus Mons on Mars is three times the size of Mount Everest.<!-- END FACT -->**
