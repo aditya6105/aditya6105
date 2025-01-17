@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.<!-- END FACT -->**
+**<!-- START FACT -->If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.<!-- END FACT -->**
