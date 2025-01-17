@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word "set" has more definitions than any other word in the English language.<!-- END FACT -->**
+**<!-- START FACT -->Only 6 people in the whole world have died from moshing.<!-- END FACT -->**
