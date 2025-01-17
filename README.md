@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average American/Canadian will eat about 11.9 pounds of cereal per year!<!-- END FACT -->**
+**<!-- START FACT -->The longest word comprised of one row on the keyboard is: TYPEWRITER<!-- END FACT -->**
