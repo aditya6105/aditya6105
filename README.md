@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.<!-- END FACT -->**
+**<!-- START FACT -->The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)<!-- END FACT -->**
