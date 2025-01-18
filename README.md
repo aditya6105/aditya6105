@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->The average person spends 12 weeks a year `looking for things`.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->Ten percent of the Russian government`s income comes from the sale of vodka.<!-- END FACT -->**
