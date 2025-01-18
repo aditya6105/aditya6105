@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->100% of lottery winners do gain weight<!-- END FACT -->**
+**<!-- START FACT -->On average, Americans eat 18 acres of pizza everyday.<!-- END FACT -->**
