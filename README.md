@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Owls are one of the only birds who can see the color blue!<!-- END FACT -->**
+**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->Owls are one of the only birds who can see the color blue!<!-- END FACT --> Cancer.<!-- END FACT -->**
