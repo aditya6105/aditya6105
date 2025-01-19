@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 1986 Congress <!-- START FACT -->The average person spends 12 weeks a year `looking for things`.<!-- END FACT --> President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.<!-- END FACT -->**
+**<!-- START FACT -->Until 1994, world maps and globes sold in Albania only had Albania on them.<!-- END FACT -->**
