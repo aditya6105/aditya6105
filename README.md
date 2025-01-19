@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.<!-- END FACT -->**
+**<!-- START FACT -->All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.<!-- END FACT -->**
