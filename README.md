@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Leonardo Da Vinci invented the scissors.<!-- END FACT -->**
+**<!-- START FACT -->Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.<!-- END FACT -->**
