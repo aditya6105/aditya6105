@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.<!-- END FACT -->**
+**<!-- START FACT -->When a Hawaiian woman wears a flower over her left ear, it means that she is not available.<!-- END FACT -->**
