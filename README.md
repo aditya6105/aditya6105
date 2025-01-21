@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In every episode of Seinfeld there is a Superman somewhere.<!-- END FACT -->**
+**<!-- START FACT -->The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.<!-- END FACT -->**
