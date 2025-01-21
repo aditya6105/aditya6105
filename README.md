@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average American butt is 14.9 inches long.<!-- END FACT -->**
+**<!-- START FACT -->Lawn darts are illegal in Canada.<!-- END FACT -->**
