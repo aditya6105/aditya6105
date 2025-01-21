@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Leonardo Da Vinci invented the scissors.<!-- END FACT -->**
+**<!-- START FACT -->Poland is the "stolen car capital of the world".<!-- END FACT -->**
