@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.<!-- END FACT -->**
+**<!-- START FACT -->Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.<!-- END FACT -->**
