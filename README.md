@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Canada makes up 6.67 percent of the Earth`s land area<!-- END FACT -->**
+**<!-- START FACT -->Iceland consumes more Coca-Cola per capita than any other nation.<!-- END FACT -->**
