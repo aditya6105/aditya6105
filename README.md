@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 1,575 steps from the ground floor to the top of the Empire State building.<!-- END FACT -->**
+**<!-- START FACT -->Leonardo da Vinci could write with one hand while drawing with the other<!-- END FACT -->**
