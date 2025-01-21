@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Napoleon`s penis was sold to an American Urologist for $40,000.<!-- END FACT -->**
+**<!-- START FACT -->In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)<!-- END FACT -->**
