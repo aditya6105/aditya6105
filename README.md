@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Leonardo da Vinci could write with one hand while drawing with the other<!-- END FACT -->**
+**<!-- START FACT -->The average American butt is 14.9 inches long.<!-- END FACT -->**
