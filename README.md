@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.<!-- END FACT -->**
+**<!-- START FACT -->Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.<!-- END FACT -->**
