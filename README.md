@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A whale`s penis is called a dork.<!-- END FACT -->**
+**<!-- START FACT -->Deborah Winger did the voice of E.T.<!-- END FACT -->**
