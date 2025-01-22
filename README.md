@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cat has 32 muscles in each ear.<!-- END FACT -->**
+**<!-- START FACT -->There are 1,792 steps in the Eiffel Tower<!-- END FACT -->**
