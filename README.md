@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Reindeer like to eat bananas.<!-- END FACT -->**
+**<!-- START FACT -->A whale`s penis is called a dork.<!-- END FACT -->**
