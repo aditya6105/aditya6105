@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.<!-- END FACT -->**
+**<!-- START FACT -->In the Philippine jungle, the yo-yo was first used as a weapon.<!-- END FACT -->**
