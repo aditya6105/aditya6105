@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Meteorologists claim they`re right 85% of the time (think about that one!)<!-- END FACT -->**
+**<!-- START FACT -->%60 of all people using the Internet, use it for pornography.<!-- END FACT -->**
