@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Non-dairy creamer is flammable.<!-- END FACT -->**
+**<!-- START FACT -->The average person will accidentally eat just under a pound of insects every year.<!-- END FACT -->**
