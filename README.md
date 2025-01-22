@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every time you lick a stamp, you consume 1/10 of a calorie.<!-- END FACT -->**
+**<!-- START FACT -->Dueling is legal in Paraguay as long as both parties are registered blood donors.<!-- END FACT -->**
