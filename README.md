@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If Texas were a country, its GNP would be the fifth largest of any country in the world.<!-- END FACT -->**
+**<!-- START FACT -->Canada makes up 6.67 percent of the Earth`s land area<!-- END FACT -->**
