@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.<!-- END FACT -->**
+**<!-- START FACT -->The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  <!-- END FACT -->**
