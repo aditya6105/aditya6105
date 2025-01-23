@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A pregnant goldfish is called a twit.<!-- END FACT -->**
+**<!-- START FACT -->There are no clocks in Las Vegas gambling casinos.<!-- END FACT -->**
