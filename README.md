@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are no clocks in Las Vegas gambling casinos.<!-- END FACT -->**
+**<!-- START FACT -->1 in every 4 Americans has appeared someway or another on television.<!-- END FACT -->**
