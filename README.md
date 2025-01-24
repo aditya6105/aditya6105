@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"I am." is the shortest complete sentence in the English language.<!-- END FACT -->**
+**<!-- START FACT -->Most Egyptians died by the time they were 30 about 300 years ago,<!-- END FACT -->**
