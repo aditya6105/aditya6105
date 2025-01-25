@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Van Gogh only sold one painting when he was alive.<!-- END FACT -->**
+**<!-- START FACT -->There were always 56 curls in Shirley Temple`s hair.<!-- END FACT -->**
