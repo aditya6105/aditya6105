@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, Americans eat 18 acres of pizza everyday.<!-- END FACT -->**
+**<!-- START FACT -->No word in the English language rhymes with month, orange, silver and purple.<!-- END FACT -->**
