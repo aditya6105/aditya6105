@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Elephants are the only animals that can`t jump.<!-- END FACT -->**
+**<!-- START FACT -->The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.<!-- END FACT -->**
