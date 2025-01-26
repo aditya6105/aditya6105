@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the 1980`s American migraines increased by 60%.<!-- END FACT -->**
+**<!-- START FACT -->Tigers not only have striped fur, they have striped skin!<!-- END FACT -->**
