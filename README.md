@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Recycling one glass jar, saves enough energy to watch T.V for 3 hours!<!-- END FACT -->**
+**<!-- START FACT -->If a rooster can`t fully extend its neck, it can`t crow.<!-- END FACT -->**
