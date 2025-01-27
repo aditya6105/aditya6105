@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.<!-- END FACT -->**
+**<!-- START FACT -->CBS` "60 Minutes" is the only TV show without a theme song/music.<!-- END FACT -->**
