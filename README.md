@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.<!-- END FACT -->**
+**<!-- START FACT -->A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."<!-- END FACT -->**
