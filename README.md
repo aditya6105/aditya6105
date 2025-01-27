@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->400-quarter pounders can be made from 1 cow.<!-- END FACT -->**
+**<!-- START FACT -->The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!<!-- END FACT -->**
