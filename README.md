@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lawn darts are illegal in Canada.<!-- END FACT -->**
+**<!-- START FACT -->A standard slinky measures 87 feet when stretched out.<!-- END FACT -->**
