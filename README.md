@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.<!-- END FACT -->**
+**<!-- START FACT -->Because of the rotation of the earth, an object can be thrown farther if it is thrown west.<!-- END FACT -->**
