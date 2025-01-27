@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->The average American looks at eight houses before buying one.<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.<!-- END FACT -->**
