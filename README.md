@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.<!-- END FACT -->**
+**<!-- START FACT -->In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.<!-- END FACT -->**
