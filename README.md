@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Some lions mate over 50 times a day.<!-- END FACT -->**
+**<!-- START FACT -->Intelligent people have more zinc and copper in their hair.<!-- END FACT -->**
