@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A crocodile cannot stick its tongue out.<!-- END FACT -->**
+**<!-- START FACT -->Ninety percent of all species that have become extinct have been birds.<!-- END FACT -->**
