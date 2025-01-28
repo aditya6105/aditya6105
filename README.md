@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.<!-- END FACT -->**
+**<!-- START FACT -->Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  <!-- END FACT -->**
