@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Simplistic passwords contribute to over 80% of all computer password break-ins.<!-- END FACT -->**
+**<!-- START FACT -->The name of the girl on the statue of liberty is Mother of Exiles.<!-- END FACT -->**
