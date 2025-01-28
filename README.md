@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word "samba" means "to rub navels together."<!-- END FACT -->**
+**<!-- START FACT -->Some lions mate over 50 times a day.<!-- END FACT -->**
