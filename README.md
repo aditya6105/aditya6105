@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Dreamt" is the only English word that ends in the letters "mt."<!-- END FACT -->**
+**<!-- START FACT -->The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.<!-- END FACT -->**
