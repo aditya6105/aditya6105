@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The king of hearts is the only king without a mustache.<!-- END FACT -->**
+**<!-- START FACT -->You can`t kill yourself by holding your breath.  <!-- END FACT -->**
