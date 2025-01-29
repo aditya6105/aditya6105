@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.<!-- END FACT -->**
+**<!-- START FACT -->Meteorologists claim they`re right 85% of the time (think about that one!)<!-- END FACT -->**
