@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average woman consumes 6 lbs of lipstick in her lifetime.<!-- END FACT -->**
+**<!-- START FACT -->In the average lifetime, a person will walk the equivalent of 5 times around the equator.<!-- END FACT -->**
