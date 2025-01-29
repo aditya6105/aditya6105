@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->400-quarter pounders can be made from 1 cow.<!-- END FACT -->**
+**<!-- START FACT -->The king of hearts is the only king without a mustache.<!-- END FACT -->**
