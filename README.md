@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cat has 32 muscles in each ear.<!-- END FACT -->**
+**<!-- START FACT -->A goldfish has a memory span of three seconds.  <!-- END FACT -->**
