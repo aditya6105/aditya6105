@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A giraffe can go without water longer than a camel.<!-- END FACT -->**
+**<!-- START FACT -->Daffy Duck`s middle name is "Dumas"<!-- END FACT -->**
