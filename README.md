@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tigers not only have striped fur, they have striped skin!<!-- END FACT -->**
+**<!-- START FACT -->Van Gogh only sold one painting when he was alive.<!-- END FACT -->**
