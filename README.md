@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person spends 12 weeks a year `looking for things`.<!-- END FACT -->**
+**<!-- START FACT -->Tigers not only have striped fur, they have striped skin!<!-- END FACT -->**
