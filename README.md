@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can sail all the way around the world at latitude 60 degrees south.<!-- END FACT -->**
+**<!-- START FACT -->If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.<!-- END FACT -->**
