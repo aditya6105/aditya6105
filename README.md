@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dueling is legal in Paraguay as long as both parties are registered blood donors.<!-- END FACT -->**
+**<!-- START FACT -->Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.<!-- END FACT -->**
