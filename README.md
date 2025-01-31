@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates<!-- END FACT -->**
+**<!-- START FACT -->A horse can look forward with one eye and back with the other.<!-- END FACT -->**
