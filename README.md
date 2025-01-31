@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  <!-- END FACT -->**
+**<!-- START FACT -->Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.<!-- END FACT -->**
