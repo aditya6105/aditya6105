@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)<!-- END FACT -->**
+**<!-- START FACT -->It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.<!-- END FACT -->**
