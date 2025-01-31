@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.<!-- END FACT -->**
+**<!-- START FACT -->There are 1 million ants for every human in the world.<!-- END FACT -->**
