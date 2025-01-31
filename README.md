@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.<!-- END FACT -->**
+**<!-- START FACT -->There are 1 million ants for every human in the world.<!-- END FACT -->**
