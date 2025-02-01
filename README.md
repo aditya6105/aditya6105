@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In every episode of Seinfeld there is a Superman somewhere.<!-- END FACT -->**
+**<!-- START FACT -->A whale`s penis is called a dork.<!-- END FACT -->**
