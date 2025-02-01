@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the White House, there are 13,092 knives, forks and spoons!<!-- END FACT -->**
+**<!-- START FACT -->Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. <!-- END FACT -->**
