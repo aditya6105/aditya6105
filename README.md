@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Iceland consumes more Coca-Cola per capita than any other nation.<!-- END FACT -->**
+**<!-- START FACT -->Shakespeare is quoted 33,150 times in the Oxford English dictionary.<!-- END FACT -->**
