@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Kelsey Grammar sings and plays the piano for the theme song of Fraiser.<!-- END FACT -->**
+**<!-- START FACT -->Van Gogh only sold one painting when he was alive.<!-- END FACT -->**
