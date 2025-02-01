@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.<!-- END FACT -->**
+**<!-- START FACT -->In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)<!-- END FACT -->**
