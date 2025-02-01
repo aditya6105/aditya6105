@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The praying mantis is the only insect that can turn its head<!-- END FACT -->**
+**<!-- START FACT -->In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.<!-- END FACT -->**
