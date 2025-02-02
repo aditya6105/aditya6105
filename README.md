@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  <!-- END FACT -->**
+**<!-- START FACT -->"Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.<!-- END FACT -->**
