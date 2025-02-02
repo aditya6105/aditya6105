@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A jellyfish is 95 percent water!<!-- END FACT -->**
+**<!-- START FACT -->Only 6 people in the whole world have died from moshing.<!-- END FACT -->**
