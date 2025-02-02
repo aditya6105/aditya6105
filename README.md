@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A horse can look forward with one eye and back with the other.<!-- END FACT -->**
+**<!-- START FACT -->Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.<!-- END FACT -->**
