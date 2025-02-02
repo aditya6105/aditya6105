@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bats always turn left when exiting a cave<!-- END FACT -->**
+**<!-- START FACT -->China has more English speakers than the United States.<!-- END FACT -->**
