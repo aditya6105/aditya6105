@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->February 1865 is the only month in recorded history not to have a full moon.<!-- END FACT -->**
+**<!-- START FACT -->Ants closely resemble human manners:  When they wake, they stretch <!-- START FACT -->February 1865 is the only month in recorded history not to have a full moon.<!-- END FACT --> appear to yawn in a human manner before taking up the tasks of the day.<!-- END FACT -->**
