@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->3.9% of all women do not wear underwear.<!-- END FACT -->**
+**<!-- START FACT -->The U.S. military operates 234 golf courses<!-- END FACT -->**
