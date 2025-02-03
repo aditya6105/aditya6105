@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->You were born with 300 bones, but by the time you are an adult you will only have 206.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->Only one person in two billion will live to be 116 or older.<!-- END FACT -->**
