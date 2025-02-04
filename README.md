@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ants closely resemble human manners:  When they wake, they stretch <!-- START FACT -->Between 25% and 33% of the population sneeze when exposed to light.<!-- END FACT --> appear to yawn in a human manner before taking up the tasks of the day.<!-- END FACT -->**
+**<!-- START FACT -->In most advertisements, including newspapers, the time displayed on a watch is 10:10.<!-- END FACT -->**
