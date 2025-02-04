@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.<!-- END FACT -->**
+**<!-- START FACT -->It is illegal to eat oranges while bathing in California.<!-- END FACT -->**
