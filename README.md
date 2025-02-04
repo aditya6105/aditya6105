@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.<!-- END FACT -->**
+**<!-- START FACT -->There are 293 ways to make change for a dollar.<!-- END FACT -->**
