@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Until 1994, world maps and globes sold in Albania only had Albania on them.<!-- END FACT -->**
+**<!-- START FACT -->Most Egyptians died by the time they were 30 about 300 years ago,<!-- END FACT -->**
