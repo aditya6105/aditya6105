@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.<!-- END FACT -->**
+**<!-- START FACT -->If a rooster can`t fully extend its neck, it can`t crow.<!-- END FACT -->**
