@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Elephants are the only animals that can`t jump.<!-- END FACT -->**
+**<!-- START FACT -->The Human eyes never grow, but nose and ears never stop growing.<!-- END FACT -->**
