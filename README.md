@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.<!-- END FACT -->**
+**<!-- START FACT -->Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.<!-- END FACT -->**
