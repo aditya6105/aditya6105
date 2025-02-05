@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Starfish haven`t got brains.<!-- END FACT -->**
+**<!-- START FACT -->Coca-Cola was originally green.<!-- END FACT -->**
