@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Each of us generates about 3.5 pounds of rubbish a day, most of it paper.<!-- END FACT -->**
+**<!-- START FACT -->The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.<!-- END FACT -->**
