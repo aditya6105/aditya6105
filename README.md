@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Honey is the only food which does not spoil.<!-- END FACT -->**
+**<!-- START FACT -->Ten percent of the Russian government`s income comes from the sale of vodka.<!-- END FACT -->**
