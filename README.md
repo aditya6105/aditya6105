@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->70% of all boats sold are used for fishing.<!-- END FACT -->**
+**<!-- START FACT -->The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."<!-- END FACT -->**
