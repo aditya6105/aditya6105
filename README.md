@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mount Olympus Mons on Mars is three times the size of Mount Everest.<!-- END FACT -->**
+**<!-- START FACT -->If a rooster can`t fully extend its neck, it can`t crow.<!-- END FACT -->**
