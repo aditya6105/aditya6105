@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If done perfectly, a rubix cube combination can be solved in 17 turns.<!-- END FACT -->**
+**<!-- START FACT -->Every acre of American crops harvested contains 100 pounds of insects.<!-- END FACT -->**
