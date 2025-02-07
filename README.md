@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In most advertisements, including newspapers, the time displayed on a watch is 10:10.<!-- END FACT -->**
+**<!-- START FACT -->American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.<!-- END FACT -->**
