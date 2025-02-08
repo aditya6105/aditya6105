@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is a town in Newfoundland, Canada called Dildo.<!-- END FACT -->**
+**<!-- START FACT -->The first contraceptive was crocodile dung used by the ancient Egyptians.<!-- END FACT -->**
