@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.<!-- END FACT -->**
+**<!-- START FACT -->The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!<!-- END FACT -->**
