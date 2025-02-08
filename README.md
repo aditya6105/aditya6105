@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bats always turn left when exiting a cave<!-- END FACT -->**
+**<!-- START FACT -->One third of all cancers are sun related.<!-- END FACT -->**
