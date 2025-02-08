@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Elephants are the only animals that can`t jump.<!-- END FACT -->**
+**<!-- START FACT -->NBA superstar Michael Jordan was originally cut from his high school basketball team.<!-- END FACT -->**
