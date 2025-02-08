@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.<!-- END FACT -->**
+**<!-- START FACT -->It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.<!-- END FACT -->**
