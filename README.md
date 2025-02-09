@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Half of all Americans live within 50 miles of their birthplace.<!-- END FACT -->**
+**<!-- START FACT -->Average number of people airborne over the US any given hour: 61,000.<!-- END FACT -->**
