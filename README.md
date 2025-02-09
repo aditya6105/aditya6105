@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Maine is the only state whose name is just one syllable.<!-- END FACT -->**
+**<!-- START FACT -->Americans travel 1,144,721,000 miles by air every day<!-- END FACT -->**
