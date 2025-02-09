@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Canada makes up 6.67 percent of the Earth`s land area<!-- END FACT -->**
+**<!-- START FACT -->The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.<!-- END FACT -->**
