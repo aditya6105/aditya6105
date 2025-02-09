@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.<!-- END FACT -->**
+**<!-- START FACT -->Jupiter is bigger than all the other planets in our solar system combined.<!-- END FACT -->**
