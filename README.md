@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.<!-- END FACT -->**
+**<!-- START FACT -->The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.<!-- END FACT -->**
