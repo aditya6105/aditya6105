@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Right-handed people live, on average; nine years longer than left handed people.<!-- END FACT -->**
+**<!-- START FACT -->There are 336 dimples on a regulation golf ball.<!-- END FACT -->**
