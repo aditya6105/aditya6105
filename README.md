@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->100% of lottery winners do gain weight<!-- END FACT -->**
+**<!-- START FACT -->The average person`s left hand does 56% of the typing.<!-- END FACT -->**
