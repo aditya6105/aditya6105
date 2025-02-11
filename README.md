@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.<!-- END FACT -->**
+**<!-- START FACT -->The average person falls asleep in seven minutes.<!-- END FACT -->**
