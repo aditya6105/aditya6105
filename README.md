@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mount Olympus Mons on Mars is three times the size of Mount Everest.<!-- END FACT -->**
+**<!-- START FACT -->Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.<!-- END FACT -->**
