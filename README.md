@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Between 2 and 3 jockeys are killed each year in horse racing.<!-- END FACT -->**
+**<!-- START FACT -->A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.<!-- END FACT -->**
