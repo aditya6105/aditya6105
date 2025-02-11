@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.<!-- END FACT -->**
+**<!-- START FACT -->When a Hawaiian woman wears a flower over her left ear, it means that she is not available.<!-- END FACT -->**
