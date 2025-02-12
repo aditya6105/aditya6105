@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Camels have three eyelids to protect themselves from blowing sand!<!-- END FACT -->**
+**<!-- START FACT -->If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.<!-- END FACT -->**
