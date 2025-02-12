@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Miconesia, coins are 12 feet across.<!-- END FACT -->**
+**<!-- START FACT -->Hong Kong holds the most Rolls Royce’s per capita.<!-- END FACT -->**
