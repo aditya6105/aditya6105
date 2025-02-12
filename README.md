@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most lipstick contains fish scales!<!-- END FACT -->**
+**<!-- START FACT -->There are two credit cards for every person in the United States.<!-- END FACT -->**
