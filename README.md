@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The state of Florida is bigger than England!<!-- END FACT -->**
+**<!-- START FACT -->Each of us generates about 3.5 pounds of rubbish a day, most of it paper.<!-- END FACT -->**
