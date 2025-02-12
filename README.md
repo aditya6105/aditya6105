@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->China has more English speakers than the United States.<!-- END FACT -->**
+**<!-- START FACT -->Koala is Aboriginal for "no drink".<!-- END FACT -->**
