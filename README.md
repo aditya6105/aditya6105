@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the Philippine jungle, the yo-yo was first used as a weapon.<!-- END FACT -->**
+**<!-- START FACT -->Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.<!-- END FACT -->**
