@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average life span of a major league baseball: 7 pitches.<!-- END FACT -->**
+**<!-- START FACT -->The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000<!-- END FACT -->**
