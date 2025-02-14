@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Between 2 and 3 jockeys are killed each year in horse racing.<!-- END FACT -->**
+**<!-- START FACT -->The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  <!-- END FACT -->**
