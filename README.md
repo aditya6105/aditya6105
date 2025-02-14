@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A standard slinky measures 87 feet when stretched out.<!-- END FACT -->**
+**<!-- START FACT -->%60 of all people using the Internet, use it for pornography.<!-- END FACT -->**
