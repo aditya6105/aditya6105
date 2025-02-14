@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A giraffe can go without water longer than a camel.<!-- END FACT -->**
+**<!-- START FACT -->Most collect calls are made on father`s day.<!-- END FACT -->**
