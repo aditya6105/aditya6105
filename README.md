@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.<!-- END FACT -->**
+**<!-- START FACT -->All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.<!-- END FACT -->**
