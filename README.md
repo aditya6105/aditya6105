@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is a town in Newfoundland, Canada called Dildo.<!-- END FACT -->**
+**<!-- START FACT -->Average life span of a major league baseball: 7 pitches.<!-- END FACT -->**
