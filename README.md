@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The plastic things on the end of shoelaces are called aglets.<!-- END FACT -->**
+**<!-- START FACT -->Owls are one of the only birds who can see the color blue!<!-- END FACT -->**
