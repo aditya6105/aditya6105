@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Daffy Duck`s middle name is "Dumas"<!-- END FACT -->**
+**<!-- START FACT -->On average, Americans` favorite smell is banana.<!-- END FACT -->**
