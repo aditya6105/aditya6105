@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Venus is the only planet that rotates clockwise.<!-- END FACT -->**
+**<!-- START FACT -->It has been estimated that humans use only 10% of their brain.<!-- END FACT -->**
