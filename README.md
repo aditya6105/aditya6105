@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.<!-- END FACT -->**
+**<!-- START FACT -->Shakespeare invented the word `assassination` and `bump`.<!-- END FACT -->**
