@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 336 dimples on a regulation golf ball.<!-- END FACT -->**
+**<!-- START FACT -->Rubber bands last longer when refrigerated.  <!-- END FACT -->**
