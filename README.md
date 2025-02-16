@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Over 1000 birds a year die from smashing into windows!<!-- END FACT -->**
+**<!-- START FACT -->A cat has 32 muscles in each ear.<!-- END FACT -->**
