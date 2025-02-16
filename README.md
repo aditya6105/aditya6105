@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The katydid bug hears through holes in its hind legs!<!-- END FACT -->**
+**<!-- START FACT -->100% of lottery winners do gain weight<!-- END FACT -->**
