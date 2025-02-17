@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->NBA superstar Michael Jordan was originally cut from his high school basketball team.<!-- END FACT -->**
+**<!-- START FACT -->The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  <!-- END FACT -->**
