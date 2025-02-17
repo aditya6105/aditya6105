@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Odds of being killed by lightening? 1 in 2million/killed in a car crash? 1 in 5,000/killed by falling out of bed? 1 in 2million/killed in a plane crash? 1 in 25 million.<!-- END FACT -->**
+**<!-- START FACT -->When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.<!-- END FACT -->**
