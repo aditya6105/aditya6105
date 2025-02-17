@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.<!-- END FACT -->**
+**<!-- START FACT -->A standard slinky measures 87 feet when stretched out.<!-- END FACT -->**
