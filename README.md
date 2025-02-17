@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More Monopoly money is printed in a year, than real money throughout the world.<!-- END FACT -->**
+**<!-- START FACT -->More bullets were fired in `Starship Troopers` than any other movie ever made.<!-- END FACT -->**
