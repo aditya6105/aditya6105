@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. <!-- END FACT -->**
+**<!-- START FACT -->To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.<!-- END FACT -->**
