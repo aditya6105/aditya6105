@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Al Capone`s business card said he was a used furniture dealer.<!-- END FACT -->**
+**<!-- START FACT -->The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.<!-- END FACT -->**
