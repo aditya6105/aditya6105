@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Human eyes never grow, but nose and ears never stop growing.<!-- END FACT -->**
+**<!-- START FACT -->There is a town in Newfoundland, Canada called Dildo.<!-- END FACT -->**
