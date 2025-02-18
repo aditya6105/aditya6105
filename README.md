@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Telly Savalas and Louis Armstrong died on their birthdays.  <!-- END FACT -->**
+**<!-- START FACT -->Canada makes up 6.67 percent of the Earth`s land area<!-- END FACT -->**
