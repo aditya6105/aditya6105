@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest word comprised of one row on the keyboard is: TYPEWRITER<!-- END FACT -->**
+**<!-- START FACT -->Humans are the only primates that don`t have pigment in the palms of their hands.<!-- END FACT -->**
