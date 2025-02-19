@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hong Kong holds the most Rolls Royce’s per capita.<!-- END FACT -->**
+**<!-- START FACT -->Owls are one of the only birds who can see the color blue!<!-- END FACT -->**
