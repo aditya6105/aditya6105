@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Koala is Aboriginal for "no drink".<!-- END FACT -->**
+**<!-- START FACT -->100% of lottery winners do gain weight<!-- END FACT -->**
