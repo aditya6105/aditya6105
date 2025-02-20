@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The S in Harry S. Truman did not stand for anything.<!-- END FACT -->**
+**<!-- START FACT -->The average person will accidentally eat just under a pound of insects every year.<!-- END FACT -->**
