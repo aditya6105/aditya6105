@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are more psychoanalysts per capita in Buenos Aires than any other place in the world.<!-- END FACT -->**
+**<!-- START FACT -->Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.<!-- END FACT -->**
