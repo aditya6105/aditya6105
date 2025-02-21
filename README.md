@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.<!-- END FACT -->**
+**<!-- START FACT -->Blueberry Jelly Bellies were created especially for Ronald Reagan.<!-- END FACT -->**
