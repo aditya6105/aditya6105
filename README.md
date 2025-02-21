@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More people are killed annually by donkeys than airplane crashes.<!-- END FACT -->**
+**<!-- START FACT -->The S in Harry S. Truman did not stand for anything.<!-- END FACT -->**
