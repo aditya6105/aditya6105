@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A duck`s quack doesn`t echo, and no one knows why.<!-- END FACT -->**
+**<!-- START FACT -->There are 1 million ants for every human in the world.<!-- END FACT -->**
