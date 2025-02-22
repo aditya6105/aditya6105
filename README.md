@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most American car horns honk in the key of F.<!-- END FACT -->**
+**<!-- START FACT -->The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.<!-- END FACT -->**
