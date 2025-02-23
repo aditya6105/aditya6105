@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Dreamt" is the only English word that ends in the letters "mt."<!-- END FACT -->**
+**<!-- START FACT -->Shakespeare invented the word `assassination` and `bump`.<!-- END FACT -->**
