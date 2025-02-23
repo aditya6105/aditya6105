@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More Monopoly money is printed in a year, than real money throughout the world.<!-- END FACT -->**
+**<!-- START FACT -->Q is the only letter in the alphabet that does not appear in the name of any of the United States!<!-- END FACT -->**
