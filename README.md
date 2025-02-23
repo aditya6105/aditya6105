@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.<!-- END FACT -->**
+**<!-- START FACT -->You can sail all the way around the world at latitude 60 degrees south.<!-- END FACT -->**
