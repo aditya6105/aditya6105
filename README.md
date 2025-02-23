@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."<!-- END FACT -->**
+**<!-- START FACT -->Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.<!-- END FACT -->**
