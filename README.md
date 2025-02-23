@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.<!-- END FACT -->**
+**<!-- START FACT -->There are 1,575 steps from the ground floor to the top of the Empire State building.<!-- END FACT -->**
