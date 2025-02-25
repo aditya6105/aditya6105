@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Coca-Cola was originally green.<!-- END FACT -->**
+**<!-- START FACT -->Pinocchio is Italian for "pine head."<!-- END FACT -->**
