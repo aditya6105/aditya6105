@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Iceland consumes more Coca-Cola per capita than any other nation.<!-- END FACT -->**
+**<!-- START FACT -->In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.<!-- END FACT -->**
