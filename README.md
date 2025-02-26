@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.<!-- END FACT -->**
+**<!-- START FACT -->Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.<!-- END FACT -->**
