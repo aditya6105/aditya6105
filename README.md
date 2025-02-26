@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->"I am." is the shortest complete sentence in the English language.<!-- END FACT -->**
