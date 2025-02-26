@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Maine is the only state whose name is just one syllable.<!-- END FACT -->**
+**<!-- START FACT -->The name of all continents in the world end with the same letter that they start with.<!-- END FACT -->**
