@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Winston Churchill was born in a ladies` room during a dance.<!-- END FACT -->**
+**<!-- START FACT -->Men can read smaller print than women; women can hear better.<!-- END FACT -->**
