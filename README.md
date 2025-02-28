@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->3.6 cans of Spam are consumed each second.<!-- END FACT -->**
+**<!-- START FACT -->Length of beard an average man would grow if he never shaved 27.5 feet<!-- END FACT -->**
