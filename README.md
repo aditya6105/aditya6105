@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.<!-- END FACT -->**
+**<!-- START FACT -->If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.<!-- END FACT -->**
