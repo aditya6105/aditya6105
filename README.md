@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.<!-- END FACT -->**
+**<!-- START FACT -->111,111,111 x 111,111,111 = 12,345,678,987,654,321<!-- END FACT -->**
