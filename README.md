@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->the bird is the word<!-- END FACT -->**
+**<!-- START FACT -->A Boeing 747`s wingspan is longer than the Wright brother`s first flight.<!-- END FACT -->**
