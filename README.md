@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow<!-- END FACT -->**
+**<!-- START FACT -->The average American looks at eight houses before buying one.<!-- END FACT -->**
