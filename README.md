@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A spider has transparent blood.<!-- END FACT -->**
+**<!-- START FACT -->An ostrich`s eye is bigger than its brain.  <!-- END FACT -->**
