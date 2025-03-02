@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Leonardo Da Vinci invented the scissors.<!-- END FACT -->**
+**<!-- START FACT -->The U.S. military operates 234 golf courses<!-- END FACT -->**
