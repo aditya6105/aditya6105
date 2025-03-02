@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lawn darts are illegal in Canada.<!-- END FACT -->**
+**<!-- START FACT -->The longest word comprised of one row on the keyboard is: TYPEWRITER<!-- END FACT -->**
