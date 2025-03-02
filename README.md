@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You burn more calories sleeping than you do watching TV.<!-- END FACT -->**
+**<!-- START FACT -->The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."<!-- END FACT -->**
