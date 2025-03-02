@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".<!-- END FACT -->**
+**<!-- START FACT -->Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.<!-- END FACT -->**
