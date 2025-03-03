@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On an American one-dollar bill, there is an owl in the upper left-hand corner of the "1"encased in the "shield" and a spider hidden in the front upper right-hand corner.<!-- END FACT -->**
+**<!-- START FACT -->Honking of car horns for a couple that just got married is an old superstition to insure great sex.<!-- END FACT -->**
