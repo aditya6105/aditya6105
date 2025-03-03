@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.<!-- END FACT -->**
+**<!-- START FACT -->To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.<!-- END FACT -->**
