@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sperm of a mouse is actually longer than the sperm of an elephant.<!-- END FACT -->**
+**<!-- START FACT -->Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.<!-- END FACT -->**
