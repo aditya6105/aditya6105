@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.<!-- END FACT -->**
+**<!-- START FACT -->The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.<!-- END FACT -->**
