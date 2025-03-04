@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->NBA superstar Michael Jordan was originally cut from his high school basketball team.<!-- END FACT -->**
+**<!-- START FACT -->`Stewardesses` is the longest word that is typed with only the left hand.<!-- END FACT -->**
