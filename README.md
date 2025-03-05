@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Barbie`s full name is Barbara Millicent Roberts.<!-- END FACT -->**
+**<!-- START FACT -->The praying mantis is the only insect that can turn its head<!-- END FACT -->**
