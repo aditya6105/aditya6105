@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name Wendy was made up for the book "Peter Pan."<!-- END FACT -->**
+**<!-- START FACT -->Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  <!-- END FACT -->**
