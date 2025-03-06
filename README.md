@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->Ants closely resemble human manners:  When they wake, they stretch <!-- START FACT -->The San Francisco Cable cars are the only mobile National Monuments.<!-- END FACT --> appear to yawn in a human manner before taking up the tasks of the day.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends 6 months of their life sitting at red lights.<!-- END FACT -->**
