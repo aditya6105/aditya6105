@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest one-syllable word in the English language is "screeched."<!-- END FACT -->**
+**<!-- START FACT -->The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.<!-- END FACT -->**
