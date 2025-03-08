@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The strongest muscle (Relative to size) in the body is the tongue.<!-- END FACT -->**
+**<!-- START FACT -->In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)<!-- END FACT -->**
