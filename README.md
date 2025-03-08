@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Al Capone`s business card said he was a used furniture dealer.<!-- END FACT -->**
+**<!-- START FACT -->The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.<!-- END FACT -->**
