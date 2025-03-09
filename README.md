@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nearly 80% of all animals on earth have six legs.<!-- END FACT -->**
+**<!-- START FACT -->A goldfish has a memory span of three seconds.  <!-- END FACT -->**
