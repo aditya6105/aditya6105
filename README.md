@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Maine is the only state whose name is just one syllable.<!-- END FACT -->**
+**<!-- START FACT -->The world record for spitting a watermelon seed is 65 feet 4 inches.<!-- END FACT -->**
