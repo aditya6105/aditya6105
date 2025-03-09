@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rubber bands last longer when refrigerated.  <!-- END FACT -->**
+**<!-- START FACT -->More bullets were fired in `Starship Troopers` than any other movie ever made.<!-- END FACT -->**
