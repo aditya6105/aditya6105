@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The S in Harry S. Truman did not stand for anything.<!-- END FACT -->**
+**<!-- START FACT -->Tom Sawyer was the first novel written on a typewriter.<!-- END FACT -->**
