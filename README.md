@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Al Capone`s business card said he was a used furniture dealer.<!-- END FACT -->**
+**<!-- START FACT -->The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  <!-- END FACT -->**
