@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, people fear spiders more than they do death.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends 6 months of their life sitting at red lights.<!-- END FACT -->**
