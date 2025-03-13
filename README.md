@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.<!-- END FACT -->**
+**<!-- START FACT -->Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.<!-- END FACT -->**
