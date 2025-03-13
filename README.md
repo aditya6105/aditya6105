@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.<!-- END FACT -->**
+**<!-- START FACT -->Cats have over one hundred vocal sounds, while dogs only have about ten.<!-- END FACT -->**
