@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nearly 80% of all animals on earth have six legs.<!-- END FACT -->**
+**<!-- START FACT -->10,000 Dutch cows pass through the Amsterdam airport each year.<!-- END FACT -->**
