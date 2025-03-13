@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Deborah Winger did the voice of E.T.<!-- END FACT -->**
+**<!-- START FACT -->On average, people fear spiders more than they do death.<!-- END FACT -->**
