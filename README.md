@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->February 1865 is the only month in recorded history not to have a full moon.<!-- END FACT -->**
+**<!-- START FACT -->A duck`s quack doesn`t echo, and no one knows why.<!-- END FACT -->**
