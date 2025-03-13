@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Q is the only letter in the alphabet that does not appear in the name of any of the United States!<!-- END FACT -->**
+**<!-- START FACT -->February 1865 is the only month in recorded history not to have a full moon.<!-- END FACT -->**
