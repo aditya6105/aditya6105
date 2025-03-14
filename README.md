@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.<!-- END FACT -->**
+**<!-- START FACT -->The name Wendy was made up for the book "Peter Pan."<!-- END FACT -->**
