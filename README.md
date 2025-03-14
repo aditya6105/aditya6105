@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.<!-- END FACT -->**
+**<!-- START FACT -->In medieval France, unfaithful wives were made to chase a chicken through town naked.<!-- END FACT -->**
