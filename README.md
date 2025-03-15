@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->100% of lottery winners do gain weight<!-- END FACT -->**
+**<!-- START FACT -->There were always 56 curls in Shirley Temple`s hair.<!-- END FACT -->**
