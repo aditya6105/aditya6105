@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->A jellyfish is 95 percent water!<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->There are more plastic flamingos in the U.S that there are real ones.<!-- END FACT -->**
