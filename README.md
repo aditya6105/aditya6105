@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Dreamt" is the only English word that ends in the letters "mt."<!-- END FACT -->**
+**<!-- START FACT -->Until 1994, world maps and globes sold in Albania only had Albania on them.<!-- END FACT -->**
