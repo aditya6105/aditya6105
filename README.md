@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.<!-- END FACT -->**
+**<!-- START FACT -->Between 2 and 3 jockeys are killed each year in horse racing.<!-- END FACT -->**
