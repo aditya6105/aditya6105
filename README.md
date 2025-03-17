@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->1 in 8 Americans has worked at a McDonalds restaurant.<!-- END FACT -->**
+**<!-- START FACT -->Hot water is heavier than cold.<!-- END FACT -->**
