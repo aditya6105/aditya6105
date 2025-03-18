@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Women manage the money and pay the bills in  75% of all Americans households.<!-- END FACT -->**
+**<!-- START FACT -->A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.<!-- END FACT -->**
