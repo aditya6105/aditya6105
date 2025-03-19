@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are no clocks in Las Vegas gambling casinos.<!-- END FACT -->**
+**<!-- START FACT -->the bird is the word<!-- END FACT -->**
