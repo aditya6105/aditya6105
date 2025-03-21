@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.<!-- END FACT -->**
+**<!-- START FACT -->All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.<!-- END FACT -->**
