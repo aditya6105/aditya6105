@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A dime has 118 ridges around the edge.<!-- END FACT -->**
+**<!-- START FACT -->A duck`s quack doesn`t echo, and no one knows why.<!-- END FACT -->**
