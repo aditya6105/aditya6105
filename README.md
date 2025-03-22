@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Winston Churchill was born in a ladies` room during a dance.<!-- END FACT -->**
+**<!-- START FACT -->3.9% of all women do not wear underwear.<!-- END FACT -->**
