@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Women blink nearly twice as much as men.<!-- END FACT -->**
+**<!-- START FACT -->Almonds are a member of the peach family.<!-- END FACT -->**
