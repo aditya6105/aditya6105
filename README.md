@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Intelligent people have more zinc and copper in their hair.<!-- END FACT -->**
+**<!-- START FACT -->Winston Churchill was born in a ladies` room during a dance.<!-- END FACT -->**
