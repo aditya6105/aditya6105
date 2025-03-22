@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->James Bond`s car had three different license plates in Goldfinger<!-- END FACT -->**
+**<!-- START FACT -->The longest recorded flight of a chicken is thirteen seconds.<!-- END FACT -->**
