@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)<!-- END FACT -->**
+**<!-- START FACT -->The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).<!-- END FACT -->**
