@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  <!-- END FACT -->**
+**<!-- START FACT -->The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."<!-- END FACT -->**
