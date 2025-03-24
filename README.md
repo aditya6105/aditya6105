@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Leonardo da Vinci could write with one hand while drawing with the other<!-- END FACT -->**
+**<!-- START FACT -->James Bond`s car had three different license plates in Goldfinger<!-- END FACT -->**
