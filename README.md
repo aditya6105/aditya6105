@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A goldfish has a memory span of three seconds.  <!-- END FACT -->**
+**<!-- START FACT -->On average, Americans eat 18 acres of pizza everyday.<!-- END FACT -->**
