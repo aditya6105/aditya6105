@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average life span of a major league baseball: 7 pitches.<!-- END FACT -->**
+**<!-- START FACT -->It is illegal to eat oranges while bathing in California.<!-- END FACT -->**
