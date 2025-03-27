@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Barbie`s measurements, if she were life-size, would be 39-29-33.<!-- END FACT -->**
+**<!-- START FACT -->A `jiffy` is a unit of time for 1/100th of a second.<!-- END FACT -->**
