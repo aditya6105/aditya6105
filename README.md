@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.<!-- END FACT -->**
+**<!-- START FACT -->Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  <!-- END FACT -->**
