@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A snail can sleep for three years.<!-- END FACT -->**
+**<!-- START FACT -->Two-thirds of the world`s eggplant is grown in New Jersey.  <!-- END FACT -->**
