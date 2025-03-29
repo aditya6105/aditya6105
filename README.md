@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can sail all the way around the world at latitude 60 degrees south.<!-- END FACT -->**
+**<!-- START FACT -->A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.<!-- END FACT -->**
