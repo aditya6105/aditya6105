@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place.<!-- END FACT -->**
+**<!-- START FACT -->Because of the rotation of the earth, an object can be thrown farther if it is thrown west.<!-- END FACT -->**
