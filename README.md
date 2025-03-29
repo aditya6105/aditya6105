@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  <!-- END FACT -->**
+**<!-- START FACT -->Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.<!-- END FACT -->**
