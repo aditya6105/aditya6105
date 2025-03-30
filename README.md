@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In every episode of Seinfeld there is a Superman somewhere.<!-- END FACT -->**
+**<!-- START FACT -->Intelligent people have more zinc and copper in their hair.<!-- END FACT -->**
