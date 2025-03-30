@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.<!-- END FACT -->**
+**<!-- START FACT -->The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.<!-- END FACT -->**
