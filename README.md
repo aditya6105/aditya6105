@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->The word Pennsylvania is misspelled on the Liberty Bell.<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.<!-- END FACT -->**
