@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 293 ways to make change for a dollar.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends about two years on the phone in a lifetime.<!-- END FACT -->**
