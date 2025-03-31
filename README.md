@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An ostrich`s eye is bigger than its brain.  <!-- END FACT -->**
+**<!-- START FACT -->Most Egyptians died by the time they were 30 about 300 years ago,<!-- END FACT -->**
