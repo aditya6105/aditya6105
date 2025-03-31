@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person spends about two years on the phone in a lifetime.<!-- END FACT -->**
+**<!-- START FACT -->China has more English speakers than the United States.<!-- END FACT -->**
