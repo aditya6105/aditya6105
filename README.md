@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.<!-- END FACT -->**
+**<!-- START FACT -->Between 25% and 33% of the population sneeze when exposed to light.<!-- END FACT -->**
