@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.<!-- END FACT -->**
+**<!-- START FACT -->A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."<!-- END FACT -->**
