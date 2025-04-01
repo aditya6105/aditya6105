@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.<!-- END FACT -->**
+**<!-- START FACT -->Ten percent of the Russian government`s income comes from the sale of vodka.<!-- END FACT -->**
