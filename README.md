@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the White House, there are 13,092 knives, forks and spoons!<!-- END FACT -->**
+**<!-- START FACT -->A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."<!-- END FACT -->**
