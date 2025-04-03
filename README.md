@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An ostrich`s eye is bigger than its brain.  <!-- END FACT -->**
+**<!-- START FACT -->The average North American will eat 35,000 cookies during their life span.<!-- END FACT -->**
