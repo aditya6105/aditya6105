@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The eyes of a donkey are positioned so that it can see all four feet at all times.<!-- END FACT -->**
+**<!-- START FACT -->The Great Wall of China is the only man-made structure visible from space.<!-- END FACT -->**
