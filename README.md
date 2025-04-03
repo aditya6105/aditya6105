@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Months that begin on a Sunday will always have a `Friday the 13th`.<!-- END FACT -->**
+**<!-- START FACT -->In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.<!-- END FACT -->**
