@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Camels have three eyelids to protect themselves from blowing sand!<!-- END FACT -->**
+**<!-- START FACT -->Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.<!-- END FACT -->**
