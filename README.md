@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The dot over the letter `i` is called a tittle.  <!-- END FACT -->**
+**<!-- START FACT -->Owls are one of the only birds who can see the color blue!<!-- END FACT -->**
