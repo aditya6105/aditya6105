@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Coca-Cola was originally green.<!-- END FACT -->**
+**<!-- START FACT -->A spider has transparent blood.<!-- END FACT -->**
