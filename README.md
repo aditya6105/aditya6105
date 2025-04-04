@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->The ant always falls over on its right side when intoxicated.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.<!-- END FACT -->**
