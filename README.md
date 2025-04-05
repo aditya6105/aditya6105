@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.<!-- END FACT -->**
+**<!-- START FACT -->Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  <!-- END FACT -->**
