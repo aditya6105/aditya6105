@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A shark is the only fish that can blink with both eyes.<!-- END FACT -->**
+**<!-- START FACT -->Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.<!-- END FACT -->**
