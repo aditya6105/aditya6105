@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Donald Duck`s middle name is Fauntleroy.  <!-- END FACT -->**
+**<!-- START FACT -->There is approximately one chicken for every human being in the world.<!-- END FACT -->**
