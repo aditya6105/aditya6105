@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.<!-- END FACT -->**
+**<!-- START FACT -->In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.<!-- END FACT -->**
