@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.<!-- END FACT -->**
+**<!-- START FACT -->10,000 Dutch cows pass through the Amsterdam airport each year.<!-- END FACT -->**
