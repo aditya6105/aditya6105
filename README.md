@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It is illegal to hunt camels in the state of Arizona.<!-- END FACT -->**
+**<!-- START FACT -->Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. <!-- END FACT -->**
