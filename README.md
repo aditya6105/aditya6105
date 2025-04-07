@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.<!-- END FACT -->**
+**<!-- START FACT -->Peanuts are one of the ingredients of dynamite.<!-- END FACT -->**
