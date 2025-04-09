@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.<!-- END FACT -->**
+**<!-- START FACT -->Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.<!-- END FACT -->**
