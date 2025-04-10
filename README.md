@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.<!-- END FACT -->**
+**<!-- START FACT -->10,000 Dutch cows pass through the Amsterdam airport each year.<!-- END FACT -->**
