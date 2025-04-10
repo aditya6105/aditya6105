@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Prince Charles is an avid collecter of toilet seats.<!-- END FACT -->**
+**<!-- START FACT -->The dot over the letter `i` is called a tittle.  <!-- END FACT -->**
