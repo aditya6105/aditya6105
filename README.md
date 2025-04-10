@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person`s left hand does 56% of the typing.<!-- END FACT -->**
+**<!-- START FACT -->The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.<!-- END FACT -->**
