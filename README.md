@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A pig`s orgasm lasts for 30 minutes.<!-- END FACT -->**
+**<!-- START FACT -->Nearly 80% of all animals on earth have six legs.<!-- END FACT -->**
