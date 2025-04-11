@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average number of days a West German goes without washing his underwear: 7<!-- END FACT -->**
+**<!-- START FACT -->There is approximately one chicken for every human being in the world.<!-- END FACT -->**
