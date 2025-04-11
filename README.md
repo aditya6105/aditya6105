@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The eyes of a donkey are positioned so that it can see all four feet at all times.<!-- END FACT -->**
+**<!-- START FACT -->Barbie`s measurements, if she were life-size, would be 39-29-33.<!-- END FACT -->**
