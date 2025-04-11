@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More Monopoly money is printed in a year, than real money throughout the world.<!-- END FACT -->**
+**<!-- START FACT -->All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.<!-- END FACT -->**
