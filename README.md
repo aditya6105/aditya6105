@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.<!-- END FACT -->**
+**<!-- START FACT -->The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`<!-- END FACT -->**
