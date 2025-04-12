@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The plastic things on the end of shoelaces are called aglets.<!-- END FACT -->**
+**<!-- START FACT -->Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women<!-- END FACT -->**
