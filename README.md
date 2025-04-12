@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Donald Duck comics were banned from Finland because he doesn`t wear pants!<!-- END FACT -->**
+**<!-- START FACT -->Hong Kong holds the most Rolls Royce’s per capita.<!-- END FACT -->**
