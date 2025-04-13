@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It has been estimated that humans use only 10% of their brain.<!-- END FACT -->**
+**<!-- START FACT -->In the average lifetime, a person will walk the equivalent of 5 times around the equator.<!-- END FACT -->**
