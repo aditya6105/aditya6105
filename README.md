@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"I am." is the shortest complete sentence in the English language.<!-- END FACT -->**
+**<!-- START FACT -->166,875,000,000 pieces of mail are delivered each year in the US<!-- END FACT -->**
