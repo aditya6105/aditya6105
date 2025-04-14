@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->It takes about 142.18 licks to reach the center of a Tootsie pop.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.<!-- END FACT -->**
