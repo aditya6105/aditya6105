@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cats have over one hundred vocal sounds, while dogs only have about ten.<!-- END FACT -->**
+**<!-- START FACT -->In England, the Speaker of the House is not allowed to speak.<!-- END FACT -->**
