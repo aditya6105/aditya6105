@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.<!-- END FACT -->**
+**<!-- START FACT -->Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.<!-- END FACT -->**
