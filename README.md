@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It takes about 142.18 licks to reach the center of a Tootsie pop.<!-- END FACT -->**
+**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->It takes about 142.18 licks to reach the center of a Tootsie pop.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
