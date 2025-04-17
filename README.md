@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.<!-- END FACT -->**
+**<!-- START FACT -->Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.<!-- END FACT -->**
