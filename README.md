@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Reindeer like to eat bananas.<!-- END FACT -->**
+**<!-- START FACT -->Bats always turn left when exiting a cave<!-- END FACT -->**
