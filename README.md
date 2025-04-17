@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.<!-- END FACT -->**
+**<!-- START FACT -->In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.<!-- END FACT -->**
