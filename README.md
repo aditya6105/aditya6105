@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can sail all the way around the world at latitude 60 degrees south.<!-- END FACT -->**
+**<!-- START FACT -->Q is the only letter in the alphabet that does not appear in the name of any of the United States!<!-- END FACT -->**
