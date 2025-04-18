@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.<!-- END FACT -->**
+**<!-- START FACT -->Q is the only letter in the alphabet that does not appear in the name of any of the United States!<!-- END FACT -->**
