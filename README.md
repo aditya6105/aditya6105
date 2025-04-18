@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The strongest muscle (Relative to size) in the body is the tongue.<!-- END FACT -->**
+**<!-- START FACT -->The Great Wall of China is the only man-made structure visible from space.<!-- END FACT -->**
