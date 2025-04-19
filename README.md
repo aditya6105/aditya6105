@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rhode Island is the only state which the hammer throw is a legal high school sport.<!-- END FACT -->**
+**<!-- START FACT -->"Underground" is the only word in the English language that begins and ends with the letters "und"<!-- END FACT -->**
