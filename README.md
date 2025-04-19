@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cats have over one hundred vocal sounds, while dogs only have about ten.<!-- END FACT -->**
+**<!-- START FACT -->A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.<!-- END FACT -->**
