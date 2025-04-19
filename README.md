@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person spends 6 months of their life sitting at red lights.<!-- END FACT -->**
+**<!-- START FACT -->1 in 8 Americans has worked at a McDonalds restaurant.<!-- END FACT -->**
