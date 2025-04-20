@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.<!-- END FACT -->**
+**<!-- START FACT -->The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.<!-- END FACT -->**
