@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.<!-- END FACT -->**
+**<!-- START FACT -->Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.<!-- END FACT -->**
