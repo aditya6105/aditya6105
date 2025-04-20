@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.<!-- END FACT -->**
+**<!-- START FACT -->It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down.<!-- END FACT -->**
