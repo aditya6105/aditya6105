@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.<!-- END FACT -->**
+**<!-- START FACT -->It has NEVER rained in Calama, a town in the Atacama Desert of Chile.<!-- END FACT -->**
