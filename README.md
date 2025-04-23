@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tigers not only have striped fur, they have striped skin!<!-- END FACT -->**
+**<!-- START FACT -->Most American car horns honk in the key of F.<!-- END FACT -->**
