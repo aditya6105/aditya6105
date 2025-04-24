@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.<!-- END FACT -->**
+**<!-- START FACT -->A shark is the only fish that can blink with both eyes.<!-- END FACT -->**
