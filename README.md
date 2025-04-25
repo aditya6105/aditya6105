@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.<!-- END FACT -->**
+**<!-- START FACT -->A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.<!-- END FACT -->**
