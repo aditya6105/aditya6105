@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.<!-- END FACT -->**
+**<!-- START FACT -->Honking of car horns for a couple that just got married is an old superstition to insure great sex.<!-- END FACT -->**
