@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sweat drops drawn in cartoon comic strips are called pleuts.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends 6 months of their life sitting at red lights.<!-- END FACT -->**
