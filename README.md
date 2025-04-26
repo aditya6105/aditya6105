@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can`t kill yourself by holding your breath.  <!-- END FACT -->**
+**<!-- START FACT -->There are more plastic flamingos in the U.S that there are real ones.<!-- END FACT -->**
