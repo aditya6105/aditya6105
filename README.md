@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.<!-- END FACT -->**
+**<!-- START FACT -->Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  <!-- END FACT -->**
