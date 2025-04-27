@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The most common street name in the U.S. is Second Street.<!-- END FACT -->**
+**<!-- START FACT -->A piece of paper can be folded no more then 9 times.<!-- END FACT -->**
