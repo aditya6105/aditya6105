@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->CBS` "60 Minutes" is the only TV show without a theme song/music.<!-- END FACT -->**
+**<!-- START FACT -->Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.<!-- END FACT -->**
