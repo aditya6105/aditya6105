@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.<!-- END FACT -->**
+**<!-- START FACT -->Each of us generates about 3.5 pounds of rubbish a day, most of it paper.<!-- END FACT -->**
