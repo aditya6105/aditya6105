@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average woman consumes 6 lbs of lipstick in her lifetime.<!-- END FACT -->**
+**<!-- START FACT -->Only one person in two billion will live to be 116 or older.<!-- END FACT -->**
