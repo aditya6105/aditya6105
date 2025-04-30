@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Minneapolis phone book has 21 pages of Andersons.<!-- END FACT -->**
+**<!-- START FACT -->Honeybees have a type of hair on their eyes!<!-- END FACT -->**
