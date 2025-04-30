@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Women manage the money and pay the bills in  75% of all Americans households.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends 12 weeks a year `looking for things`.<!-- END FACT -->**
