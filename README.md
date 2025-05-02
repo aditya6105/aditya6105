@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.<!-- END FACT -->**
+**<!-- START FACT -->The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.<!-- END FACT -->**
