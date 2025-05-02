@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 1986 Congress <!-- START FACT -->The only real person to ever to appear on a pez dispenser was Betsy Ross.<!-- END FACT --> President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.<!-- END FACT -->**
+**<!-- START FACT -->400-quarter pounders can be made from 1 cow.<!-- END FACT -->**
