@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One quarter of the bones in your body are in your feet.<!-- END FACT -->**
+**<!-- START FACT -->During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.<!-- END FACT -->**
