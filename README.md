@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 1 million ants for every human in the world.<!-- END FACT -->**
+**<!-- START FACT -->Annual growth of WWW traffic is 314,000%<!-- END FACT -->**
