@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.<!-- END FACT -->**
+**<!-- START FACT -->Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.<!-- END FACT -->**
