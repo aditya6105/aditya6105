@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Annual growth of WWW traffic is 314,000%<!-- END FACT -->**
+**<!-- START FACT -->The symbol on the "pound" key (#) is called an octothorpe..  <!-- END FACT -->**
