@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The dot over the letter `i` is called a tittle.  <!-- END FACT -->**
+**<!-- START FACT -->The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.<!-- END FACT -->**
