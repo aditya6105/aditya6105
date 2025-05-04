@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can`t kill yourself by holding your breath.  <!-- END FACT -->**
+**<!-- START FACT -->Shakespeare invented the word `assassination` and `bump`.<!-- END FACT -->**
