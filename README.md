@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Between 25% and 33% of the population sneeze when exposed to light.<!-- END FACT -->**
+**<!-- START FACT -->The name of all continents in the world end with the same letter that they start with.<!-- END FACT -->**
