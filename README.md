@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.<!-- END FACT -->**
+**<!-- START FACT -->Average life span of a major league baseball: 7 pitches.<!-- END FACT -->**
