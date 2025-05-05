@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tom Sawyer was the first novel written on a typewriter.<!-- END FACT -->**
+**<!-- START FACT -->A whale`s penis is called a dork.<!-- END FACT -->**
