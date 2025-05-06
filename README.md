@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Barbie`s measurements, if she were life-size, would be 39-29-33.<!-- END FACT -->**
+**<!-- START FACT -->The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.<!-- END FACT -->**
