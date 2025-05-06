@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.<!-- END FACT -->**
+**<!-- START FACT -->The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.<!-- END FACT -->**
