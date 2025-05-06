@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Venus is the only planet that rotates clockwise.<!-- END FACT -->**
+**<!-- START FACT -->Rubber bands last longer when refrigerated.  <!-- END FACT -->**
