@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Golf courses cover 4% of North America.<!-- END FACT -->**
+**<!-- START FACT -->A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.<!-- END FACT -->**
