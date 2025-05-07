@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.<!-- END FACT -->**
+**<!-- START FACT -->The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.<!-- END FACT -->**
