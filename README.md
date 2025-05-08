@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sperm of a mouse is actually longer than the sperm of an elephant.<!-- END FACT -->**
+**<!-- START FACT -->A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.<!-- END FACT -->**
