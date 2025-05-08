@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Babies are most likely to be born on Tuesdays.<!-- END FACT -->**
+**<!-- START FACT -->Lawn darts are illegal in Canada.<!-- END FACT -->**
