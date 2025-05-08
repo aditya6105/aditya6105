@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.<!-- END FACT -->**
+**<!-- START FACT -->Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.<!-- END FACT -->**
