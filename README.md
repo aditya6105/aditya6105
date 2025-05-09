@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Months that begin on a Sunday will always have a `Friday the 13th`.<!-- END FACT -->**
+**<!-- START FACT -->All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.<!-- END FACT -->**
