@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  <!-- END FACT -->**
+**<!-- START FACT -->111,111,111 x 111,111,111 = 12,345,678,987,654,321<!-- END FACT -->**
