@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average number of days a West German goes without washing his underwear: 7<!-- END FACT -->**
+**<!-- START FACT -->The average person spends 6 months of their life sitting at red lights.<!-- END FACT -->**
