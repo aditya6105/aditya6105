@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.<!-- END FACT -->**
+**<!-- START FACT -->Every acre of American crops harvested contains 100 pounds of insects.<!-- END FACT -->**
