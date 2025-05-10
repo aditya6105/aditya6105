@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The praying mantis is the only insect that can turn its head<!-- END FACT -->**
+**<!-- START FACT -->"I am." is the shortest complete sentence in the English language.<!-- END FACT -->**
