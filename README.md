@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.<!-- END FACT -->**
+**<!-- START FACT -->The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.<!-- END FACT -->**
