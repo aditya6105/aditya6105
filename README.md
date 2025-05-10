@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.<!-- END FACT -->**
+**<!-- START FACT -->The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.<!-- END FACT -->**
