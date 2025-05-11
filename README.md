@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.<!-- END FACT -->**
+**<!-- START FACT -->Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.<!-- END FACT -->**
