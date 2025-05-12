@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->%60 of all people using the Internet, use it for pornography.<!-- END FACT -->**
+**<!-- START FACT -->Elephants are the only animals that can`t jump.<!-- END FACT -->**
