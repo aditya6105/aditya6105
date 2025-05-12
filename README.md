@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Underground" is the only word in the English language that begins and ends with the letters "und"<!-- END FACT -->**
+**<!-- START FACT -->Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.<!-- END FACT -->**
