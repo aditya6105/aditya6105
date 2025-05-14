@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It has been estimated that humans use only 10% of their brain.<!-- END FACT -->**
+**<!-- START FACT -->Half of all Americans live within 50 miles of their birthplace.<!-- END FACT -->**
