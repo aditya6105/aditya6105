@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Women blink nearly twice as much as men.<!-- END FACT -->**
+**<!-- START FACT -->On average, Americans eat 18 acres of pizza everyday.<!-- END FACT -->**
