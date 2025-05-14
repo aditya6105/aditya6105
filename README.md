@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Donald Duck`s middle name is Fauntleroy.  <!-- END FACT -->**
+**<!-- START FACT -->The Minneapolis phone book has 21 pages of Andersons.<!-- END FACT -->**
