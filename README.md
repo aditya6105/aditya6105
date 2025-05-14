@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The eyes of a donkey are positioned so that it can see all four feet at all times.<!-- END FACT -->**
+**<!-- START FACT -->Ants closely resemble human manners:  When they wake, they stretch <!-- START FACT -->The eyes of a donkey are positioned so that it can see all four feet at all times.<!-- END FACT --> appear to yawn in a human manner before taking up the tasks of the day.<!-- END FACT -->**
