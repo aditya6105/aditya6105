@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tom Sawyer was the first novel written on a typewriter.<!-- END FACT -->**
+**<!-- START FACT -->A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.<!-- END FACT -->**
