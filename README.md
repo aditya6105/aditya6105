@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average woman consumes 6 lbs of lipstick in her lifetime.<!-- END FACT -->**
+**<!-- START FACT -->The average person`s left hand does 56% of the typing.<!-- END FACT -->**
