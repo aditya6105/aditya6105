@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you went out into space, you would explode before you suffocated because there`s no air pressure.<!-- END FACT -->**
+**<!-- START FACT -->10,000 Dutch cows pass through the Amsterdam airport each year.<!-- END FACT -->**
