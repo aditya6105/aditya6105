@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A Boeing 747`s wingspan is longer than the Wright brother`s first flight.<!-- END FACT -->**
+**<!-- START FACT -->Meteorologists claim they`re right 85% of the time (think about that one!)<!-- END FACT -->**
