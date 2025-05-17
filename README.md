@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Maine is the only state whose name is just one syllable.<!-- END FACT -->**
+**<!-- START FACT -->It takes about 142.18 licks to reach the center of a Tootsie pop.<!-- END FACT -->**
