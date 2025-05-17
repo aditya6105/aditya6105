@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.<!-- END FACT -->**
+**<!-- START FACT -->If done perfectly, a rubix cube combination can be solved in 17 turns.<!-- END FACT -->**
