@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->`Obsession` is the most popular boat name.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends about two years on the phone in a lifetime.<!-- END FACT -->**
