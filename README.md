@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most toilets flush in E flat.<!-- END FACT -->**
+**<!-- START FACT -->If done perfectly, a rubix cube combination can be solved in 17 turns.<!-- END FACT -->**
