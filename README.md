@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Two-thirds of the world`s eggplant is grown in New Jersey.  <!-- END FACT -->**
+**<!-- START FACT -->The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.<!-- END FACT -->**
