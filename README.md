@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If Texas were a country, its GNP would be the fifth largest of any country in the world.<!-- END FACT -->**
+**<!-- START FACT -->Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.<!-- END FACT -->**
