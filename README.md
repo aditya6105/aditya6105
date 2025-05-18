@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.<!-- END FACT -->**
+**<!-- START FACT -->The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.<!-- END FACT -->**
