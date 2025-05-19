@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.<!-- END FACT -->**
+**<!-- START FACT -->When a Hawaiian woman wears a flower over her left ear, it means that she is not available.<!-- END FACT -->**
