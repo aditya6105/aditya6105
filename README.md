@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The pupils of a goat`s eyes are square.<!-- END FACT -->**
+**<!-- START FACT -->Van Gogh only sold one painting when he was alive.<!-- END FACT -->**
