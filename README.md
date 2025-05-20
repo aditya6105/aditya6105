@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)<!-- END FACT -->**
+**<!-- START FACT -->All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.<!-- END FACT -->**
