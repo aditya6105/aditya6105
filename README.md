@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A dime has 118 ridges around the edge.<!-- END FACT -->**
+**<!-- START FACT -->The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.<!-- END FACT -->**
