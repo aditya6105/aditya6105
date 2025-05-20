@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->`Obsession` is the most popular boat name.<!-- END FACT -->**
+**<!-- START FACT -->70% of all boats sold are used for fishing.<!-- END FACT -->**
