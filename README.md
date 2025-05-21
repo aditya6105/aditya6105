@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Q is the only letter in the alphabet that does not appear in the name of any of the United States!<!-- END FACT -->**
+**<!-- START FACT -->Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.<!-- END FACT -->**
