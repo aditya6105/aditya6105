@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  <!-- END FACT -->**
+**<!-- START FACT -->Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. <!-- END FACT -->**
