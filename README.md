@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.<!-- END FACT -->**
+**<!-- START FACT -->All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.<!-- END FACT -->**
