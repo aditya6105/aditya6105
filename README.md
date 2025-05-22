@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->3.9% of all women do not wear underwear.<!-- END FACT -->**
+**<!-- START FACT -->70% of all boats sold are used for fishing.<!-- END FACT -->**
