@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->%60 of all people using the Internet, use it for pornography.<!-- END FACT -->**
+**<!-- START FACT -->The sperm of a mouse is actually longer than the sperm of an elephant.<!-- END FACT -->**
