@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Great Wall of China is the only man-made structure visible from space.<!-- END FACT -->**
+**<!-- START FACT -->The HyperMart outside of Garland Texas has 58 check-outs.<!-- END FACT -->**
