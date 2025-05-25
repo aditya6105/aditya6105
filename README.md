@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.<!-- END FACT -->**
+**<!-- START FACT -->The average American/Canadian will eat about 11.9 pounds of cereal per year!<!-- END FACT -->**
