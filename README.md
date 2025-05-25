@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It is illegal to hunt camels in the state of Arizona.<!-- END FACT -->**
+**<!-- START FACT -->On average, people fear spiders more than they do death.<!-- END FACT -->**
