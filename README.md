@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Over 1000 birds a year die from smashing into windows!<!-- END FACT -->**
+**<!-- START FACT -->The HyperMart outside of Garland Texas has 58 check-outs.<!-- END FACT -->**
