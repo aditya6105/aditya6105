@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.<!-- END FACT -->**
+**<!-- START FACT -->February 1865 is the only month in recorded history not to have a full moon.<!-- END FACT -->**
