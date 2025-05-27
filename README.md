@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You burn more calories sleeping than you do watching TV.<!-- END FACT -->**
+**<!-- START FACT -->The average person`s left hand does 56% of the typing.<!-- END FACT -->**
