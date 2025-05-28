@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.<!-- END FACT -->**
+**<!-- START FACT -->Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. <!-- END FACT -->**
