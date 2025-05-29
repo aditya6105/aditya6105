@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Months that begin on a Sunday will always have a `Friday the 13th`.<!-- END FACT -->**
+**<!-- START FACT -->Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.<!-- END FACT -->**
