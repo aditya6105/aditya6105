@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hong Kong holds the most Rolls Royce’s per capita.<!-- END FACT -->**
+**<!-- START FACT -->John Lennon`s first girlfriend was named Thelma Pickles.<!-- END FACT -->**
