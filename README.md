@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow<!-- END FACT -->**
+**<!-- START FACT -->There is a town in Newfoundland, Canada called Dildo.<!-- END FACT -->**
