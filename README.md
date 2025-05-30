@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The storage capacity of human brain exceeds 4 Terabytes.<!-- END FACT -->**
+**<!-- START FACT -->The Human eyes never grow, but nose and ears never stop growing.<!-- END FACT -->**
