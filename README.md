@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Simplistic passwords contribute to over 80% of all computer password break-ins.<!-- END FACT -->**
+**<!-- START FACT -->400-quarter pounders can be made from 1 cow.<!-- END FACT -->**
