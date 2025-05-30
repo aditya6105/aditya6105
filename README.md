@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ingrown toenails are hereditary.  <!-- END FACT -->**
+**<!-- START FACT -->The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.<!-- END FACT -->**
