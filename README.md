@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Women manage the money and pay the bills in  75% of all Americans households.<!-- END FACT -->**
+**<!-- START FACT -->The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.<!-- END FACT -->**
