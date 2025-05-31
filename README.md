@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.<!-- END FACT -->**
+**<!-- START FACT -->If Texas were a country, its GNP would be the fifth largest of any country in the world.<!-- END FACT -->**
