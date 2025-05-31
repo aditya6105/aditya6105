@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->3.6 cans of Spam are consumed each second.<!-- END FACT -->**
+**<!-- START FACT -->The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.<!-- END FACT -->**
