@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The plastic things on the end of shoelaces are called aglets.<!-- END FACT -->**
+**<!-- START FACT -->70% of all boats sold are used for fishing.<!-- END FACT -->**
