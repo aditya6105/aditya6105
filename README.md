@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.<!-- END FACT -->**
+**<!-- START FACT -->166,875,000,000 pieces of mail are delivered each year in the US<!-- END FACT -->**
