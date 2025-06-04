@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->70% of all boats sold are used for fishing.<!-- END FACT -->**
+**<!-- START FACT -->10,000 Dutch cows pass through the Amsterdam airport each year.<!-- END FACT -->**
