@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Walt Disney was afraid of mice.<!-- END FACT -->**
+**<!-- START FACT -->There are 1 million ants for every human in the world.<!-- END FACT -->**
