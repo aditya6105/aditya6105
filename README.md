@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first contraceptive was crocodile dung used by the ancient Egyptians.<!-- END FACT -->**
+**<!-- START FACT -->During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.<!-- END FACT -->**
