@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Napoleon`s penis was sold to an American Urologist for $40,000.<!-- END FACT -->**
+**<!-- START FACT -->`Stewardesses` is the longest word that is typed with only the left hand.<!-- END FACT -->**
