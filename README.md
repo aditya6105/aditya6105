@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Worcestershire sauce in essentially an Anchovy Ketchup.<!-- END FACT -->**
+**<!-- START FACT -->In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.<!-- END FACT -->**
