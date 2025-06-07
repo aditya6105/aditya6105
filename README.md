@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A dime has 118 ridges around the edge.<!-- END FACT -->**
+**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->A dime has 118 ridges around the edge.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
