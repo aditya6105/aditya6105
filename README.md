@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It is illegal to hunt camels in the state of Arizona.<!-- END FACT -->**
+**<!-- START FACT -->Recycling one glass jar, saves enough energy to watch T.V for 3 hours!<!-- END FACT -->**
