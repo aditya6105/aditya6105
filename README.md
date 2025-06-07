@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->John Lennon`s first girlfriend was named Thelma Pickles.<!-- END FACT -->**
+**<!-- START FACT -->An ostrich`s eye is bigger than its brain.  <!-- END FACT -->**
