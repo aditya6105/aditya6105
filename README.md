@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A goldfish has a memory span of three seconds.  <!-- END FACT -->**
+**<!-- START FACT -->The plastic things on the end of shoelaces are called aglets.<!-- END FACT -->**
