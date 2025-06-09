@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->In most advertisements, including newspapers, the time displayed on a watch is 10:10.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->A crocodile cannot stick its tongue out.<!-- END FACT -->**
