@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In medieval France, unfaithful wives were made to chase a chicken through town naked.<!-- END FACT -->**
+**<!-- START FACT -->Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.<!-- END FACT -->**
