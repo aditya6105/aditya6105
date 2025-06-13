@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, people fear spiders more than they do death.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends about two years on the phone in a lifetime.<!-- END FACT -->**
