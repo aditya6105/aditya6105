@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!<!-- END FACT -->**
+**<!-- START FACT -->Elephants are the only animals that can`t jump.<!-- END FACT -->**
