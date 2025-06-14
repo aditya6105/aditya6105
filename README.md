@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).<!-- END FACT -->**
+**<!-- START FACT -->Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.<!-- END FACT -->**
