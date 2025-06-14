@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The highest per capita Jell-O comsumption in the US is Des Moines.<!-- END FACT -->**
+**<!-- START FACT -->Jupiter is bigger than all the other planets in our solar system combined.<!-- END FACT -->**
