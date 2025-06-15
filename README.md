@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->the bird is the word<!-- END FACT -->**
+**<!-- START FACT -->A dime has 118 ridges around the edge.<!-- END FACT -->**
