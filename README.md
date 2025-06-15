@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Deborah Winger did the voice of E.T.<!-- END FACT -->**
+**<!-- START FACT -->The HyperMart outside of Garland Texas has 58 check-outs.<!-- END FACT -->**
