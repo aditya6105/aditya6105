@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There were always 56 curls in Shirley Temple`s hair.<!-- END FACT -->**
+**<!-- START FACT -->There are 1,575 steps from the ground floor to the top of the Empire State building.<!-- END FACT -->**
