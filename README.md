@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ants closely resemble human manners:  When they wake, they stretch <!-- START FACT -->The Minneapolis phone book has 21 pages of Andersons.<!-- END FACT --> appear to yawn in a human manner before taking up the tasks of the day.<!-- END FACT -->**
+**<!-- START FACT -->Donald Duck comics were banned from Finland because he doesn`t wear pants!<!-- END FACT -->**
