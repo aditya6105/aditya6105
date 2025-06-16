@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.<!-- END FACT -->**
+**<!-- START FACT -->Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.<!-- END FACT -->**
