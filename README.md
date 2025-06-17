@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Recycling one glass jar, saves enough energy to watch T.V for 3 hours!<!-- END FACT -->**
+**<!-- START FACT -->A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."<!-- END FACT -->**
