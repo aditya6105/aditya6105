@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.<!-- END FACT -->**
+**<!-- START FACT -->Mr. Rogers is an ordained minister.<!-- END FACT -->**
