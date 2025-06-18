@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are two credit cards for every person in the United States.<!-- END FACT -->**
+**<!-- START FACT -->Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  <!-- END FACT -->**
