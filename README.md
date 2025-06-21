@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Weatherman Willard Scott was the first original Ronald McDonald.<!-- END FACT -->**
+**<!-- START FACT -->A piece of paper can be folded no more then 9 times.<!-- END FACT -->**
