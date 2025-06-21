@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.<!-- END FACT -->**
+**<!-- START FACT -->1 in every 4 Americans has appeared someway or another on television.<!-- END FACT -->**
