@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  <!-- END FACT -->**
+**<!-- START FACT -->Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.<!-- END FACT -->**
