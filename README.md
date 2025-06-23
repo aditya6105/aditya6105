@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If Texas were a country, its GNP would be the fifth largest of any country in the world.<!-- END FACT -->**
+**<!-- START FACT -->The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)<!-- END FACT -->**
