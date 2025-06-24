@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A dragonfly has a lifespan of 24 hours.<!-- END FACT -->**
+**<!-- START FACT -->The buzz from an electric razor in America plays in the key of B flat; Key of G in England.<!-- END FACT -->**
