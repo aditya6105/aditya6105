@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A standard slinky measures 87 feet when stretched out.<!-- END FACT -->**
+**<!-- START FACT -->The first contraceptive was crocodile dung used by the ancient Egyptians.<!-- END FACT -->**
