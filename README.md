@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT --> was Harrison Ford`s idea so that he could take a bathroom break.<!-- END FACT -->**
+**<!-- START FACT -->The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.<!-- END FACT -->**
