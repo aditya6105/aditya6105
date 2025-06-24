@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  <!-- END FACT -->**
+**<!-- START FACT -->The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com<!-- END FACT -->**
