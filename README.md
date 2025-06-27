@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.<!-- END FACT -->**
+**<!-- START FACT -->The world record for spitting a watermelon seed is 65 feet 4 inches.<!-- END FACT -->**
