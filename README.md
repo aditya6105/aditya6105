@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.<!-- END FACT -->**
+**<!-- START FACT -->The dot over the letter `i` is called a tittle.  <!-- END FACT -->**
