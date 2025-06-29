@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.<!-- END FACT -->**
+**<!-- START FACT -->On the ground, a group of geese is a gaggle, in the sky it is a skein.<!-- END FACT -->**
