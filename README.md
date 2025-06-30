@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, Americans` favorite smell is banana.<!-- END FACT -->**
+**<!-- START FACT -->Cats urine glows under a black light.<!-- END FACT -->**
