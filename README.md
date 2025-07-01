@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average life span of a major league baseball: 7 pitches.<!-- END FACT -->**
+**<!-- START FACT -->In The Empire Strikes Back there is a potato hidden in the asteroid field<!-- END FACT -->**
