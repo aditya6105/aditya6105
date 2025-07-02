@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Blueberry Jelly Bellies were created especially for Ronald Reagan.<!-- END FACT -->**
+**<!-- START FACT -->You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.<!-- END FACT -->**
