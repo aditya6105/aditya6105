@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.<!-- END FACT -->**
+**<!-- START FACT -->Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.<!-- END FACT -->**
