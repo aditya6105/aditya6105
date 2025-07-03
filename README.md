@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.<!-- END FACT -->**
+**<!-- START FACT -->Half of all Americans live within 50 miles of their birthplace.<!-- END FACT -->**
