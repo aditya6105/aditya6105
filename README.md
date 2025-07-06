@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.<!-- END FACT -->**
+**<!-- START FACT -->The buzz from an electric razor in America plays in the key of B flat; Key of G in England.<!-- END FACT -->**
