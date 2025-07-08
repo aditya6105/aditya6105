@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The S in Harry S. Truman did not stand for anything.<!-- END FACT -->**
+**<!-- START FACT -->The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.<!-- END FACT -->**
