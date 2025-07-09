@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Annual growth of WWW traffic is 314,000%<!-- END FACT -->**
+**<!-- START FACT -->In the average lifetime, a person will walk the equivalent of 5 times around the equator.<!-- END FACT -->**
