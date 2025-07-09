@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Vermont, the ratio of cows to people is 10:1<!-- END FACT -->**
+**<!-- START FACT -->When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.<!-- END FACT -->**
