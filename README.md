@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest recorded flight of a chicken is thirteen seconds.<!-- END FACT -->**
+**<!-- START FACT -->3.6 cans of Spam are consumed each second.<!-- END FACT -->**
