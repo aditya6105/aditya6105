@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->38% of American men say they love their cars more than women<!-- END FACT -->**
+**<!-- START FACT -->All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.<!-- END FACT -->**
