@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Barbie`s measurements, if she were life-size, would be 39-29-33.<!-- END FACT -->**
+**<!-- START FACT -->The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com<!-- END FACT -->**
