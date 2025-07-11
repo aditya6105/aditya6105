@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.<!-- END FACT -->**
+**<!-- START FACT -->The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.<!-- END FACT -->**
