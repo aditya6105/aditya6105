@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The pop you hear when you crack your knuckles is actually a bubble of gas burning.<!-- END FACT -->**
+**<!-- START FACT -->If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.<!-- END FACT -->**
