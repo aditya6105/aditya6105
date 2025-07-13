@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.<!-- END FACT -->**
+**<!-- START FACT -->Ninety percent of all species that have become extinct have been birds.<!-- END FACT -->**
