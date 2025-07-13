@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The strongest muscle (Relative to size) in the body is the tongue.<!-- END FACT -->**
+**<!-- START FACT -->Women blink nearly twice as much as men.<!-- END FACT -->**
