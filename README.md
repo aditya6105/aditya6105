@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Donald Duck`s middle name is Fauntleroy.  <!-- END FACT -->**
+**<!-- START FACT -->Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  <!-- END FACT -->**
