@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.<!-- END FACT -->**
+**<!-- START FACT -->Every time you lick a stamp, you consume 1/10 of a calorie.<!-- END FACT -->**
