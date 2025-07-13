@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Women manage the money and pay the bills in  75% of all Americans households.<!-- END FACT -->**
+**<!-- START FACT -->Most dust particles in your house are made from dead skin.<!-- END FACT -->**
