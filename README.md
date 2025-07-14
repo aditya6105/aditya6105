@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There were always 56 curls in Shirley Temple`s hair.<!-- END FACT -->**
+**<!-- START FACT -->Prince Charles is an avid collecter of toilet seats.<!-- END FACT -->**
