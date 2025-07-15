@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Americans travel 1,144,721,000 miles by air every day<!-- END FACT -->**
+**<!-- START FACT -->Months that begin on a Sunday will always have a `Friday the 13th`.<!-- END FACT -->**
