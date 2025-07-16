@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the last 4000 years, no new animals have been domesticated.<!-- END FACT -->**
+**<!-- START FACT -->Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.<!-- END FACT -->**
