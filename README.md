@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->South Dakota is the only U.S state which shares no letters with the name of it`s capital<!-- END FACT -->**
+**<!-- START FACT -->In most advertisements, including newspapers, the time displayed on a watch is 10:10.<!-- END FACT -->**
