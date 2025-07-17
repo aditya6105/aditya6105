@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name of all continents in the world end with the same letter that they start with.<!-- END FACT -->**
+**<!-- START FACT -->South Dakota is the only U.S state which shares no letters with the name of it`s capital<!-- END FACT -->**
