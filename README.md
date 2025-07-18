@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->the bird is the word<!-- END FACT -->**
+**<!-- START FACT -->The longest one-syllable word in the English language is "screeched."<!-- END FACT -->**
