@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you went out into space, you would explode before you suffocated because there`s no air pressure.<!-- END FACT -->**
+**<!-- START FACT -->Cats have over one hundred vocal sounds, while dogs only have about ten.<!-- END FACT -->**
