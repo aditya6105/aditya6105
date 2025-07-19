@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.<!-- END FACT -->**
+**<!-- START FACT -->To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.<!-- END FACT -->**
