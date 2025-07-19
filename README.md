@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average lifespan of an eyelash is five months.<!-- END FACT -->**
+**<!-- START FACT -->In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.<!-- END FACT -->**
