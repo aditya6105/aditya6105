@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Iceland consumes more Coca-Cola per capita than any other nation.<!-- END FACT -->**
+**<!-- START FACT -->Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.<!-- END FACT -->**
