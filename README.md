@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There were always 56 curls in Shirley Temple`s hair.<!-- END FACT -->**
+**<!-- START FACT -->Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.<!-- END FACT -->**
