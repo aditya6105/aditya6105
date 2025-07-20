@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->%60 of all people using the Internet, use it for pornography.<!-- END FACT -->**
+**<!-- START FACT -->The name of all continents in the world end with the same letter that they start with.<!-- END FACT -->**
