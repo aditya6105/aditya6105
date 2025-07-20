@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the last 4000 years, no new animals have been domesticated.<!-- END FACT -->**
+**<!-- START FACT -->One quarter of the bones in your body are in your feet.<!-- END FACT -->**
