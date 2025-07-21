@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.<!-- END FACT -->**
+**<!-- START FACT -->The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!<!-- END FACT -->**
