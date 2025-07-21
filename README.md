@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every time you lick a stamp, you consume 1/10 of a calorie.<!-- END FACT -->**
+**<!-- START FACT -->Rhode Island is the only state which the hammer throw is a legal high school sport.<!-- END FACT -->**
