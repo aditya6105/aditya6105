@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Humans are the only primates that don`t have pigment in the palms of their hands.<!-- END FACT -->**
+**<!-- START FACT -->South Dakota is the only U.S state which shares no letters with the name of it`s capital<!-- END FACT -->**
