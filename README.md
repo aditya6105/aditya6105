@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".<!-- END FACT -->**
+**<!-- START FACT -->Over 1000 birds a year die from smashing into windows!<!-- END FACT -->**
