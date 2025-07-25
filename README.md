@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.<!-- END FACT -->**
+**<!-- START FACT -->Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.<!-- END FACT -->**
