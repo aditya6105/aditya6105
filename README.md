@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  <!-- END FACT -->**
+**<!-- START FACT -->Until 1994, world maps and globes sold in Albania only had Albania on them.<!-- END FACT -->**
