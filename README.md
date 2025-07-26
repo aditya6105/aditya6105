@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"I am." is the shortest complete sentence in the English language.<!-- END FACT -->**
+**<!-- START FACT -->Al Capone`s business card said he was a used furniture dealer.<!-- END FACT -->**
