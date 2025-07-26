@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It`s possible to lead a cow upstairs but not downstairs.<!-- END FACT -->**
+**<!-- START FACT -->Each of us generates about 3.5 pounds of rubbish a day, most of it paper.<!-- END FACT -->**
