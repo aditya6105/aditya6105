@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The strongest muscle (Relative to size) in the body is the tongue.<!-- END FACT -->**
+**<!-- START FACT -->In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.<!-- END FACT -->**
