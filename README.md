@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.<!-- END FACT -->**
