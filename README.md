@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->111,111,111 x 111,111,111 = 12,345,678,987,654,321<!-- END FACT -->**
+**<!-- START FACT -->The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).<!-- END FACT -->**
