@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.<!-- END FACT -->**
+**<!-- START FACT -->The most common name in world is Mohammed.<!-- END FACT -->**
