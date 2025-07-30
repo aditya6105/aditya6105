@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A snail can sleep for three years.<!-- END FACT -->**
+**<!-- START FACT -->Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."<!-- END FACT -->**
