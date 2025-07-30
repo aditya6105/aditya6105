@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Almonds are a member of the peach family.<!-- END FACT -->**
+**<!-- START FACT -->The serial number of the first MAC ever produced was 2001.<!-- END FACT -->**
