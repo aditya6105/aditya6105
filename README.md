@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.<!-- END FACT -->**
+**<!-- START FACT -->Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.<!-- END FACT -->**
