@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.<!-- END FACT -->**
+**<!-- START FACT -->A `jiffy` is a unit of time for 1/100th of a second.<!-- END FACT -->**
