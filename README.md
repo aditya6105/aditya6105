@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are more than 10 million bricks in the Empire State Building!<!-- END FACT -->**
+**<!-- START FACT -->If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.<!-- END FACT -->**
