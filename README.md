@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The katydid bug hears through holes in its hind legs!<!-- END FACT -->**
+**<!-- START FACT -->If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".<!-- END FACT -->**
