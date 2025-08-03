@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  <!-- END FACT -->**
+**<!-- START FACT -->Until 1994, world maps and globes sold in Albania only had Albania on them.<!-- END FACT -->**
