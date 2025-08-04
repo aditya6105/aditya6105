@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->10,000 Dutch cows pass through the Amsterdam airport each year.<!-- END FACT -->**
+**<!-- START FACT -->Two-thirds of the world`s eggplant is grown in New Jersey.  <!-- END FACT -->**
