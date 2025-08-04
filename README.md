@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name Wendy was made up for the book "Peter Pan."<!-- END FACT -->**
+**<!-- START FACT -->%60 of all people using the Internet, use it for pornography.<!-- END FACT -->**
