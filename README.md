@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It takes about 142.18 licks to reach the center of a Tootsie pop.<!-- END FACT -->**
+**<!-- START FACT -->In most advertisements, including newspapers, the time displayed on a watch is 10:10.<!-- END FACT -->**
