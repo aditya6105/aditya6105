@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A horse can look forward with one eye and back with the other.<!-- END FACT -->**
+**<!-- START FACT -->The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!<!-- END FACT -->**
