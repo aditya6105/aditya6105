@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.<!-- END FACT -->**
+**<!-- START FACT -->Cats have over one hundred vocal sounds, while dogs only have about ten.<!-- END FACT -->**
