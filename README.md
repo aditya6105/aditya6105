@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place.<!-- END FACT -->**
+**<!-- START FACT -->101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.<!-- END FACT -->**
