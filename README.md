@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Over 1000 birds a year die from smashing into windows!<!-- END FACT -->**
+**<!-- START FACT -->Half of all Americans live within 50 miles of their birthplace.<!-- END FACT -->**
