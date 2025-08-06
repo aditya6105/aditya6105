@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A snail can sleep for three years.<!-- END FACT -->**
+**<!-- START FACT -->In the Philippine jungle, the yo-yo was first used as a weapon.<!-- END FACT -->**
