@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It is illegal to eat oranges while bathing in California.<!-- END FACT -->**
+**<!-- START FACT -->Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.<!-- END FACT -->**
