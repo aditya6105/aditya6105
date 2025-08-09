@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.<!-- END FACT -->**
+**<!-- START FACT -->Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.<!-- END FACT -->**
