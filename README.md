@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`<!-- END FACT -->**
+**<!-- START FACT -->Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).<!-- END FACT -->**
