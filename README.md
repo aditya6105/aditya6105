@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Shakespeare invented the word `assassination` and `bump`.<!-- END FACT -->**
+**<!-- START FACT -->The first owner of the Marlboro company died of lung cancer.<!-- END FACT -->**
