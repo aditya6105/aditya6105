@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In most advertisements, including newspapers, the time displayed on a watch is 10:10.<!-- END FACT -->**
+**<!-- START FACT -->The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!<!-- END FACT -->**
