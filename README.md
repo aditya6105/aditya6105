@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.<!-- END FACT -->**
+**<!-- START FACT -->38% of American men say they love their cars more than women<!-- END FACT -->**
