@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An ostrich`s eye is bigger than its brain.  <!-- END FACT -->**
+**<!-- START FACT -->A `jiffy` is a unit of time for 1/100th of a second.<!-- END FACT -->**
