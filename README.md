@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.<!-- END FACT -->**
+**<!-- START FACT -->Rhode Island is the only state which the hammer throw is a legal high school sport.<!-- END FACT -->**
