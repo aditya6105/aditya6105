@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Thirty-five percent of people who use personal ads for dating are already married.<!-- END FACT -->**
+**<!-- START FACT -->Venus is the only planet that rotates clockwise.<!-- END FACT -->**
