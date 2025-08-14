@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The ant always falls over on its right side when intoxicated.<!-- END FACT -->**
+**<!-- START FACT -->70% of all boats sold are used for fishing.<!-- END FACT -->**
