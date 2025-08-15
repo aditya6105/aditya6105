@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.<!-- END FACT -->**
+**<!-- START FACT -->`Stewardesses` is the longest word that is typed with only the left hand.<!-- END FACT -->**
