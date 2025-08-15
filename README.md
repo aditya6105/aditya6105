@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average life span of a major league baseball: 7 pitches.<!-- END FACT -->**
+**<!-- START FACT -->During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.<!-- END FACT -->**
