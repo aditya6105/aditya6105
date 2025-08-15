@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Golf courses cover 4% of North America.<!-- END FACT -->**
+**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->Golf courses cover 4% of North America.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
