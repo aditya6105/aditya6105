@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A duck`s quack doesn`t echo, and no one knows why.<!-- END FACT -->**
+**<!-- START FACT -->There is approximately one chicken for every human being in the world.<!-- END FACT -->**
