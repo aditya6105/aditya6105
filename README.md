@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nearly 80% of all animals on earth have six legs.<!-- END FACT -->**
+**<!-- START FACT -->There are 1,792 steps in the Eiffel Tower<!-- END FACT -->**
