@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dr. Jack Kevorkian first patient has Alzheimer`s disease.<!-- END FACT -->**
+**<!-- START FACT -->Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women<!-- END FACT -->**
