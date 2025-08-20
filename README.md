@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Chewing gum while peeling onions will keep you from crying.<!-- END FACT -->**
+**<!-- START FACT -->A horse can look forward with one eye and back with the other.<!-- END FACT -->**
