@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A dime has 118 ridges around the edge.<!-- END FACT -->**
+**<!-- START FACT -->Every acre of American crops harvested contains 100 pounds of insects.<!-- END FACT -->**
