@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Some lions mate over 50 times a day.<!-- END FACT -->**
+**<!-- START FACT -->The Great Wall of China is the only man-made structure visible from space.<!-- END FACT -->**
