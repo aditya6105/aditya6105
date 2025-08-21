@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.<!-- END FACT -->**
+**<!-- START FACT -->If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.<!-- END FACT -->**
