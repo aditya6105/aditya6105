@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Right-handed people live, on average; nine years longer than left handed people.<!-- END FACT -->**
+**<!-- START FACT -->The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.<!-- END FACT -->**
