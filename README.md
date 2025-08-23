@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Intelligent people have more zinc and copper in their hair.<!-- END FACT -->**
+**<!-- START FACT -->Annual growth of WWW traffic is 314,000%<!-- END FACT -->**
