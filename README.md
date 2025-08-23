@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the average lifetime, a person will walk the equivalent of 5 times around the equator.<!-- END FACT -->**
+**<!-- START FACT -->On the ground, a group of geese is a gaggle, in the sky it is a skein.<!-- END FACT -->**
