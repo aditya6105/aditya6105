@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, people fear spiders more than they do death.<!-- END FACT -->**
+**<!-- START FACT -->Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.<!-- END FACT -->**
