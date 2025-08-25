@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A Boeing 747`s wingspan is longer than the Wright brother`s first flight.<!-- END FACT -->**
+**<!-- START FACT -->Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.<!-- END FACT -->**
