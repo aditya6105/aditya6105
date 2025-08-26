@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The human heart creates enough pressure to squirt blood 30ft.<!-- END FACT -->**
+**<!-- START FACT -->Hot water is heavier than cold.<!-- END FACT -->**
