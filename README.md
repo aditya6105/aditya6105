@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lawn darts are illegal in Canada.<!-- END FACT -->**
+**<!-- START FACT -->In Miconesia, coins are 12 feet across.<!-- END FACT -->**
