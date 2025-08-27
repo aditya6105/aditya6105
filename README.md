@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tigers not only have striped fur, they have striped skin!<!-- END FACT -->**
+**<!-- START FACT -->Between 25% and 33% of the population sneeze when exposed to light.<!-- END FACT -->**
