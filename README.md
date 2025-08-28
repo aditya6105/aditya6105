@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.<!-- END FACT -->**
+**<!-- START FACT -->You burn more calories sleeping than you do watching TV.<!-- END FACT -->**
