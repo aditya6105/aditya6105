@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Kelsey Grammar sings and plays the piano for the theme song of Fraiser.<!-- END FACT -->**
+**<!-- START FACT -->Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.<!-- END FACT -->**
