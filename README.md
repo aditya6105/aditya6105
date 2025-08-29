@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average number of people airborne over the US any given hour: 61,000.<!-- END FACT -->**
+**<!-- START FACT -->1 in 8 Americans has worked at a McDonalds restaurant.<!-- END FACT -->**
