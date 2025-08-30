@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bats always turn left when exiting a cave<!-- END FACT -->**
+**<!-- START FACT -->On average, Americans eat 18 acres of pizza everyday.<!-- END FACT -->**
