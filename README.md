@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.<!-- END FACT -->**
+**<!-- START FACT -->Ninety percent of all species that have become extinct have been birds.<!-- END FACT -->**
