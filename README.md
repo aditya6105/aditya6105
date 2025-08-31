@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Leonardo da Vinci could write with one hand while drawing with the other<!-- END FACT -->**
+**<!-- START FACT -->Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.<!-- END FACT -->**
