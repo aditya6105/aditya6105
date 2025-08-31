@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Average number of people airborne over the US any given hour: 61,000.<!-- END FACT -->**
+**<!-- START FACT -->Thirty-five percent of people who use personal ads for dating are already married.<!-- END FACT -->**
