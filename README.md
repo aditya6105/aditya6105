@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Two-thirds of the world`s eggplant is grown in New Jersey.  <!-- END FACT -->**
+**<!-- START FACT -->The highest per capita Jell-O comsumption in the US is Des Moines.<!-- END FACT -->**
