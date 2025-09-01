@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.<!-- END FACT -->**
+**<!-- START FACT -->If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".<!-- END FACT -->**
