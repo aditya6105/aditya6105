@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.<!-- END FACT -->**
+**<!-- START FACT -->The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.<!-- END FACT -->**
