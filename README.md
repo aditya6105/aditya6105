@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.<!-- END FACT -->**
+**<!-- START FACT -->Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).<!-- END FACT -->**
