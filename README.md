@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nearly 80% of all animals on earth have six legs.<!-- END FACT -->**
+**<!-- START FACT -->The HyperMart outside of Garland Texas has 58 check-outs.<!-- END FACT -->**
