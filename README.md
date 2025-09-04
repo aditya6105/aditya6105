@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.<!-- END FACT -->**
+**<!-- START FACT -->5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.<!-- END FACT -->**
