@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The world record for spitting a watermelon seed is 65 feet 4 inches.<!-- END FACT -->**
+**<!-- START FACT -->The S in Harry S. Truman did not stand for anything.<!-- END FACT -->**
