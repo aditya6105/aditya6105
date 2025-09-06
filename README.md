@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.<!-- END FACT -->**
+**<!-- START FACT -->In the last 4000 years, no new animals have been domesticated.<!-- END FACT -->**
