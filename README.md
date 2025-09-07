@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.<!-- END FACT -->**
+**<!-- START FACT -->Odds of being killed by lightening? 1 in 2million/killed in a car crash? 1 in 5,000/killed by falling out of bed? 1 in 2million/killed in a plane crash? 1 in 25 million.<!-- END FACT -->**
