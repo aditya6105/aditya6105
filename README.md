@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first owner of the Marlboro company died of lung cancer.<!-- END FACT -->**
+**<!-- START FACT -->The average American looks at eight houses before buying one.<!-- END FACT -->**
