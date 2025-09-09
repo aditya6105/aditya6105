@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every acre of American crops harvested contains 100 pounds of insects.<!-- END FACT -->**
+**<!-- START FACT -->2,000 pounds of space dust and other space debris fall on the Earth every day.<!-- END FACT -->**
