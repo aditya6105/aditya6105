@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.<!-- END FACT -->**
+**<!-- START FACT -->There are 1,575 steps from the ground floor to the top of the Empire State building.<!-- END FACT -->**
