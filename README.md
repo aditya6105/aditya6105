@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends 12 weeks a year `looking for things`.<!-- END FACT -->**
