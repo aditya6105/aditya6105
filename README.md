@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.<!-- END FACT -->**
+**<!-- START FACT -->In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.<!-- END FACT -->**
