@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name of the girl on the statue of liberty is Mother of Exiles.<!-- END FACT -->**
+**<!-- START FACT -->Shakespeare is quoted 33,150 times in the Oxford English dictionary.<!-- END FACT -->**
