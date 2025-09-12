@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A goldfish has a memory span of three seconds.  <!-- END FACT -->**
+**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->A goldfish has a memory span of three seconds.  <!-- END FACT --> Cancer.<!-- END FACT -->**
