@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sperm of a mouse is actually longer than the sperm of an elephant.<!-- END FACT -->**
+**<!-- START FACT -->On average, people fear spiders more than they do death.<!-- END FACT -->**
