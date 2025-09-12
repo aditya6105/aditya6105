@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A snail can sleep for three years.<!-- END FACT -->**
+**<!-- START FACT -->"I am." is the shortest complete sentence in the English language.<!-- END FACT -->**
