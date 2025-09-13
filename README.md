@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Intelligent people have more zinc and copper in their hair.<!-- END FACT -->**
+**<!-- START FACT -->Average life span of a major league baseball: 7 pitches.<!-- END FACT -->**
