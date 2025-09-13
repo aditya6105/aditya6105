@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More bullets were fired in `Starship Troopers` than any other movie ever made.<!-- END FACT -->**
+**<!-- START FACT -->The world record for spitting a watermelon seed is 65 feet 4 inches.<!-- END FACT -->**
