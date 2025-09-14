@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->It has NEVER rained in Calama, a town in the Atacama Desert of Chile.<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.<!-- END FACT -->**
