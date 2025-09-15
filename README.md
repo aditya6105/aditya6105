@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A `jiffy` is a unit of time for 1/100th of a second.<!-- END FACT -->**
+**<!-- START FACT -->Ants closely resemble human manners:  When they wake, they stretch <!-- START FACT -->A `jiffy` is a unit of time for 1/100th of a second.<!-- END FACT --> appear to yawn in a human manner before taking up the tasks of the day.<!-- END FACT -->**
