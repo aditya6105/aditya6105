@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Men can read smaller print than women; women can hear better.<!-- END FACT -->**
+**<!-- START FACT -->A spider has transparent blood.<!-- END FACT -->**
