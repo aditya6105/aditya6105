@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person spends 12 weeks a year `looking for things`.<!-- END FACT -->**
+**<!-- START FACT -->The name of the girl on the statue of liberty is Mother of Exiles.<!-- END FACT -->**
