@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The dot over the letter `i` is called a tittle.  <!-- END FACT -->**
+**<!-- START FACT -->Ten percent of the Russian government`s income comes from the sale of vodka.<!-- END FACT -->**
