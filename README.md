@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Poland is the "stolen car capital of the world".<!-- END FACT -->**
+**<!-- START FACT -->An ostrich`s eye is bigger than its brain.  <!-- END FACT -->**
