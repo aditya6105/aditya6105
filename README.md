@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.<!-- END FACT -->**
+**<!-- START FACT -->A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.<!-- END FACT -->**
