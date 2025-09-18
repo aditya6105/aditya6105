@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The pop you hear when you crack your knuckles is actually a bubble of gas burning.<!-- END FACT -->**
+**<!-- START FACT -->Mount Olympus Mons on Mars is three times the size of Mount Everest.<!-- END FACT -->**
