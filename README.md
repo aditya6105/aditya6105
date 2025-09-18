@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name Wendy was made up for the book "Peter Pan."<!-- END FACT -->**
+**<!-- START FACT -->This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.<!-- END FACT -->**
