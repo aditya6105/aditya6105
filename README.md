@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.<!-- END FACT -->**
+**<!-- START FACT -->In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.<!-- END FACT -->**
