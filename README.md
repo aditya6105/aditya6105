@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.<!-- END FACT -->**
+**<!-- START FACT -->It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.<!-- END FACT -->**
