@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person spends about two years on the phone in a lifetime.<!-- END FACT -->**
+**<!-- START FACT -->Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.<!-- END FACT -->**
