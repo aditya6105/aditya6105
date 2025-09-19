@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Shakespeare spelled his OWN name several different ways.<!-- END FACT -->**
+**<!-- START FACT -->Weatherman Willard Scott was the first original Ronald McDonald.<!-- END FACT -->**
