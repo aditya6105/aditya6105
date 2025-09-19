@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->James Bond`s car had three different license plates in Goldfinger<!-- END FACT -->**
+**<!-- START FACT -->It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.<!-- END FACT -->**
