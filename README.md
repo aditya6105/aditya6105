@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  <!-- END FACT -->**
+**<!-- START FACT -->Average life span of a major league baseball: 7 pitches.<!-- END FACT -->**
