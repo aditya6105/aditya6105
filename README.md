@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 293 ways to make change for a dollar.<!-- END FACT -->**
+**<!-- START FACT -->The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  <!-- END FACT -->**
