@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  <!-- END FACT -->**
+**<!-- START FACT -->The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.<!-- END FACT -->**
