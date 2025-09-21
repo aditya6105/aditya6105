@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mr. Rogers is an ordained minister.<!-- END FACT -->**
+**<!-- START FACT -->Starfish haven`t got brains.<!-- END FACT -->**
