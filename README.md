@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.<!-- END FACT -->**
+**<!-- START FACT -->There are 293 ways to make change for a dollar.<!-- END FACT -->**
