@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->About 200,000,000 M<!-- START FACT -->Babies are most likely to be born on Tuesdays.<!-- END FACT -->Ms are sold each day in the United States.<!-- END FACT -->**
+**<!-- START FACT -->The penguin is the only bird that can swim but can't fly.<!-- END FACT -->**
