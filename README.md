@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.<!-- END FACT -->**
+**<!-- START FACT -->A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.<!-- END FACT -->**
