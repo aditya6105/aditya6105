@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Johnny Appleseed planted apples so that people could use apple cider to make alcohol.<!-- END FACT -->**
+**<!-- START FACT -->A giraffe can go without water longer than a camel.<!-- END FACT -->**
