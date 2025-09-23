@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tigers have striped skin, not just striped fur.<!-- END FACT -->**
+**<!-- START FACT -->The human brain uses the same amount of energy as a 10-watt light bulb<!-- END FACT -->**
