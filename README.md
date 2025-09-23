@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dr. Seuss pronounced his name “soyce”.<!-- END FACT -->**
+**<!-- START FACT -->Warren Beatty and Shirley McLaine are brother and sister.<!-- END FACT -->**
