@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The surface of the human skin is 6.5 square feet (2m).<!-- END FACT -->**
+**<!-- START FACT -->In a survey of 200000 ostriches over 80 years, not one tried to bury its head in the sand.<!-- END FACT -->**
