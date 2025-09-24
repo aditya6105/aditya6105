@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Minneapolis phone book has 21 pages of Andersons.<!-- END FACT -->**
+**<!-- START FACT -->Switzerland is the only country with a square flag.<!-- END FACT -->**
