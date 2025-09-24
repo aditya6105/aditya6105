@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every person, including identical twins, has a unique eye <!-- START FACT -->More people are killed each year from bees than from snakes.<!-- END FACT --> tongue print along with their finger print.<!-- END FACT -->**
+**<!-- START FACT -->Sherlock Holmes NEVER said, "Elementary, my dear Watson."<!-- END FACT -->**
