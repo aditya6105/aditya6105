@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More people are afraid of open spaces (kenophobia) than of tight spaces (claustrophobia).<!-- END FACT -->**
+**<!-- START FACT -->A blue whales heart only beats nine times per minute.<!-- END FACT -->**
