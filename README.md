@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.<!-- END FACT -->**
+**<!-- START FACT -->About 55% of all movies are rated R.<!-- END FACT -->**
