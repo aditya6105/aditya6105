@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 240 dots on an arcade Pac-Man game<!-- END FACT -->**
+**<!-- START FACT -->In England, the Speaker of the House is not allowed to speak. <!-- END FACT -->**
