@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.<!-- END FACT -->**
+**<!-- START FACT -->Butte County, South Dakota is the geographical center of the U.S.<!-- END FACT -->**
