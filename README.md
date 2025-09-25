@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mr. Rogers is an ordained minister.<!-- END FACT -->**
+**<!-- START FACT -->"Rhythm" is the longest English word without a vowel.<!-- END FACT -->**
