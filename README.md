@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”<!-- END FACT -->**
+**<!-- START FACT -->American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.<!-- END FACT -->**
