@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->King Louis XIX ruled France for 15 minutes.<!-- END FACT -->**
+**<!-- START FACT -->Canadian researchers have found that Einstein's brain was 15% wider than normal.<!-- END FACT -->**
