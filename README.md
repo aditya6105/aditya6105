@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->98% of all murders and rapes are by a close family member or friend of the victim.<!-- END FACT -->**
+**<!-- START FACT -->About 55% of all movies are rated R.<!-- END FACT -->**
