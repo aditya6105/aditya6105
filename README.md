@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More people are allergic to cow's milk than any other food.<!-- END FACT -->**
+**<!-- START FACT -->In 1386, a pig in France was executed by public hanging for the murder of a child<!-- END FACT -->**
