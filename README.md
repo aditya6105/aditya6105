@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A shrimp’s heart is in its head.<!-- END FACT -->**
+**<!-- START FACT -->Ancient Egyptian priests would pluck every hair from their bodies.<!-- END FACT -->**
