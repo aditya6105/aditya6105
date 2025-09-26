@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Humans use a total of 72 different muscles in speech.<!-- END FACT -->**
+**<!-- START FACT -->Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.<!-- END FACT -->**
