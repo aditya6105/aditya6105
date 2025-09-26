@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mr. Rogers was an ordained minister. <!-- END FACT -->**
+**<!-- START FACT -->Pepsi originally contained pepsin, thus the name. <!-- END FACT -->**
