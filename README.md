@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In New York State, it is illegal to but any alcohol on Sundays before noon.<!-- END FACT -->**
+**<!-- START FACT -->The electric chair was invented by a dentist.<!-- END FACT -->**
