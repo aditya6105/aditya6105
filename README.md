@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"I" is the most spoken word in the English language<!-- END FACT -->**
+**<!-- START FACT -->Kelsey Grammar sings and plays the piano for the theme song of Fraiser.<!-- END FACT -->**
