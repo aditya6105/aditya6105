@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The penguin is the only bird that can swim but can't fly.<!-- END FACT -->**
+**<!-- START FACT -->Each year in America there are about 300,000 deaths that can be attributed to obesity.<!-- END FACT -->**
