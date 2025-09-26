@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It takes more calories to eat a piece of celery than the celery has in it to begin with.<!-- END FACT -->**
+**<!-- START FACT -->On average, 12 newborns will be given to the wrong parents every day.<!-- END FACT -->**
