@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is a city called Rome on every continent.<!-- END FACT -->**
+**<!-- START FACT -->The average person falls asleep in seven minutes.<!-- END FACT -->**
