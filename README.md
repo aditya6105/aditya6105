@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.<!-- END FACT -->**
+**<!-- START FACT -->Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.<!-- END FACT -->**
