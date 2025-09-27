@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.<!-- END FACT -->**
+**<!-- START FACT -->You were born with 300 bones, but by the time you are an adult you will only have 206.<!-- END FACT -->**
