@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is an average of 61,000 people airborne over the US at any given moment.<!-- END FACT -->**
+**<!-- START FACT -->The only domestic animal not mentioned in the Bible is the cat. <!-- END FACT -->**
