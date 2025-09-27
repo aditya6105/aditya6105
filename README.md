@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->For every 230 cars that are made, 1 will be stolen.<!-- END FACT -->**
+**<!-- START FACT -->Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.<!-- END FACT -->**
