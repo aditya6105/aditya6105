@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Relative to size, the strongest muscle in the body is the tongue.<!-- END FACT -->**
+**<!-- START FACT -->The Hawaiian alphabet has only 12 letters.<!-- END FACT -->**
