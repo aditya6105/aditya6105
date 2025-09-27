@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You were born with 300 bones, but by the time you are an adult you will only have 206.<!-- END FACT -->**
+**<!-- START FACT -->THE MOST UNUSUAL CANNONBALL: On two occasions, Miss `Rita Thunderbird` remained inside the cannon despite a lot of gunpowder encouragement to do otherwise. She performed in a gold lamé bikini and on one of the two occasions (1977) Miss Thunderbird remained lodged in the cannon, while her bra was shot across the Thames River.<!-- END FACT -->**
