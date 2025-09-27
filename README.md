@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A B-25 bomber crashed into the 79th floor of the Empire State Building on July 28, 1945.<!-- END FACT -->**
+**<!-- START FACT -->The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)<!-- END FACT -->**
