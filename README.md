@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.<!-- END FACT -->**
+**<!-- START FACT -->The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.<!-- END FACT -->**
