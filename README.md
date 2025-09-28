@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sound of E.T. walking was made by someone squishing her hands in jelly.<!-- END FACT -->**
+**<!-- START FACT -->Elephants only sleep for two hours each day.<!-- END FACT -->**
