@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son.<!-- END FACT -->**
+**<!-- START FACT -->Adolf Hitler was a vegetarian, and had only ONE testicle.<!-- END FACT -->**
