@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Peanuts are one of the ingredients of dynamite.<!-- END FACT -->**
+**<!-- START FACT -->The average shelf-life of a latex condom is about two years.<!-- END FACT -->**
