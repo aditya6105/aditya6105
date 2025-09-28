@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->40% of all people who come to a party in your home snoop in your medicine cabinet<!-- END FACT -->**
+**<!-- START FACT -->The ZIP in “ZIP code” means Zoning Improvement Plan.<!-- END FACT -->**
