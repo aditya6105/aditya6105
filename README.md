@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Baby Ruth candy bar was named after Grover Cleveland’s daughter, Ruth, not the baseball player.<!-- END FACT -->**
+**<!-- START FACT -->In Quebec, there is an old law that states margarine must be a different color than butter.<!-- END FACT -->**
