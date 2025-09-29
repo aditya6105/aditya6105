@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->“Lassie” was played by a group of male dogs; the main one was named Pal.<!-- END FACT -->**
+**<!-- START FACT -->400-quarter pounders can be made from 1 cow.<!-- END FACT -->**
