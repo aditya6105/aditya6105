@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tina Turner's real name is Annie Mae Bullock.<!-- END FACT -->**
+**<!-- START FACT -->Albert Einstein and Charles Darwin both married their first cousins<!-- END FACT -->**
