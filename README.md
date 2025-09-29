@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Yo-yos were used as weapons by warriors in the Philippines in the 16th century.<!-- END FACT -->**
+**<!-- START FACT -->Your stomach has to produce a new layer of mucus every two weeks or it will digest itself.<!-- END FACT -->**
