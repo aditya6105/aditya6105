@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Proportional to their size, cats have the largest eyes of all mammals.<!-- END FACT -->**
+**<!-- START FACT -->The electric chair was invented by a dentist.<!-- END FACT -->**
