@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More than 50% of the people in the world have never made or received a telephone call.<!-- END FACT -->**
+**<!-- START FACT -->"Venus observa" is the technical term for the "missionary position."<!-- END FACT -->**
