@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Right handed people live, on average, nine years longer than left-handed people<!-- END FACT -->**
+**<!-- START FACT -->Proportional to their size, cats have the largest eyes of all mammals.<!-- END FACT -->**
