@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.<!-- END FACT -->**
+**<!-- START FACT -->President John F Kennedy could read 4 newspapers in 20 minutes.<!-- END FACT -->**
