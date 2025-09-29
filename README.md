@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->1 in 5 of the world's doctors are Russian.<!-- END FACT -->**
+**<!-- START FACT -->The name Wendy was made up for the book Peter Pan. There was never a recorded Wendy before it.<!-- END FACT -->**
