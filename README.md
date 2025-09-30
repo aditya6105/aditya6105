@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Almost" is the longest word in the English language with all the letters in alphabetical order.<!-- END FACT -->**
+**<!-- START FACT -->Nearly 80% of all animals on earth have six legs.<!-- END FACT -->**
