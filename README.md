@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More than 1,000 different languages are spoken on the continent of Africa.<!-- END FACT -->**
+**<!-- START FACT -->A duck's quack doesn't echo, and no one knows why.<!-- END FACT -->**
