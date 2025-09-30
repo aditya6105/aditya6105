@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.<!-- END FACT -->**
+**<!-- START FACT -->The strongest muscle (Relative to size) in the body is the tongue.<!-- END FACT -->**
