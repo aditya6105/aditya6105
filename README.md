@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.<!-- END FACT -->**
+**<!-- START FACT -->Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.<!-- END FACT -->**
