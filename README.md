@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Julius Caesar’s autograph is worth about $2,000,000.<!-- END FACT -->**
+**<!-- START FACT -->If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.<!-- END FACT -->**
