@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Children grow faster in the springtime.<!-- END FACT -->**
+**<!-- START FACT -->Nepal is the only country that doesn’t have a rectangular flag.<!-- END FACT -->**
