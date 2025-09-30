@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->25% of a human’s bones are in its feet.<!-- END FACT -->**
+**<!-- START FACT -->A Boeing 747s wingspan is longer than the Wright brother's first flight.<!-- END FACT -->**
