@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Relative to size, the strongest muscle in the body is the tongue.<!-- END FACT -->**
+**<!-- START FACT -->Julius Caesar’s autograph is worth about $2,000,000.<!-- END FACT -->**
