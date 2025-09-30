@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Peanuts are one of the ingredients of dynamite.<!-- END FACT -->**
+**<!-- START FACT -->If you keep a goldfish in the dark room, it will eventually turn white.<!-- END FACT -->**
