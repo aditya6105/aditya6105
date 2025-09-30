@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your heart beats over 100,000 times a day!<!-- END FACT -->**
+**<!-- START FACT -->The shortest British monarch was Charles I, who was 4 feet 9 inches.<!-- END FACT -->**
