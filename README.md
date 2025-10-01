@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More than 50% of the people in the world have never made or received a telephone call.<!-- END FACT -->**
+**<!-- START FACT -->Truck driving is the most dangerous occupation by accidental deaths (799 in 2001).<!-- END FACT -->**
