@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Iceland, a Big Mac costs $5.50.<!-- END FACT -->**
+**<!-- START FACT -->In America you will see an average of 500 advertisements a day.<!-- END FACT -->**
