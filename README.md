@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The US has more personal computers than the next 7 countries combined.<!-- END FACT -->**
+**<!-- START FACT -->During his entire life, Vincent Van Gogh sold exactly one painting, “Red Vineyard at Arles”.<!-- END FACT -->**
