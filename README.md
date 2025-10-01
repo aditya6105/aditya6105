@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Baby Ruth candy bar was named after Grover Cleveland’s daughter, Ruth, not the baseball player.<!-- END FACT -->**
+**<!-- START FACT -->One in eight million people has progeria, a disease that causes people to grow faster than they age.<!-- END FACT -->**
