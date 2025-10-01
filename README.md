@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Scotland has more redheads than any other part of the world.<!-- END FACT -->**
+**<!-- START FACT -->The U.S. Post Office handles 43 percent of the world’s mail.<!-- END FACT -->**
