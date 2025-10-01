@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.<!-- END FACT -->**
+**<!-- START FACT -->In most watch advertisements the time displayed on a watch is 10:10.<!-- END FACT -->**
