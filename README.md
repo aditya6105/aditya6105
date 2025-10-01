@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The city of Venice stands on about 120 small islands.<!-- END FACT -->**
+**<!-- START FACT -->Lightning strikes the earth about 8 million times a day.<!-- END FACT -->**
