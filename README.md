@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ancient Egyptian priests would pluck every hair from their bodies.<!-- END FACT -->**
+**<!-- START FACT -->When the Titanic sank, 2228 people were on it. Only 706 survived.<!-- END FACT -->**
