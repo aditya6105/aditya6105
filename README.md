@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Hawaiian alphabet has only 12 letters.<!-- END FACT -->**
+**<!-- START FACT -->Earth is the only planet not named after a god.<!-- END FACT -->**
