@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Iceland consumes more Coca-Cola per capita than any other nation.<!-- END FACT -->**
+**<!-- START FACT -->More than 50% of the people in the world have never made or received a telephone call.<!-- END FACT -->**
