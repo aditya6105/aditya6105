@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Banging your head against a wall uses 150 calories an hour.<!-- END FACT -->**
+**<!-- START FACT -->Your stomach produces a new layer of mucus every two weeks so that it doesn’t digest itself.<!-- END FACT -->**
