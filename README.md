@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cow gives nearly 200,000 glasses of milk in her lifetime.<!-- END FACT -->**
+**<!-- START FACT -->There are about 2 chickens for every human in the world.<!-- END FACT -->**
