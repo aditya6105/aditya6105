@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.<!-- END FACT -->**
+**<!-- START FACT -->38% of American men say they love their cars more than women<!-- END FACT -->**
