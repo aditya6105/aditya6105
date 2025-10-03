@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sharon Stone was the first Star Search spokes model.<!-- END FACT -->**
+**<!-- START FACT -->Lawn darts are illegal in Canada.<!-- END FACT -->**
