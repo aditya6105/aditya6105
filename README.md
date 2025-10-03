@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Winston Churchill was born in a ladies` room during a dance.<!-- END FACT -->**
+**<!-- START FACT -->11% of the world is left-handed.<!-- END FACT -->**
