@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Antarctica is the only continent that does not have land areas below sea level.<!-- END FACT -->**
+**<!-- START FACT -->A jellyfish is 95 percent water!<!-- END FACT -->**
