@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->0.3% of all road accidents in Canada involve a Moose.<!-- END FACT -->**
+**<!-- START FACT -->On average, 100 people choke to death on ballpoint pens every year.<!-- END FACT -->**
