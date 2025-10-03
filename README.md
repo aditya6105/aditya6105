@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name of all continents in the world end with the same letter that they start with.<!-- END FACT -->**
+**<!-- START FACT -->0.3% of all road accidents in Canada involve a Moose.<!-- END FACT -->**
