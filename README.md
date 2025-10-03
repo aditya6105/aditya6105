@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mr. Rogers was an ordained minister. <!-- END FACT -->**
+**<!-- START FACT -->The original story from "Tales of 1001 Arabian Nights" begins, "Aladdin was a little Chinese boy." <!-- END FACT -->**
