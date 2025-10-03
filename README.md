@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word Pennsylvania is misspelled on the Liberty Bell.<!-- END FACT -->**
+**<!-- START FACT -->Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.<!-- END FACT -->**
