@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average Japanese household watches more than 10 hours of television a day.<!-- END FACT -->**
+**<!-- START FACT -->There are about 2 chickens for every human in the world.<!-- END FACT -->**
