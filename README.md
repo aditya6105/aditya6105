@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The praying mantis is the only insect that can turn its head<!-- END FACT -->**
+**<!-- START FACT -->The Guinness Book of Records holds the record for being the book most often stolen from Libraries.<!-- END FACT -->**
