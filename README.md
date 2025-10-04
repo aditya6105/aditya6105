@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The odds of being born male are about 51.2%, according to census.<!-- END FACT -->**
+**<!-- START FACT -->Every day, 7% of the US eats at McDonald’s.<!-- END FACT -->**
