@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A snail can sleep for 3 years.<!-- END FACT -->**
+**<!-- START FACT -->1 in every 4 Americans has appeared someway or another on television.<!-- END FACT -->**
