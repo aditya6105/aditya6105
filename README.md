@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->1 in every 4 Americans has appeared someway or another on television.<!-- END FACT -->**
+**<!-- START FACT -->One quarter of the bones in your body, are in your feet!<!-- END FACT -->**
