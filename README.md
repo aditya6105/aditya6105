@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 240 dots on an arcade Pac-Man game<!-- END FACT -->**
+**<!-- START FACT -->In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.<!-- END FACT -->**
