@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 10 minutes, a hurricane releases more energy than all the world’s nuclear weapons combined.<!-- END FACT -->**
+**<!-- START FACT -->Over 1000 birds a year die from smashing into windows!<!-- END FACT -->**
