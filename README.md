@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Male bats have the highest rate of homosexuality of any mammal.<!-- END FACT -->**
+**<!-- START FACT -->A “quidnunc” is a person who is eager to know the latest news and gossip.<!-- END FACT -->**
