@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name of the girl on the statue of liberty is Mother of Exiles.<!-- END FACT -->**
+**<!-- START FACT -->The average Japanese household watches more than 10 hours of television a day.<!-- END FACT -->**
