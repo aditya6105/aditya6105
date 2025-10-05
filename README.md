@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The highest point in Pennsylvania is lower than the lowest point in Colorado.<!-- END FACT -->**
+**<!-- START FACT -->Rats multiply so quickly that in 18 months, two rats could have over million descendants.<!-- END FACT -->**
