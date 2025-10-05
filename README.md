@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.<!-- END FACT -->**
+**<!-- START FACT -->About 55% of all movies are rated R.<!-- END FACT -->**
