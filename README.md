@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bats always turn left when exiting a cave<!-- END FACT -->**
+**<!-- START FACT -->Sugar was first added to chewing gum in 1869 by a dentist, William Semple.<!-- END FACT -->**
