@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rats multiply so quickly that in 18 months, two rats could have over million descendants.<!-- END FACT -->**
+**<!-- START FACT -->A dime has 118 ridges around the edge. A quarter has 119.<!-- END FACT -->**
