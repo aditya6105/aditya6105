@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name Jeep comes from “GP”, the army abbreviation for General Purpose.<!-- END FACT -->**
+**<!-- START FACT -->Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.<!-- END FACT -->**
