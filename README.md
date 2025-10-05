@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Emus and kangaroos can't walk backwards.<!-- END FACT -->**
+**<!-- START FACT -->Bats always turn left when exiting a cave.<!-- END FACT -->**
