@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A “jiffy” is the scientific name for 1/100th of a second.<!-- END FACT -->**
+**<!-- START FACT -->When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.<!-- END FACT -->**
