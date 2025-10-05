@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rats multiply so quickly that in 18 months, two rats could have over million descendants.<!-- END FACT -->**
+**<!-- START FACT -->Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.<!-- END FACT -->**
