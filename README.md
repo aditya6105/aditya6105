@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rodent's teeth never stop growing.<!-- END FACT -->**
+**<!-- START FACT -->It is impossible to lick your elbow.<!-- END FACT -->**
