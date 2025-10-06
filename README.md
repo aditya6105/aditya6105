@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The house fly hums in the middle octave key of F. <!-- END FACT -->**
+**<!-- START FACT -->Nepal is the only country that doesn’t have a rectangular flag.<!-- END FACT -->**
