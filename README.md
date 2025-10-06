@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Go." is the shortest complete sentence in the English language.<!-- END FACT -->**
+**<!-- START FACT -->Almonds are a member of the peach family.<!-- END FACT -->**
