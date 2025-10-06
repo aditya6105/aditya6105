@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tasmania, Australia has the cleanest air in the inhabited world.<!-- END FACT -->**
+**<!-- START FACT -->You spend 7 years of your life in the bathroom.<!-- END FACT -->**
