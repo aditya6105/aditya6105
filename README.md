@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you went out into space, you would explode before you suffocated because there`s no air pressure.<!-- END FACT -->**
+**<!-- START FACT -->Months that begin on a Sunday will always have a `Friday the 13th`.<!-- END FACT -->**
