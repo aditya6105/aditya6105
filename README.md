@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sperm of a mouse is actually longer than the sperm of an elephant.<!-- END FACT -->**
+**<!-- START FACT -->“The sixth sick sheik’s sixth sheep’s sick” is said to be the toughest tongue twister in English.<!-- END FACT -->**
