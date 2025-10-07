@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"You" is the second most spoken English word<!-- END FACT -->**
+**<!-- START FACT -->Cats have over 100 vocal sounds; dogs only have 10.<!-- END FACT -->**
