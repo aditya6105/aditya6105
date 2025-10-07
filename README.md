@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->40% of McDonald’s profits come from the sales of Happy Meals.<!-- END FACT -->**
+**<!-- START FACT -->The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida.<!-- END FACT -->**
