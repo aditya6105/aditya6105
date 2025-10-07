@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Over 60% of all those who marry get divorced.<!-- END FACT -->**
+**<!-- START FACT -->The Declaration of Independence was written on hemp (marijuana) paper.<!-- END FACT -->**
