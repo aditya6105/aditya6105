@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The February of 1865 is the only month in recorded history not to have a full moon.<!-- END FACT -->**
+**<!-- START FACT -->14% of Americans have skinny-dipped with a member of the opposite sex at least once.<!-- END FACT -->**
