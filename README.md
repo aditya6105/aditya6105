@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000<!-- END FACT -->**
+**<!-- START FACT -->You're born with 300 bones, but by the time you become an adult, you only have 206.<!-- END FACT -->**
