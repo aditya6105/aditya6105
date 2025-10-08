@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ninety percent of New York City cabbies are recently arrived immigrants.<!-- END FACT -->**
+**<!-- START FACT -->All polar bears are left-handed.<!-- END FACT -->**
