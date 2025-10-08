@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Butte County, South Dakota is the geographical center of the U.S.<!-- END FACT -->**
+**<!-- START FACT -->The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.<!-- END FACT -->**
