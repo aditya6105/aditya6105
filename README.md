@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->California has issued 6 drivers licenses to people named "Jesus Christ."<!-- END FACT -->**
+**<!-- START FACT -->The average human brain has about 100 billion nerve cells.<!-- END FACT -->**
