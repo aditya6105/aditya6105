@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"You" is the second most spoken English word<!-- END FACT -->**
+**<!-- START FACT -->Thirty-five percent of the people who use personal ads for dating are already married.<!-- END FACT -->**
