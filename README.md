@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Daniel Boone hated coonskin caps.<!-- END FACT -->**
+**<!-- START FACT -->The average person laughs 10 times a day!<!-- END FACT -->**
