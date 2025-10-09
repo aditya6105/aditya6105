@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person laughs 10 times a day!<!-- END FACT -->**
+**<!-- START FACT -->Nearly 80% of all animals on earth have six legs.<!-- END FACT -->**
