@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.<!-- END FACT -->**
+**<!-- START FACT -->At the height of its power in 400 BC, the Greek city of Sparta had 25,000 citizens and 500,000 slaves.<!-- END FACT -->**
