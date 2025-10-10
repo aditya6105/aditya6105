@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There were always 56 curls in Shirley Temple`s hair.<!-- END FACT -->**
+**<!-- START FACT -->February 1865 is the only month in recorded history not to have a full moon.<!-- END FACT -->**
