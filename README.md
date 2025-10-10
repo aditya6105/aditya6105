@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Simplistic passwords contribute to over 80% of all computer password break-ins.<!-- END FACT -->**
+**<!-- START FACT -->Most dust particles in your house are made from dead skin.<!-- END FACT -->**
