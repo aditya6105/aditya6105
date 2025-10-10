@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Of all the words in the English language, the word 'set' has the most definitions!<!-- END FACT -->**
+**<!-- START FACT -->Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.<!-- END FACT -->**
