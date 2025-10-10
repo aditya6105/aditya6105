@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.<!-- END FACT -->**
+**<!-- START FACT -->The Hawaiian alphabet has only 12 letters.<!-- END FACT -->**
