@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Coca-Cola would be green if coloring weren’t added to it.<!-- END FACT -->**
+**<!-- START FACT -->400-quarter pounders can be made from 1 cow.<!-- END FACT -->**
