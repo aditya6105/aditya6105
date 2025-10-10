@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.<!-- END FACT -->**
+**<!-- START FACT -->Ants closely resemble human manners:  When they wake, they stretch <!-- START FACT -->Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.<!-- END FACT --> appear to yawn in a human manner before taking up the tasks of the day.<!-- END FACT -->**
