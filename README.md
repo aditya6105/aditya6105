@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If a rooster can`t fully extend its neck, it can`t crow.<!-- END FACT -->**
+**<!-- START FACT -->Gary, Indiana is the murder capital of the U.S. - probably the world.<!-- END FACT -->**
