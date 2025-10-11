@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Louisiana's capital building is the tallest one of any U.S. state.<!-- END FACT -->**
+**<!-- START FACT -->The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  <!-- END FACT -->**
