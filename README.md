@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->James Bond`s car had three different license plates in Goldfinger<!-- END FACT -->**
+**<!-- START FACT -->God is not mentioned once in the book of Esther.<!-- END FACT -->**
