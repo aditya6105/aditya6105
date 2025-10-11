@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hair is made from the same substance as fingernails.<!-- END FACT -->**
+**<!-- START FACT -->The longest one-syllable word in the English language is "screeched." <!-- END FACT -->**
