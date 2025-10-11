@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The “spot” on the 7-Up logo comes from its inventor who had red eyes. He was an albino.<!-- END FACT -->**
+**<!-- START FACT -->There are about 450 types of cheese in the world. 240 come from France.<!-- END FACT -->**
