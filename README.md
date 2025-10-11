@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.<!-- END FACT -->**
+**<!-- START FACT -->US Dollar bills are made out of cotton and linen.<!-- END FACT -->**
