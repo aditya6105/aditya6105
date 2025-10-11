@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In ancient Greece "idiot" meant a private citizen or layman.<!-- END FACT -->**
+**<!-- START FACT -->Sugar was first added to chewing gum in 1869 by a dentist, William Semple.<!-- END FACT -->**
