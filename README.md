@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items.<!-- END FACT -->**
+**<!-- START FACT -->Antarctica is the only continent that does not have land areas below sea level.<!-- END FACT -->**
