@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In ancient Rome, when a man testified in court he would swear on his testicles.<!-- END FACT -->**
+**<!-- START FACT -->Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. <!-- END FACT -->**
