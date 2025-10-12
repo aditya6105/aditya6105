@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.<!-- END FACT -->**
+**<!-- START FACT -->Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).<!-- END FACT -->**
