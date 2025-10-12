@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mexico City sinks about 10 inches a year<!-- END FACT -->**
+**<!-- START FACT -->Maine is the only state whose name is just one syllable.<!-- END FACT -->**
