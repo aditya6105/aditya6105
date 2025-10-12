@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.<!-- END FACT -->**
+**<!-- START FACT -->The flea can jump 350 times its body length. It's like a human jumping the length of a football field.<!-- END FACT -->**
