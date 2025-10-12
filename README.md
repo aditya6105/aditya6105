@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Maine is the only state whose name is just one syllable.<!-- END FACT -->**
+**<!-- START FACT -->40% of McDonald’s profits come from the sales of Happy Meals.<!-- END FACT -->**
