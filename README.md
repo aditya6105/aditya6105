@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->All of the clocks in the movie "Pulp Fiction" are stuck on 4:20. <!-- END FACT -->**
+**<!-- START FACT -->Triskaidekaphobia means fear of the number 13.<!-- END FACT -->**
