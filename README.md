@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.<!-- END FACT -->**
+**<!-- START FACT -->The Great Wall of China is the only man-made structure visible from space.<!-- END FACT -->**
