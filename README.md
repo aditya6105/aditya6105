@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).<!-- END FACT -->**
+**<!-- START FACT -->Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. <!-- END FACT -->**
