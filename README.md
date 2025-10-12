@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. <!-- END FACT -->**
+**<!-- START FACT -->They NEVER said “Beam me up, Scotty” on Star Trek.<!-- END FACT -->**
