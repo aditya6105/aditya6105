@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mount Olympus Mons on Mars is three times the size of Mount Everest.<!-- END FACT -->**
+**<!-- START FACT -->The Hawaiian alphabet has only 12 letters.<!-- END FACT -->**
