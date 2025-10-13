@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Pinocchio is Italian for "pine head."<!-- END FACT -->**
+**<!-- START FACT -->When you sneeze, all your bodily functions stop even your heart.<!-- END FACT -->**
