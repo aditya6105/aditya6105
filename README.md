@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average American/Canadian will eat about 11.9 pounds of cereal per year!<!-- END FACT -->**
+**<!-- START FACT -->A cockroach will live nine days without its head before it starves to death.<!-- END FACT -->**
