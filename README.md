@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jimmy Carter was the first U.S. President to be born in a hospital.<!-- END FACT -->**
+**<!-- START FACT -->The king of hearts is the only king without a mustache.<!-- END FACT -->**
