@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.<!-- END FACT -->**
+**<!-- START FACT -->98% of Japanese are cremated.<!-- END FACT -->**
