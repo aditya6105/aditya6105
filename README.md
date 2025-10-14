@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More Monopoly money is printed in a year, than real money throughout the world.<!-- END FACT -->**
+**<!-- START FACT -->In America you will see an average of 500 advertisements a day.<!-- END FACT -->**
