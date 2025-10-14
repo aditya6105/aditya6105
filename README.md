@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dueling is legal in Paraguay as long as both parties are registered blood donors.<!-- END FACT -->**
+**<!-- START FACT -->It has been estimated that humans use only 10% of their brain.<!-- END FACT -->**
