@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dolphins can look in different directions with each eye. They can sleep with one eye open.<!-- END FACT -->**
+**<!-- START FACT -->Benjamin Franklin was the fifth in a series of the youngest son of the youngest son.<!-- END FACT -->**
