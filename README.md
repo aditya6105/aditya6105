@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are a million ants for every person on Earth.<!-- END FACT -->**
+**<!-- START FACT -->The average human will shed 40 pounds of skin in a lifetime.<!-- END FACT -->**
