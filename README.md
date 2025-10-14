@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Al Capone`s business card said he was a used furniture dealer.<!-- END FACT -->**
+**<!-- START FACT -->Nepal is the only country that doesn’t have a rectangular flag.<!-- END FACT -->**
