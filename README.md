@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the average lifetime, a person will walk the equivalent of 5 times around the equator.<!-- END FACT -->**
+**<!-- START FACT -->Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.<!-- END FACT -->**
