@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Andorra, a tiny country between France <!-- START FACT -->A Boeing 747s wingspan is longer than the Wright brother's first flight.<!-- END FACT --> Spain, has the longest average lifespan: 83.49 years.<!-- END FACT -->**
+**<!-- START FACT -->The longest recorded flight of a chicken is thirteen seconds.<!-- END FACT -->**
