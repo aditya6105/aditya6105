@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest recorded flight  of a chicken is 13 seconds<!-- END FACT -->**
+**<!-- START FACT -->Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.<!-- END FACT -->**
