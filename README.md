@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.<!-- END FACT -->**
+**<!-- START FACT -->The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.<!-- END FACT -->**
