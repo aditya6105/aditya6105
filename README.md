@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->For every 'normal' webpage, there are five porn pages.<!-- END FACT -->**
+**<!-- START FACT -->China has more English speakers than the United States.<!-- END FACT -->**
