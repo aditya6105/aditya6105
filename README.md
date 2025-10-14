@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The male seahorse carries the eggs until they hatch instead of the female.<!-- END FACT -->**
+**<!-- START FACT -->Sweden has the least number of murders annually.<!-- END FACT -->**
