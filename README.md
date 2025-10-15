@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You share your birthday with at least 9 million other people in the world.<!-- END FACT -->**
+**<!-- START FACT -->Rape is reported every six minutes in the U.S.<!-- END FACT -->**
