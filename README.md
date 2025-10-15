@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Barbie's full name is "Babara Millicent Roberts."<!-- END FACT -->**
+**<!-- START FACT -->One in fourteen women in America is a natural blonde. Only one in sixteen men is.<!-- END FACT -->**
