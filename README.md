@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.<!-- END FACT -->**
+**<!-- START FACT -->Some worms will eat themselves if they can't find any food!<!-- END FACT -->**
