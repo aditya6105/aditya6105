@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Right-handed people live, on average; nine years longer than left handed people.<!-- END FACT -->**
+**<!-- START FACT -->Napoleon`s penis was sold to an American Urologist for $40,000.<!-- END FACT -->**
