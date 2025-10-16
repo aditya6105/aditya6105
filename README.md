@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The house fly hums in the middle octave key of F. <!-- END FACT -->**
+**<!-- START FACT -->Sigmund Freud had a morbid fear of ferns.<!-- END FACT -->**
