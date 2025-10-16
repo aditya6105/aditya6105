@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Guinness Book of Records holds the record for being the book most often stolen from Libraries.<!-- END FACT -->**
+**<!-- START FACT -->Arabic numerals are not really Arabic; they were created in India.<!-- END FACT -->**
