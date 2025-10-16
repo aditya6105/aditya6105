@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are more than 10 million bricks in the Empire State Building.<!-- END FACT -->**
+**<!-- START FACT -->Your skull is made up of 29 different bones.<!-- END FACT -->**
