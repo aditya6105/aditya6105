@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Giraffes and rats can last longer without water than camels.<!-- END FACT -->**
+**<!-- START FACT -->Humans use a total of 72 different muscles in speech.<!-- END FACT -->**
