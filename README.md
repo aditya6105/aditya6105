@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->John Adams, Thomas Jefferson, and James Monroe died on July 4th.<!-- END FACT -->**
+**<!-- START FACT -->Rape is reported every six minutes in the U.S.<!-- END FACT -->**
