@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Humans use a total of 72 different muscles in speech.<!-- END FACT -->**
+**<!-- START FACT -->The surface of the Earth is about 60% water and 10% ice.<!-- END FACT -->**
