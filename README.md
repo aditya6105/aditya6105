@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Weatherman Willard Scott was the first original Ronald McDonald.<!-- END FACT -->**
+**<!-- START FACT -->Chameleons can move their eyes in two directions at the same time.<!-- END FACT -->**
