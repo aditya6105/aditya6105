@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->“Duff” is the decaying organic matter found on a forest floor.<!-- END FACT -->**
+**<!-- START FACT -->The first bomb the Allies dropped on Berlin in WWII killed the only elephant in the Berlin Zoo.<!-- END FACT -->**
