@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It's against the law to burp, or sneeze in a church in Nebraska, USA.<!-- END FACT -->**
+**<!-- START FACT -->Ramses brand condom is named after the great pharaoh Ramses II who fathered over 160 children.<!-- END FACT -->**
