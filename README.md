@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->God is not mentioned once in the book of Esther.<!-- END FACT -->**
+**<!-- START FACT -->On average a hedgehog's heart beats 300 times a minute.<!-- END FACT -->**
