@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->”Judge Judy” has a $25,000,000 salary, while Supreme Court Justice Ginsberg has a $190,100 salary.<!-- END FACT -->**
+**<!-- START FACT -->The average raindrop falls at 7 miles per hour.<!-- END FACT -->**
