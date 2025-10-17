@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The national anthem of Greece has 158 verses.<!-- END FACT -->**
+**<!-- START FACT -->There`s a systematic lull in conversation every 7 minutes.<!-- END FACT -->**
