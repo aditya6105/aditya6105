@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The international telephone dialing code for Antarctica is 672.<!-- END FACT -->**
+**<!-- START FACT -->The Australian $5 to $100 notes are made of plastic.<!-- END FACT -->**
