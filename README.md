@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The original story from "Tales of 1001 Arabian Nights" begins, "Aladdin was a little Chinese boy." <!-- END FACT -->**
+**<!-- START FACT --> was Harrison Ford`s idea so that he could take a bathroom break.<!-- END FACT -->**
