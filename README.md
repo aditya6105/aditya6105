@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Months that begin on a Sunday will always have a "Friday the 13th."<!-- END FACT -->**
+**<!-- START FACT -->The sun is 330,330 times larger than the earth.<!-- END FACT -->**
