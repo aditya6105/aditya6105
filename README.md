@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A rat can last longer without water than a camel.<!-- END FACT -->**
+**<!-- START FACT -->Sharkskin has tiny tooth-like scales all over.<!-- END FACT -->**
