@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average a hedgehog's heart beats 300 times a minute.<!-- END FACT -->**
+**<!-- START FACT -->The world's youngest parents were 8 and 9 and lived in China in 1910.<!-- END FACT -->**
