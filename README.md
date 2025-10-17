@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mexico City sinks about 10 inches a year<!-- END FACT -->**
+**<!-- START FACT -->Venus is the only planet that rotates clockwise.<!-- END FACT -->**
