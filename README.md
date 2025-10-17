@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Al Capone’s business card said he was a used furniture dealer.<!-- END FACT -->**
+**<!-- START FACT -->Right handed people live, on average, nine years longer than left handed people do.<!-- END FACT -->**
