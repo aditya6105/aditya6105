@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Half of all Americans live within 50 miles of their birthplace.<!-- END FACT -->**
+**<!-- START FACT -->Earth is the only planet not named after a god.<!-- END FACT -->**
