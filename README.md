@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Canada is the only country not to win a gold medal in the summer Olympic games while hosting.<!-- END FACT -->**
+**<!-- START FACT -->"Dreamt" is the only English word that ends in the letters "mt." <!-- END FACT -->**
