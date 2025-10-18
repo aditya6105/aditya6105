@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The shortest British monarch was Charles I, who was 4 feet 9 inches.<!-- END FACT -->**
+**<!-- START FACT -->Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.<!-- END FACT -->**
