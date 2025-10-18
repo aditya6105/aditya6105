@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.<!-- END FACT -->**
+**<!-- START FACT -->Astronaut Neil Armstrong first stepped on the moon with his left foot.<!-- END FACT -->**
