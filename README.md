@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.<!-- END FACT -->**
+**<!-- START FACT -->The dot over the letter “i” is called a tittle.<!-- END FACT -->**
