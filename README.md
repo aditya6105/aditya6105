@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Men can read smaller print than women; women can hear better.<!-- END FACT -->**
+**<!-- START FACT -->One in ten people live on an island.<!-- END FACT -->**
