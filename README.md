@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->40% of all people who come to a party in your home snoop in your medicine cabinet<!-- END FACT -->**
+**<!-- START FACT -->Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).<!-- END FACT -->**
