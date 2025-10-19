@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).<!-- END FACT -->**
+**<!-- START FACT -->The toothbrush was invented in China in 1498.<!-- END FACT -->**
