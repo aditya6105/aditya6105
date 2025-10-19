@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->40% of McDonald’s profits come from the sales of Happy Meals.<!-- END FACT -->**
+**<!-- START FACT -->On average a hedgehog's heart beats 300 times a minute.<!-- END FACT -->**
