@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average human will shed 40 pounds of skin in a lifetime.<!-- END FACT -->**
+**<!-- START FACT -->40% of all people who come to a party in your home snoop in your medicine cabinet<!-- END FACT -->**
