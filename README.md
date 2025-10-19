@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Negative emotions such as anxiety and depression can weaken your immune system.<!-- END FACT -->**
+**<!-- START FACT -->Some worms will eat themselves if they can't find any food!<!-- END FACT -->**
