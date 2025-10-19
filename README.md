@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cats have over one hundred vocal sounds; dogs only have about ten.<!-- END FACT -->**
+**<!-- START FACT -->Leonardo da Vinci could write with one hand while drawing with the other<!-- END FACT -->**
