@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nutmeg is extremely poisonous if injected intravenously. <!-- END FACT -->**
+**<!-- START FACT -->The town of Calma, Chile in the Atacama Desert has never had rain.<!-- END FACT -->**
