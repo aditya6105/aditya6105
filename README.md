@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Alabama was the first state to recognize Christmas as an official holiday.<!-- END FACT -->**
+**<!-- START FACT -->It takes the stomach an hour to break down cows’ milk.<!-- END FACT -->**
