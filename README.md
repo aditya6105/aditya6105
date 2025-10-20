@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first novel ever written on a typewriter is Tom Sawyer.<!-- END FACT -->**
+**<!-- START FACT -->You can lead a cow upstairs but not downstairs.<!-- END FACT -->**
