@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Peanuts are one of the ingredients of dynamite.<!-- END FACT -->**
+**<!-- START FACT -->Your ribs move about 5 million times a year, every time you breathe!<!-- END FACT -->**
