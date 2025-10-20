@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A skunk's smell can be detected by a human a mile away.<!-- END FACT -->**
+**<!-- START FACT -->Over 1000 birds a year die from smashing into windows!<!-- END FACT -->**
