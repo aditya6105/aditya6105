@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average North American will eat 35,000 cookies during their life span.<!-- END FACT -->**
+**<!-- START FACT -->There was once an undersea post office in the Bahamas.<!-- END FACT -->**
