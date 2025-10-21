@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->11% of the world is left-handed.<!-- END FACT -->**
+**<!-- START FACT -->Owls are the only birds that can see the color blue.<!-- END FACT -->**
