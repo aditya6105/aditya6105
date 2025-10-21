@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In golf, a ‘Bo Derek’ is a score of 10.<!-- END FACT -->**
+**<!-- START FACT -->13% of Americans actually believe that some parts of the moon are made of cheese.<!-- END FACT -->**
