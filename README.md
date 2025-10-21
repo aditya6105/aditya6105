@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->There were 240 pedestrian fatalities in New York City in 1994.<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->Bats always turn left when exiting a cave<!-- END FACT -->**
