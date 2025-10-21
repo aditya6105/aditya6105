@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.<!-- END FACT -->**
+**<!-- START FACT -->Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”<!-- END FACT -->**
