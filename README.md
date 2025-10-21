@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Butte County, South Dakota is the geographical center of the U.S.<!-- END FACT -->**
+**<!-- START FACT -->2,000 pounds of space dust and other space debris fall on the Earth every day.<!-- END FACT -->**
