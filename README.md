@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Owls are the only birds that can see the color blue.<!-- END FACT -->**
+**<!-- START FACT -->You burn more calories sleeping than you do watching TV.<!-- END FACT -->**
