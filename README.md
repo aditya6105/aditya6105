@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 100 people choke to death on ballpoint pens every year.<!-- END FACT -->**
+**<!-- START FACT -->In Quebec, there is an old law that states margarine must be a different color than butter.<!-- END FACT -->**
