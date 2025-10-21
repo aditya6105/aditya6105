@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The state of Florida is bigger than England!<!-- END FACT -->**
+**<!-- START FACT -->There were 240 pedestrian fatalities in New York City in 1994.<!-- END FACT -->**
