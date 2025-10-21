@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Americans on average eat 18 acres of pizza every day.<!-- END FACT -->**
+**<!-- START FACT -->Adolf Hitler was a vegetarian, and had only ONE testicle.<!-- END FACT -->**
