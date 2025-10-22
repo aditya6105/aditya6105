@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Great Wall of China is the only man-made structure visible from space.<!-- END FACT -->**
+**<!-- START FACT -->In Quebec, there is an old law that states margarine must be a different color than butter.<!-- END FACT -->**
