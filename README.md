@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is a town in Newfoundland, Canada called Dildo.<!-- END FACT -->**
+**<!-- START FACT -->There are more donut shops in Canada per capita than any other country.<!-- END FACT -->**
