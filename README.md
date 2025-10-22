@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Human thighbones are stronger than concrete.<!-- END FACT -->**
+**<!-- START FACT -->A rat can last longer without water than a camel.<!-- END FACT -->**
