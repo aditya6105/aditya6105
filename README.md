@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Elephants only sleep for two hours each day.<!-- END FACT -->**
+**<!-- START FACT -->Pepsi originally contained pepsin, thus the name. <!-- END FACT -->**
