@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.<!-- END FACT -->**
+**<!-- START FACT -->A shark can detect one part of blood in 100 million parts of water.<!-- END FACT -->**
