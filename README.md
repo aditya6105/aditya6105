@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average people fear spiders more than they do death.<!-- END FACT -->**
+**<!-- START FACT -->It takes more calories to eat a piece of celery than the celery has in it to begin with.<!-- END FACT -->**
