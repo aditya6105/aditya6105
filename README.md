@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Buckingham Palace has 602 rooms.<!-- END FACT -->**
+**<!-- START FACT -->Michigan was the first state to have roadside picnic tables.<!-- END FACT -->**
