@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A snail can sleep for three years.<!-- END FACT -->**
+**<!-- START FACT -->There is a city called Rome on every continent.<!-- END FACT -->**
