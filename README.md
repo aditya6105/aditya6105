@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Stephen Hawking was born exactly 300 years after Galileo died.<!-- END FACT -->**
+**<!-- START FACT -->A crocodiles tongue is attached to the roof of its mouth.<!-- END FACT -->**
