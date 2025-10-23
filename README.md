@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Elephants are the only mammals that cannot jump.<!-- END FACT -->**
+**<!-- START FACT -->A lion's roar can be heard from five miles away.<!-- END FACT -->**
