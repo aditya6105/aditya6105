@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A dime has 118 ridges around the edge. A quarter has 119.<!-- END FACT -->**
+**<!-- START FACT -->3.6 cans of Spam are consumed each second.<!-- END FACT -->**
