@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->55.1% of all US prisoners are in prison for drug offenses.<!-- END FACT -->**
+**<!-- START FACT -->Elephants are the only mammals that cannot jump.<!-- END FACT -->**
