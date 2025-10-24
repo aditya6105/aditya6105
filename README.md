@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rats and horses can’t vomit.<!-- END FACT -->**
+**<!-- START FACT -->The longest recorded flight  of a chicken is 13 seconds<!-- END FACT -->**
