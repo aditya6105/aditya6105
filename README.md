@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sex is biochemically no different from eating large quantities of chocolate.<!-- END FACT -->**
+**<!-- START FACT -->You share your birthday with at least 9 million other people in the world.<!-- END FACT -->**
