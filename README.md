@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Donkeys kill more people than plane crashes.<!-- END FACT -->**
+**<!-- START FACT -->Your stomach has to produce a new layer of mucus every two weeks or it will digest itself.<!-- END FACT -->**
