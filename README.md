@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average a hedgehog's heart beats 300 times a minute.<!-- END FACT -->**
+**<!-- START FACT -->Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.<!-- END FACT -->**
