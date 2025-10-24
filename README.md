@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Honey is the only natural food that is made without destroying any kind of life.<!-- END FACT -->**
+**<!-- START FACT -->Cher's last name was "Sarkissian." She changed it because no one could pronounce it.<!-- END FACT -->**
