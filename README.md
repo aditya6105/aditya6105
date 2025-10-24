@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.<!-- END FACT -->**
+**<!-- START FACT -->When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.<!-- END FACT -->**
