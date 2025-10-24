@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your stomach produces a new layer of mucus every two weeks so that it doesn’t digest itself.<!-- END FACT -->**
+**<!-- START FACT -->The first owner of the Marlboro company died of lung cancer.<!-- END FACT -->**
