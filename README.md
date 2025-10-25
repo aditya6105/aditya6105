@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There`s a systematic lull in conversation every 7 minutes.<!-- END FACT -->**
+**<!-- START FACT -->Humans and dolphins are the only species that have sex for pleasure.<!-- END FACT -->**
