@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The penguin is the only bird that can swim but can't fly.<!-- END FACT -->**
+**<!-- START FACT -->Baby Ruth candy bar was named after Grover Cleveland’s daughter, Ruth, not the baseball player.<!-- END FACT -->**
