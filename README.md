@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the U.S, Frisbees outsell footballs, baseballs and basketballs combined.<!-- END FACT -->**
+**<!-- START FACT -->Lee Harvey Oswald's cadaver tag sold at an auction for $6,600 in 1992.<!-- END FACT -->**
