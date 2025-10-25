@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.<!-- END FACT -->**
+**<!-- START FACT -->111,111,111 x 111,111,111 = 12,345,678,987,654,321<!-- END FACT -->**
