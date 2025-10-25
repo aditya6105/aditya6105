@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Antarctica is the only continent that does not have land areas below sea level.<!-- END FACT -->**
+**<!-- START FACT -->On average, 12 newborns will be given to the wrong parents every day.<!-- END FACT -->**
