@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Peter Falk, who played "Columbo," has a glass eye.<!-- END FACT -->**
+**<!-- START FACT -->Like fingerprints, everyone's tongue print is different!<!-- END FACT -->**
