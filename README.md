@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name Jeep comes from “GP”, the army abbreviation for General Purpose.<!-- END FACT -->**
+**<!-- START FACT -->Annual growth of WWW traffic is 314,000%<!-- END FACT -->**
