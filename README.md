@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.<!-- END FACT -->**
+**<!-- START FACT -->Sherlock Holmes NEVER said “Elementary, my dear Watson”<!-- END FACT -->**
