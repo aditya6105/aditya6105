@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Iceland, a Big Mac costs $5.50.<!-- END FACT -->**
+**<!-- START FACT -->More than 50% of the people in the world have never made or received a telephone call.<!-- END FACT -->**
