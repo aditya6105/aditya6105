@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->IBM’s motto is “Think”. Apple later made their motto “Think different”.<!-- END FACT -->**
+**<!-- START FACT -->While in Alcatraz, Al Capone was inmate #85.<!-- END FACT -->**
