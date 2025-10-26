@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->While in Alcatraz, Al Capone was inmate #85.<!-- END FACT -->**
+**<!-- START FACT -->Broccoli and cauliflower are the only vegetables that are flowers.<!-- END FACT -->**
