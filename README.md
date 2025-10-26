@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Children grow faster in the springtime.<!-- END FACT -->**
+**<!-- START FACT -->The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.<!-- END FACT -->**
