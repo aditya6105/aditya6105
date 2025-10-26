@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The people of France eat more cheese than any other country in the world.<!-- END FACT -->**
+**<!-- START FACT -->IBM’s motto is “Think”. Apple later made their motto “Think different”.<!-- END FACT -->**
