@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ninety percent of all species that have become extinct have been birds.<!-- END FACT -->**
+**<!-- START FACT -->315 entries in Webster’s 1996 dictionary were misspelled.<!-- END FACT -->**
