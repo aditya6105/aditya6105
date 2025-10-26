@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Broccoli and cauliflower are the only vegetables that are flowers.<!-- END FACT -->**
+**<!-- START FACT -->A cat's jaw cannot move sideways.<!-- END FACT -->**
