@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The mother of Michael Nesmith of "The Monkees" invented whiteout.<!-- END FACT -->**
+**<!-- START FACT -->Poland is the "stolen car capital of the world".<!-- END FACT -->**
