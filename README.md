@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It's possible to lead a cow upstairs...but not downstairs.<!-- END FACT -->**
+**<!-- START FACT -->The U.S. military operates 234 golf courses<!-- END FACT -->**
