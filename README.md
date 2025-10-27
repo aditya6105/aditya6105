@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The mother of Michael Nesmith of "The Monkees" invented whiteout.<!-- END FACT -->**
+**<!-- START FACT -->The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.<!-- END FACT -->**
