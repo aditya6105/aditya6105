@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A pound of houseflies contains more protein than a pound of beef<!-- END FACT -->**
+**<!-- START FACT -->A duck's quack doesn't echo, and no one knows why.<!-- END FACT -->**
