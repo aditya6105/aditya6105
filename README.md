@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->California consumes more bottled water than any other product.<!-- END FACT -->**
+**<!-- START FACT -->25% of a human’s bones are in its feet.<!-- END FACT -->**
