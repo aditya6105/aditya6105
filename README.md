@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More bullets were fired in `Starship Troopers` than any other movie ever made.<!-- END FACT -->**
+**<!-- START FACT -->The cheetah is the only cat that can't retract its claws.<!-- END FACT -->**
