@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cow gives nearly 200,000 glasses of milk in her lifetime.<!-- END FACT -->**
+**<!-- START FACT -->Switzerland is the only country with a square flag.<!-- END FACT -->**
