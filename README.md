@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->About 55% of all movies are rated R.<!-- END FACT -->**
+**<!-- START FACT -->Johnny Appleseed planted apples so that people could use apple cider to make alcohol.<!-- END FACT -->**
