@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every time you lick a stamp you consume 1/10 of a calorie.<!-- END FACT -->**
+**<!-- START FACT -->Every person, including identical twins, has a unique eye <!-- START FACT -->Every time you lick a stamp you consume 1/10 of a calorie.<!-- END FACT --> tongue print along with their finger print.<!-- END FACT -->**
