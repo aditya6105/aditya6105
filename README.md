@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More people are allergic to cow's milk than any other food.<!-- END FACT -->**
+**<!-- START FACT -->“Ithyphallophobia" is a morbid fear of seeing, thinking about or having an erect penis.<!-- END FACT -->**
