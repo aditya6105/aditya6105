@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An American urologist bought Napoleon’s penis for $40,000.<!-- END FACT -->**
+**<!-- START FACT -->Van Gogh only sold one painting when he was alive.<!-- END FACT -->**
