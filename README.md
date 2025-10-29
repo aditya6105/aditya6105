@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A giraffe can clean its ears with its 21-inch tongue!<!-- END FACT -->**
+**<!-- START FACT -->The average human will shed 40 pounds of skin in a lifetime.<!-- END FACT -->**
