@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Al Capone’s business card said he was a used furniture dealer.<!-- END FACT -->**
+**<!-- START FACT -->A “quidnunc” is a person who is eager to know the latest news and gossip.<!-- END FACT -->**
