@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the Philippine jungle, the yo-yo was first used as a weapon.<!-- END FACT -->**
+**<!-- START FACT -->Residents of Houston, Texas lead the U.S. in eating out - approximately 4.6 times per week.<!-- END FACT -->**
