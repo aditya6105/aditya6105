@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sigmund Freud had a morbid fear of ferns.<!-- END FACT -->**
+**<!-- START FACT -->Chewing gum while peeling onions will keep you from crying.<!-- END FACT -->**
