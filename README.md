@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lightning strikes the earth about 8 million times a day.<!-- END FACT -->**
+**<!-- START FACT -->The average chocolate bar has 8 insects’ legs melted into it.<!-- END FACT -->**
