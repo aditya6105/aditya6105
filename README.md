@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Chewing gum while peeling onions will keep you from crying.<!-- END FACT -->**
+**<!-- START FACT -->There are 45 miles of nerves in the skin of a human being.<!-- END FACT -->**
