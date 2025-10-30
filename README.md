@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ramses brand condom is named after the great pharaoh Ramses II who fathered over 160 children.<!-- END FACT -->**
+**<!-- START FACT -->The odds of being born male are about 51.2%, according to census.<!-- END FACT -->**
