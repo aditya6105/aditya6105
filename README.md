@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Because metal was scarce, the Oscars given out during World War II were made of wood.<!-- END FACT -->**
+**<!-- START FACT -->Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.<!-- END FACT -->**
