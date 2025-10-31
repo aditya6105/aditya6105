@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The ZIP in “ZIP code” means Zoning Improvement Plan.<!-- END FACT -->**
+**<!-- START FACT -->Al Capone’s business card said he was a used furniture dealer.<!-- END FACT -->**
