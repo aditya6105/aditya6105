@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Simpsons is the longest running animated series on TV.<!-- END FACT -->**
+**<!-- START FACT -->Shakespeare invented the words “assassination” and “bump.”<!-- END FACT -->**
