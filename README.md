@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A skunk's smell can be detected by a human a mile away.<!-- END FACT -->**
+**<!-- START FACT -->On average, 12 newborns will be given to the wrong parents daily.<!-- END FACT -->**
