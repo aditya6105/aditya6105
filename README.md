@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Baby robins eat 14 feet of earthworms every day<!-- END FACT -->**
+**<!-- START FACT -->Russians generally answer the phone by saying, "I'm listening".<!-- END FACT -->**
