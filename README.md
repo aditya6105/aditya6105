@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.<!-- END FACT -->**
+**<!-- START FACT -->The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.<!-- END FACT -->**
