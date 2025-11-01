@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every day, 7% of the US eats at McDonald’s.<!-- END FACT -->**
+**<!-- START FACT -->Cats urine glows under a black light.<!-- END FACT -->**
