@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A “jiffy” is the scientific name for 1/100th of a second.<!-- END FACT -->**
+**<!-- START FACT -->The name Wendy was made up for the book "Peter Pan."<!-- END FACT -->**
