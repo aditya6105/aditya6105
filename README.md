@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.<!-- END FACT -->**
+**<!-- START FACT -->“Canada” is an Indian word meaning “Big Village”.<!-- END FACT -->**
