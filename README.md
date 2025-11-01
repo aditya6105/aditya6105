@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->38% of American men say they love their cars more than women<!-- END FACT -->**
+**<!-- START FACT -->There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).<!-- END FACT -->**
