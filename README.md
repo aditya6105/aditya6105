@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Proportional to their size, cats have the largest eyes of all mammals.<!-- END FACT -->**
+**<!-- START FACT -->Length of beard an average man would grow if he never shaved 27.5 feet<!-- END FACT -->**
