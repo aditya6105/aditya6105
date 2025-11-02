@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Australian $5 to $100 notes are made of plastic.<!-- END FACT -->**
+**<!-- START FACT -->The "pound" key on your keyboard (#) is called an octotroph. <!-- END FACT -->**
