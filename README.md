@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A horse can look forward with one eye and back with the other.<!-- END FACT -->**
+**<!-- START FACT -->It takes the stomach an hour to break down cows’ milk.<!-- END FACT -->**
