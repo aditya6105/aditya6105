@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are no clocks in Las Vegas gambling casinos.<!-- END FACT -->**
+**<!-- START FACT -->Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage.<!-- END FACT -->**
