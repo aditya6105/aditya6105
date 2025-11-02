@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Shakespeare is quoted 33,150 times in the Oxford English dictionary.<!-- END FACT -->**
+**<!-- START FACT -->The Bible, the world's best-selling book, is also the world's most shoplifted book.<!-- END FACT -->**
