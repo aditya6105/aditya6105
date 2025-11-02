@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 12 newborns will be given to the wrong parents daily.<!-- END FACT -->**
+**<!-- START FACT -->Barbie`s full name is Barbara Millicent Roberts.<!-- END FACT -->**
