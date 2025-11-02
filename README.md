@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Venus and Uranus are the only planets that rotate opposite to the direction of their orbit.<!-- END FACT -->**
+**<!-- START FACT -->98% of all murders and rapes are by a close family member or friend of the victim.<!-- END FACT -->**
