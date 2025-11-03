@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first novel ever written on a typewriter is Tom Sawyer.<!-- END FACT -->**
+**<!-- START FACT -->The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.<!-- END FACT -->**
