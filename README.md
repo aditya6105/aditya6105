@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Astronaut Neil Armstrong first stepped on the moon with his left foot.<!-- END FACT -->**
+**<!-- START FACT -->The average American works 24,000 hours in their lifetime just to pay their taxes<!-- END FACT -->**
