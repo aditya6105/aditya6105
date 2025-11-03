@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A giraffe can go without water longer than a camel.<!-- END FACT -->**
+**<!-- START FACT -->King Louis XIX ruled France for 15 minutes.<!-- END FACT -->**
