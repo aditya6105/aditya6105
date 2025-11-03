@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lightning strikes the earth about 8 million times a day.<!-- END FACT -->**
+**<!-- START FACT -->Women blink nearly twice as much as men.<!-- END FACT -->**
