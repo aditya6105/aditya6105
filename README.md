@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One out of every 43 prisoners escapes from jail. 94% are recaptured.<!-- END FACT -->**
+**<!-- START FACT -->All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.<!-- END FACT -->**
