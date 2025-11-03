@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 100 people choke to death on ball-point pens every year.<!-- END FACT -->**
+**<!-- START FACT -->Rats multiply so quickly that in 18 months, two rats could have over million descendants.<!-- END FACT -->**
