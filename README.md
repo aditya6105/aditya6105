@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In golf, a ‘Bo Derek’ is a score of 10.<!-- END FACT -->**
+**<!-- START FACT -->The dot over the letter `i` is called a tittle.  <!-- END FACT -->**
