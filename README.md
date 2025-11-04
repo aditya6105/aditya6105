@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.<!-- END FACT -->**
+**<!-- START FACT -->There is a town in Newfoundland, Canada called Dildo.<!-- END FACT -->**
