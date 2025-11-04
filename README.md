@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.<!-- END FACT -->**
+**<!-- START FACT -->The town of Calma, Chile in the Atacama Desert has never had rain.<!-- END FACT -->**
