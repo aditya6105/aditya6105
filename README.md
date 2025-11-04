@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.<!-- END FACT -->**
+**<!-- START FACT -->It’s estimated that at any one time around 0.7% of the world’s population is drunk.<!-- END FACT -->**
