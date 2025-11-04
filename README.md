@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.<!-- END FACT -->**
+**<!-- START FACT -->Coca-Cola would be green if coloring weren’t added to it.<!-- END FACT -->**
