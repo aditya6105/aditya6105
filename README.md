@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.<!-- END FACT -->**
+**<!-- START FACT -->Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen.<!-- END FACT -->**
