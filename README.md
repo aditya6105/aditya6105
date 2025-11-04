@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->When the Titanic sank, 2228 people were on it. Only 706 survived.<!-- END FACT -->**
+**<!-- START FACT -->Maine is the only state (in USA) whose name is just one syllable. <!-- END FACT -->**
