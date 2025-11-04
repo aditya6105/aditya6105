@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.<!-- END FACT -->**
+**<!-- START FACT -->A 2" X 4" is really 1-1/2" by 3-1/2".<!-- END FACT -->**
