@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.<!-- END FACT -->**
+**<!-- START FACT -->There is actually no danger in swimming right after you eat, though it may feel uncomfortable.<!-- END FACT -->**
