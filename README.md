@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It’s estimated that at any one time around 0.7% of the world’s population is drunk.<!-- END FACT -->**
+**<!-- START FACT -->The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.<!-- END FACT -->**
