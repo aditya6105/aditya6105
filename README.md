@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Maine is the only state (in USA) whose name is just one syllable. <!-- END FACT -->**
+**<!-- START FACT -->You are more likely to be killed by a champagne cork than by a poisonous spider.<!-- END FACT -->**
