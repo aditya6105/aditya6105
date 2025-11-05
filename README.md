@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The strongest muscle in the human body is the tongue. (the heart is not a muscle)<!-- END FACT -->**
+**<!-- START FACT -->Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage.<!-- END FACT -->**
