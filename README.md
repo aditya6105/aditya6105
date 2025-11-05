@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Americans on the average eat 18 acres of pizza every day.<!-- END FACT -->**
+**<!-- START FACT -->In York, it is perfectly legal to shoot a Scotsman with a bow and arrow (except on Sundays)<!-- END FACT -->**
