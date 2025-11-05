@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It takes the stomach an hour to break down cows’ milk.<!-- END FACT -->**
+**<!-- START FACT -->40,000 Americans are injured by toilets each year.<!-- END FACT -->**
