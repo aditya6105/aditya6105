@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The mother of Michael Nesmith of "The Monkees" invented whiteout.<!-- END FACT -->**
+**<!-- START FACT -->A cat's jaw cannot move sideways.<!-- END FACT -->**
