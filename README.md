@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sun is 330,330 times larger than the earth.<!-- END FACT -->**
+**<!-- START FACT -->James Bond`s car had three different license plates in Goldfinger<!-- END FACT -->**
