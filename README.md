@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Isaac Asimov is the only author to have a book in every Dewey-decimal category.<!-- END FACT -->**
+**<!-- START FACT -->The state of Maryland has no natural Lakes.<!-- END FACT -->**
