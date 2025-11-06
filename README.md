@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->NBA superstar Michael Jordan was originally cut from his high school basketball team.<!-- END FACT -->**
+**<!-- START FACT -->The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.<!-- END FACT -->**
