@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Humans use a total of 72 different muscles in speech.<!-- END FACT -->**
+**<!-- START FACT -->One in every 4 Americans has appeared on television.<!-- END FACT -->**
