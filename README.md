@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Only 6 people in the whole world have died from moshing.<!-- END FACT -->**
+**<!-- START FACT -->More people are allergic to cow's milk than any other food.<!-- END FACT -->**
