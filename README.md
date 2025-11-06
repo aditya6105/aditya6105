@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->15 million blood cells are destroyed in the human body every second.<!-- END FACT -->**
+**<!-- START FACT -->The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.<!-- END FACT -->**
