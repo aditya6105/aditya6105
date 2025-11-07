@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Camel’s have three eyelids.<!-- END FACT -->**
+**<!-- START FACT -->Fingernails grow nearly 4 times faster than toenails!<!-- END FACT -->**
