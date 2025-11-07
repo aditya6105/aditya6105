@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are a million ants for every person on Earth.<!-- END FACT -->**
+**<!-- START FACT -->For every 230 cars that are made, 1 will be stolen.<!-- END FACT -->**
