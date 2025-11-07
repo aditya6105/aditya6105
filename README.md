@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hannibal had only one eye after getting a disease while attacking Rome.<!-- END FACT -->**
+**<!-- START FACT -->Most American car horns honk in the key of F.<!-- END FACT -->**
