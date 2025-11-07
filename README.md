@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first novel ever written on a typewriter is Tom Sawyer.<!-- END FACT -->**
+**<!-- START FACT -->Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.<!-- END FACT -->**
