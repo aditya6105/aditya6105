@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nepal is the only country that doesn’t have a rectangular flag.<!-- END FACT -->**
+**<!-- START FACT -->Dr. Jack Kevorkian first patient has Alzheimer`s disease.<!-- END FACT -->**
