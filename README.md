@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Fingernails grow nearly 4 times faster than toenails!<!-- END FACT -->**
+**<!-- START FACT -->Poland is the "stolen car capital of the world".<!-- END FACT -->**
