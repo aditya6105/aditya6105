@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The past-tense of the English word “dare” is “durst”<!-- END FACT -->**
+**<!-- START FACT -->Camel’s have three eyelids.<!-- END FACT -->**
