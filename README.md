@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->About 200,000,000 M<!-- START FACT -->Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.<!-- END FACT -->Ms are sold each day in the United States.<!-- END FACT -->**
+**<!-- START FACT -->The dot over the letter `i` is called a tittle.  <!-- END FACT -->**
