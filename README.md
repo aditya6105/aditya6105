@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.<!-- END FACT -->**
+**<!-- START FACT -->To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.<!-- END FACT -->**
