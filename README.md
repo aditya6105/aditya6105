@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Like fingerprints, everyone's tongue print is different!<!-- END FACT -->**
+**<!-- START FACT -->The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.<!-- END FACT -->**
