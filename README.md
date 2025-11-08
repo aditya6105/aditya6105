@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Frank Lloyd Wright's son invented Lincoln Logs.<!-- END FACT -->**
+**<!-- START FACT -->Fingernails grow nearly 4 times faster than toenails!<!-- END FACT -->**
