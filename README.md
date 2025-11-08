@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Americans are responsible for about 1/5 of the world’s garbage annually.<!-- END FACT -->**
+**<!-- START FACT -->A Boeing 747s wingspan is longer than the Wright brother's first flight.<!-- END FACT -->**
