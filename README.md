@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Donkeys kill more people than plane crashes.<!-- END FACT -->**
+**<!-- START FACT -->Rugby, North Dakota is the geographical center of North America.<!-- END FACT -->**
