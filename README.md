@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->315 entries in Webster’s 1996 dictionary were misspelled.<!-- END FACT -->**
+**<!-- START FACT -->Children grow faster in the springtime.<!-- END FACT -->**
