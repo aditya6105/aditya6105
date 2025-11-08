@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Illinois has the highest number of personalized license plates than any other state.<!-- END FACT -->**
+**<!-- START FACT -->`Obsession` is the most popular boat name.<!-- END FACT -->**
