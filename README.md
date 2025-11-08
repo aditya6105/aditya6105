@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.<!-- END FACT -->**
+**<!-- START FACT -->The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.<!-- END FACT -->**
