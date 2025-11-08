@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.<!-- END FACT -->**
+**<!-- START FACT -->Illinois has the highest number of personalized license plates than any other state.<!-- END FACT -->**
