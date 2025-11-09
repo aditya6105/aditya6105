@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Camels have three eyelids to protect themselves from blowing sand!<!-- END FACT -->**
+**<!-- START FACT -->The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  <!-- END FACT -->**
