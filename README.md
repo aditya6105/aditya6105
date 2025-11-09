@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->315 entries in Webster’s 1996 dictionary were misspelled.<!-- END FACT -->**
+**<!-- START FACT -->When we think of Big Ben in London, we think of the clock. Actually, it's the bell.<!-- END FACT -->**
