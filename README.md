@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Julius Caesar’s autograph is worth about $2,000,000.<!-- END FACT -->**
+**<!-- START FACT -->Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.<!-- END FACT -->**
