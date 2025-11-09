@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Canada is the only country not to win a gold medal in the summer Olympic games while hosting.<!-- END FACT -->**
+**<!-- START FACT -->Hannibal had only one eye after getting a disease while attacking Rome.<!-- END FACT -->**
