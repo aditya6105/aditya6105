@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ninety percent of all species that have become extinct have been birds.<!-- END FACT -->**
+**<!-- START FACT -->The average human brain has about 100 billion nerve cells.<!-- END FACT -->**
