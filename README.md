@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A crocodiles tongue is attached to the roof of its mouth.<!-- END FACT -->**
+**<!-- START FACT -->Sweden has the least number of murders annually.<!-- END FACT -->**
