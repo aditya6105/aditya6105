@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Yo-yos were used as weapons by warriors in the Philippines in the 16th century.<!-- END FACT -->**
+**<!-- START FACT -->60% of electrocutions occur while talking on the telephone during a thunderstorm.<!-- END FACT -->**
