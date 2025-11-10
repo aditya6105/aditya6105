@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are two credit cards for every person in the United States.<!-- END FACT -->**
+**<!-- START FACT -->Venus and Uranus are the only planets that rotate opposite to the direction of their orbit.<!-- END FACT -->**
