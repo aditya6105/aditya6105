@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Astronaut Neil Armstrong first stepped on the moon with his left foot.<!-- END FACT -->**
+**<!-- START FACT -->On a Canadian two dollar bill, the flag flying over the Parliament buildings is an American flag.<!-- END FACT -->**
