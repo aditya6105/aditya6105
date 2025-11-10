@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mercury is the only planet whose orbit is coplanar with its equator.<!-- END FACT -->**
+**<!-- START FACT -->Your tongue is the only muscle in your body that is attached at only one end.<!-- END FACT -->**
