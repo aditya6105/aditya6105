@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Astronaut Neil Armstrong first stepped on the moon with his left foot.<!-- END FACT -->**
+**<!-- START FACT -->Mercury is the only planet whose orbit is coplanar with its equator.<!-- END FACT -->**
