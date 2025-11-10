@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are over 58 million dogs in the US<!-- END FACT -->**
+**<!-- START FACT -->During his entire life, Vincent Van Gogh sold exactly one painting, “Red Vineyard at Arles”.<!-- END FACT -->**
