@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.<!-- END FACT -->**
+**<!-- START FACT -->Each month, there is at least one report of UFOs from each province of Canada.<!-- END FACT -->**
