@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Illinois has the highest number of personalized license plates than any other state.<!-- END FACT -->**
+**<!-- START FACT -->Peanuts are one of the ingredients of dynamite.<!-- END FACT -->**
