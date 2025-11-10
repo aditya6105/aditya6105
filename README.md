@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->14% of all facts and statistics are made up and 27% of people know that fact.<!-- END FACT -->**
+**<!-- START FACT -->The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.<!-- END FACT -->**
