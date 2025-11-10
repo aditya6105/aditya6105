@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The odds of being born male are about 51.2%, according to census.<!-- END FACT -->**
+**<!-- START FACT -->It's impossible to sneeze with your eyes open.<!-- END FACT -->**
