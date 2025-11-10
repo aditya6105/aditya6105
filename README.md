@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sound of E.T. walking was made by someone squishing her hands in jelly.<!-- END FACT -->**
+**<!-- START FACT -->The strongest muscle in the human body is the tongue. (the heart is not a muscle)<!-- END FACT -->**
