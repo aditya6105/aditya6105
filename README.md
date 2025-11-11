@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is a 1 in 4 chance that New York will have a white Christmas.<!-- END FACT -->**
+**<!-- START FACT -->Russians generally answer the phone by saying, "I'm listening".<!-- END FACT -->**
