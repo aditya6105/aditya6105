@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Because metal was scarce, the Oscars given out during World War II were made of wood.<!-- END FACT -->**
+**<!-- START FACT -->The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.<!-- END FACT -->**
