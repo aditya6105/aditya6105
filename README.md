@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average life of a taste bud is 10 days.<!-- END FACT -->**
+**<!-- START FACT -->There is an average of 61,000 people airborne over the US at any given moment.<!-- END FACT -->**
