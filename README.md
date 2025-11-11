@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A giraffe can clean its ears with its 21-inch tongue!<!-- END FACT -->**
+**<!-- START FACT -->Nutmeg is extremely poisonous if injected intravenously. <!-- END FACT -->**
