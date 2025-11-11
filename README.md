@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every person, including identical twins, has a unique eye <!-- START FACT -->The toothbrush was invented in China in 1498.<!-- END FACT --> tongue print along with their finger print.<!-- END FACT -->**
+**<!-- START FACT -->Your heart beats over 100,000 times a day!<!-- END FACT -->**
