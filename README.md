@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sugar was first added to chewing gum in 1869 by a dentist, William Semple.<!-- END FACT -->**
+**<!-- START FACT -->The electric chair was invented by a dentist.<!-- END FACT -->**
