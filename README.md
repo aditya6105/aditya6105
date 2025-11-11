@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your skull is made up of 29 different bones.<!-- END FACT -->**
+**<!-- START FACT -->The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.<!-- END FACT -->**
