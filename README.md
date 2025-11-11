@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->$203,000,000 is spent on barbed wire each year in the U.S.<!-- END FACT -->**
+**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->$203,000,000 is spent on barbed wire each year in the U.S.<!-- END FACT --> Cancer.<!-- END FACT -->**
