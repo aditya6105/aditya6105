@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.<!-- END FACT -->**
+**<!-- START FACT -->India has a Bill of Rights for cows.<!-- END FACT -->**
