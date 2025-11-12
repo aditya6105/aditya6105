@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->For every 230 cars that are made, 1 will be stolen.<!-- END FACT -->**
+**<!-- START FACT -->Honey is the only natural food that is made without destroying any kind of life.<!-- END FACT -->**
