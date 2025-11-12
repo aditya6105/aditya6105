@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word “lethologica” describes the state of not being able to remember the word you want.<!-- END FACT -->**
+**<!-- START FACT -->Sir Isaac Newton was only 23 years old when he discovered the law of universal gravitation.<!-- END FACT -->**
