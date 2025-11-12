@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Residents of Houston, Texas lead the U.S. in eating out - approximately 4.6 times per week.<!-- END FACT -->**
+**<!-- START FACT -->Coconuts kill about 150 people each year. That’s more than sharks.<!-- END FACT -->**
