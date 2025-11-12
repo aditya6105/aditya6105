@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More than 1,000 different languages are spoken on the continent of Africa.<!-- END FACT -->**
+**<!-- START FACT -->Lightning strikes the earth about 8 million times a day.<!-- END FACT -->**
