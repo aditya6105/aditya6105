@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The people of France eat more cheese than any other country in the world.<!-- END FACT -->**
+**<!-- START FACT -->For every 230 cars that are made, 1 will be stolen.<!-- END FACT -->**
