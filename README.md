@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Recycling one glass jar, saves enough energy to watch T.V for 3 hours!<!-- END FACT -->**
+**<!-- START FACT -->One in fourteen women in America is a natural blonde. Only one in sixteen men is.<!-- END FACT -->**
