@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The town of Calma, Chile in the Atacama Desert has never had rain.<!-- END FACT -->**
+**<!-- START FACT -->Cats have over 100 vocal sounds; dogs only have 10.<!-- END FACT -->**
