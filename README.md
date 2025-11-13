@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the last 4000 years no new animals have been domesticated.<!-- END FACT -->**
+**<!-- START FACT -->Two-thirds of the world`s eggplant is grown in New Jersey.  <!-- END FACT -->**
