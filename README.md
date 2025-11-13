@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Humans use a total of 72 different muscles in speech.<!-- END FACT -->**
+**<!-- START FACT -->A duck's quack doesn't echo, and no one knows why.<!-- END FACT -->**
