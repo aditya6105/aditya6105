@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The international telephone dialing code for Antarctica is 672.<!-- END FACT -->**
+**<!-- START FACT -->The town of Calma, Chile in the Atacama Desert has never had rain.<!-- END FACT -->**
