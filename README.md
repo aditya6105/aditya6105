@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.<!-- END FACT -->**
+**<!-- START FACT -->The Automated Teller Machine (ATM) was introduced in England in 1965.<!-- END FACT -->**
