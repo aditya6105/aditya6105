@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in eight million people has progeria, a disease that causes people to grow faster than they age.<!-- END FACT -->**
+**<!-- START FACT -->Americans travel 1,144,721,000 miles by air every day<!-- END FACT -->**
