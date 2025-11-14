@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first toilet ever seen on television was on "Leave It to Beaver."<!-- END FACT -->**
+**<!-- START FACT -->The state of Maryland has no natural Lakes.<!-- END FACT -->**
