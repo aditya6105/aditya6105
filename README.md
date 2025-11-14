@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The only domestic animal not mentioned in the Bible is the cat. <!-- END FACT -->**
+**<!-- START FACT -->Canadian researchers have found that Einstein's brain was 15% wider than normal.<!-- END FACT -->**
