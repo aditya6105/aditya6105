@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->During his entire life, Vincent Van Gogh sold exactly one painting, “Red Vineyard at Arles”.<!-- END FACT -->**
+**<!-- START FACT -->There are more than 10 million bricks in the Empire State Building!<!-- END FACT -->**
