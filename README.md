@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->11% of the world is left-handed.<!-- END FACT -->**
+**<!-- START FACT -->Only 6 people in the whole world have died from moshing.<!-- END FACT -->**
