@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 100 people choke to death on ballpoint pens every year.<!-- END FACT -->**
+**<!-- START FACT -->In France, a five year old child can buy an alcoholic drink in a bar<!-- END FACT -->**
