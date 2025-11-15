@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Baby Ruth candy bar was named after Grover Cleveland’s daughter, Ruth, not the baseball player.<!-- END FACT -->**
+**<!-- START FACT -->There is no solid proof of who built the Taj Mahal.<!-- END FACT -->**
