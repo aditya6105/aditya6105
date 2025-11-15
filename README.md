@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can't kill yourself by holding your breath<!-- END FACT -->**
+**<!-- START FACT -->Telly Savalas and Louis Armstrong died on their birthdays.  <!-- END FACT -->**
