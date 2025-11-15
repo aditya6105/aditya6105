@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average American works 24,000 hours in their lifetime just to pay their taxes<!-- END FACT -->**
+**<!-- START FACT -->There are about 450 types of cheese in the world. 240 come from France.<!-- END FACT -->**
