@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bulgarians are known to be the biggest yogurt eaters in the world.<!-- END FACT -->**
+**<!-- START FACT -->Every time you lick a stamp, you're consuming 1/10 of a calorie.<!-- END FACT -->**
