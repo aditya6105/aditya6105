@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->25% of a human’s bones are in its feet.<!-- END FACT -->**
+**<!-- START FACT -->The Vatican city registered 0 births in 1983<!-- END FACT -->**
