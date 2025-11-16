@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->“The sixth sick sheik’s sixth sheep’s sick” is said to be the toughest tongue twister in English.<!-- END FACT -->**
+**<!-- START FACT -->One quarter of the bones in your body are in your feet.<!-- END FACT -->**
