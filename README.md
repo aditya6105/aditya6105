@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jimmy Carter was the first U.S. President to be born in a hospital.<!-- END FACT -->**
+**<!-- START FACT -->Grapes explode when you put them in the microwave. Go on, try it then<!-- END FACT -->**
