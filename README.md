@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Automated Teller Machine (ATM) was introduced in England in 1965.<!-- END FACT -->**
+**<!-- START FACT -->A giraffe can go without water longer than a camel.<!-- END FACT -->**
