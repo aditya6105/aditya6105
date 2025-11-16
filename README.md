@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Quebec, there is an old law that states margarine must be a different color than butter.<!-- END FACT -->**
+**<!-- START FACT -->Blondes have more hair than dark-haired people do.<!-- END FACT -->**
