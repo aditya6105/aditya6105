@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Pinocchio is Italian for "pine head."<!-- END FACT -->**
+**<!-- START FACT -->In Iceland, a Big Mac costs $5.50.<!-- END FACT -->**
