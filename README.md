@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->“Ithyphallophobia" is a morbid fear of seeing, thinking about or having an erect penis.<!-- END FACT -->**
+**<!-- START FACT -->If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.<!-- END FACT -->**
