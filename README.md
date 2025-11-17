@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The only capital letter in the Roman alphabet with exactly one end point is P. <!-- END FACT -->**
+**<!-- START FACT -->A giraffe can clean its ears with its 21-inch tongue!<!-- END FACT -->**
