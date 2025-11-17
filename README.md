@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Blondes have more hair than dark-haired people do.<!-- END FACT -->**
+**<!-- START FACT -->The US has more personal computers than the next 7 countries combined.<!-- END FACT -->**
