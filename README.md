@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person's left hand does 56% of the typing. <!-- END FACT -->**
+**<!-- START FACT -->A goldfish has a memory span of three seconds.  <!-- END FACT -->**
