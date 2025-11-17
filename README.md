@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Hawaiian alphabet has only 12 letters.<!-- END FACT -->**
+**<!-- START FACT -->A man will ejaculate approximately 18 quarts of semen in his lifetime.<!-- END FACT -->**
