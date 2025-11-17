@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A lion in the wild usually makes no more than 20 kills a year.<!-- END FACT -->**
+**<!-- START FACT -->When you sneeze, all your bodily functions stop even your heart.<!-- END FACT -->**
