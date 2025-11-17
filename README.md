@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Giraffes and rats can last longer without water than camels.<!-- END FACT -->**
+**<!-- START FACT -->The name Jeep comes from “GP”, the army abbreviation for General Purpose.<!-- END FACT -->**
