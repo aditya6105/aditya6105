@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Czechs are the biggest consumers of beer per male in the world.<!-- END FACT -->**
+**<!-- START FACT -->The average shelf-life of a latex condom is about two years.<!-- END FACT -->**
