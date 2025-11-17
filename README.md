@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest one-syllable word in the English language is "screeched."<!-- END FACT -->**
+**<!-- START FACT -->Dreamt is the only English word that ends in the letters “MT”.<!-- END FACT -->**
