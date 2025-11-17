@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An average human scalp has 100,000 hairs.<!-- END FACT -->**
+**<!-- START FACT -->Pearls melt in vinegar.<!-- END FACT -->**
