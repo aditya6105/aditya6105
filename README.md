@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In France, a five year old child can buy an alcoholic drink in a bar<!-- END FACT -->**
+**<!-- START FACT -->%60 of all people using the Internet, use it for pornography.<!-- END FACT -->**
