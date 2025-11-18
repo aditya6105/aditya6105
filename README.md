@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The "pound" key on your keyboard (#) is called an octotroph. <!-- END FACT -->**
+**<!-- START FACT -->Maine is the only state that has borders with only one other state.<!-- END FACT -->**
