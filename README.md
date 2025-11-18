@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.<!-- END FACT -->**
+**<!-- START FACT -->Every US president has worn glasses (just not always in public).<!-- END FACT -->**
