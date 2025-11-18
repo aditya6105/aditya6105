@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average human eats 8 spiders in their lifetime at night.<!-- END FACT -->**
+**<!-- START FACT -->Triskaidekaphobia means fear of the number 13.<!-- END FACT -->**
