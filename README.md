@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Truck driving is the most dangerous occupation by accidental deaths (799 in 2001).<!-- END FACT -->**
+**<!-- START FACT -->Telly Savalas and Louis Armstrong died on their birthdays.  <!-- END FACT -->**
