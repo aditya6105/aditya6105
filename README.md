@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nearly 80% of all animals on earth have six legs.<!-- END FACT -->**
+**<!-- START FACT -->You spend 7 years of your life in the bathroom.<!-- END FACT -->**
