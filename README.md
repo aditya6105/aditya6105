@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The highest per capita Jell-O comsumption in the US is Des Moines.<!-- END FACT -->**
+**<!-- START FACT -->It is illegal to hunt camels in the state of Arizona.<!-- END FACT -->**
