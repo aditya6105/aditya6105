@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in every 4 Americans has appeared on television.<!-- END FACT -->**
+**<!-- START FACT -->Every year 4 people in the UK die putting their trousers on.<!-- END FACT -->**
