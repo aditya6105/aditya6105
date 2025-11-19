@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It is illegal to hunt camels in the state of Arizona.<!-- END FACT -->**
+**<!-- START FACT -->The Olympic was the sister ship of the Titanic, and she provided twenty-five years of service.<!-- END FACT -->**
