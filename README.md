@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hummingbirds are the only animals that can fly backwards. <!-- END FACT -->**
+**<!-- START FACT -->Sex is biochemically no different from eating large quantities of chocolate.<!-- END FACT -->**
