@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Shakespeare spelled his OWN name several different ways.<!-- END FACT -->**
+**<!-- START FACT -->The world’s oldest piece of chewing gum is 9000 years old!<!-- END FACT -->**
