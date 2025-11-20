@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Coconuts kill about 150 people each year. That’s more than sharks.<!-- END FACT -->**
+**<!-- START FACT -->There is actually no danger in swimming right after you eat, though it may feel uncomfortable.<!-- END FACT -->**
