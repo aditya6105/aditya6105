@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sex is biochemically no different from eating large quantities of chocolate.<!-- END FACT -->**
+**<!-- START FACT -->Adolf Hitler was a vegetarian, and had only ONE testicle.<!-- END FACT -->**
