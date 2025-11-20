@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 100 people choke to death on ballpoint pens every year.<!-- END FACT -->**
+**<!-- START FACT -->There is an average of 61,000 people airborne over the US at any given moment.<!-- END FACT -->**
