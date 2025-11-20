@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the Philippine jungle, the yo-yo was first used as a weapon.<!-- END FACT -->**
+**<!-- START FACT -->Coconuts kill about 150 people each year. That’s more than sharks.<!-- END FACT -->**
