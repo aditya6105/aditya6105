@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You burn more calories sleeping than you do watching TV.<!-- END FACT -->**
+**<!-- START FACT -->No word in the English language rhymes with "MONTH".<!-- END FACT -->**
