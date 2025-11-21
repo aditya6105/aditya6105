@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.<!-- END FACT -->**
+**<!-- START FACT -->Scotland has more redheads than any other part of the world.<!-- END FACT -->**
