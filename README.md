@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.<!-- END FACT -->**
+**<!-- START FACT -->The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.<!-- END FACT -->**
