@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->No word in the English language rhymes with month, orange, silver, or purple.<!-- END FACT -->**
+**<!-- START FACT -->A giraffe can clean its ears with its 21-inch tongue!<!-- END FACT -->**
