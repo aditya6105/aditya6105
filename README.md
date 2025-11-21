@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.<!-- END FACT -->**
+**<!-- START FACT -->In the White House, there are 13,092 knives, forks and spoons!<!-- END FACT -->**
