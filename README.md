@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Our eyes are always the same size from birth but our nose and ears never stop growing.<!-- END FACT -->**
+**<!-- START FACT -->People say “bless you” when you sneeze because your heart stops for a millisecond.<!-- END FACT -->**
