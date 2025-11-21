@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->About 200,000,000 M<!-- START FACT -->Hummingbirds are the only animals that can fly backwards. <!-- END FACT -->Ms are sold each day in the United States.<!-- END FACT -->**
+**<!-- START FACT -->The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).<!-- END FACT -->**
