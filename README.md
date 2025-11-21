@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->13% of Americans actually believe that some parts of the moon are made of cheese.<!-- END FACT -->**
+**<!-- START FACT -->Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.<!-- END FACT -->**
