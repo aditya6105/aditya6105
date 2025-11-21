@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bats always turn left when exiting a cave<!-- END FACT -->**
+**<!-- START FACT -->Cher's last name was "Sarkissian." She changed it because no one could pronounce it.<!-- END FACT -->**
