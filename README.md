@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  <!-- END FACT -->**
+**<!-- START FACT -->People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.<!-- END FACT -->**
