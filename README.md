@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The people of Israel consume more turkeys per capita than any other country.<!-- END FACT -->**
+**<!-- START FACT -->Warren Beatty and Shirley McLaine are brother and sister.<!-- END FACT -->**
