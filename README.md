@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Months that begin on a Sunday will always have a `Friday the 13th`.<!-- END FACT -->**
+**<!-- START FACT -->Mercury is the only planet whose orbit is coplanar with its equator.<!-- END FACT -->**
