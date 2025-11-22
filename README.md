@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The plastic things on the end of shoelaces are called aglets.<!-- END FACT -->**
+**<!-- START FACT -->The penguin is the only bird that can’t fly but can swim.<!-- END FACT -->**
