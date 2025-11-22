@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It takes the stomach an hour to break down cows’ milk.<!-- END FACT -->**
+**<!-- START FACT -->A female ferret will die if it goes into heat and cannot find a mate.<!-- END FACT -->**
