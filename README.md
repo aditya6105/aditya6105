@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Until 1994, world maps and globes sold in Albania only had Albania on them.<!-- END FACT -->**
+**<!-- START FACT -->An Olympic gold medal must contain 92.5 percent silver<!-- END FACT -->**
