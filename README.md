@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The world’s oldest piece of chewing gum is 9000 years old!<!-- END FACT -->**
+**<!-- START FACT -->The U.S. Post Office handles 43 percent of the world’s mail.<!-- END FACT -->**
