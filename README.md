@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Simplistic passwords contribute to over 80% of all computer password break-ins.<!-- END FACT -->**
+**<!-- START FACT -->More than 90% of the Nicaraguan people are Roman Catholic.<!-- END FACT -->**
