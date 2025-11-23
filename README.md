@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.<!-- END FACT -->**
+**<!-- START FACT -->Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.<!-- END FACT -->**
