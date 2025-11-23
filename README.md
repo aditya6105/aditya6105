@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first CD pressed in the US was Bruce Springsteen's "Born in the USA."<!-- END FACT -->**
+**<!-- START FACT -->One in seven workers in Boston, Massachusetts walks to work.<!-- END FACT -->**
