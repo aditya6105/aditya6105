@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Chocolate can kill dogs; it directly affects their heart and nervous system.<!-- END FACT -->**
+**<!-- START FACT -->Two-thirds of the world’s eggplant is grown in New Jersey.<!-- END FACT -->**
