@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest.<!-- END FACT -->**
+**<!-- START FACT -->0.3% of all road accidents in Canada involve a Moose.<!-- END FACT -->**
