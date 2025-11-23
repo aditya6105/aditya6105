@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT --> was Harrison Ford`s idea so that he could take a bathroom break.<!-- END FACT -->**
+**<!-- START FACT -->Telly Savalas and Louis Armstrong died on their birthdays.  <!-- END FACT -->**
