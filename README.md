@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rats and horses can’t vomit.<!-- END FACT -->**
+**<!-- START FACT -->There is a 1 in 4 chance that New York will have a white Christmas.<!-- END FACT -->**
