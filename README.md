@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->The first female guest host of "Saturday Night Live" was Candace Bergen.<!-- END FACT -->**
