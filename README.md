@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If done perfectly, a rubix cube combination can be solved in 17 turns.<!-- END FACT -->**
+**<!-- START FACT -->The ZIP in “ZIP code” means Zoning Improvement Plan.<!-- END FACT -->**
