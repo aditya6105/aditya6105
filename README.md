@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."<!-- END FACT -->**
+**<!-- START FACT -->More than 90% of the Nicaraguan people are Roman Catholic.<!-- END FACT -->**
