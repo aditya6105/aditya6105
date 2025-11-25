@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Bible, the world's best-selling book, is also the world's most shoplifted book.<!-- END FACT -->**
+**<!-- START FACT -->The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.<!-- END FACT -->**
