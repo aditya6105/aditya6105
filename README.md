@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Camel’s have three eyelids.<!-- END FACT -->**
+**<!-- START FACT -->The human heart creates enough pressure to squirt blood 30ft.<!-- END FACT -->**
