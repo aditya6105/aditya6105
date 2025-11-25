@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Blueberry Jelly Bellies were created especially for Ronald Reagan.<!-- END FACT -->**
+**<!-- START FACT -->During the chariot scene in "Ben Hur," a small red car can be seen in the distance.<!-- END FACT -->**
