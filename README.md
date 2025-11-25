@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida.<!-- END FACT -->**
+**<!-- START FACT -->One in every 4 Americans has appeared on television.<!-- END FACT -->**
