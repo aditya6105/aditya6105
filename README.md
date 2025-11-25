@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Dreamt" is the only English word that ends in the letters "mt." <!-- END FACT -->**
+**<!-- START FACT -->Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.<!-- END FACT -->**
