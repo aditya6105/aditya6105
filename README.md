@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->`Stewardesses` is the longest word that is typed with only the left hand.<!-- END FACT -->**
+**<!-- START FACT -->THE MOST UNUSUAL CANNONBALL: On two occasions, Miss `Rita Thunderbird` remained inside the cannon despite a lot of gunpowder encouragement to do otherwise. She performed in a gold lamé bikini and on one of the two occasions (1977) Miss Thunderbird remained lodged in the cannon, while her bra was shot across the Thames River.<!-- END FACT -->**
