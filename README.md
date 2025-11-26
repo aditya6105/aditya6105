@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Because metal was scarce, the Oscars given out during World War II were made of wood.<!-- END FACT -->**
+**<!-- START FACT -->The average person will accidentally eat just under a pound of insects every year.<!-- END FACT -->**
