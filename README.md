@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On a Canadian two dollar bill, the flag flying over the Parliament buildings is an American flag.<!-- END FACT -->**
+**<!-- START FACT -->Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.<!-- END FACT -->**
