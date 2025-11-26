@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Elephants only sleep for two hours each day.<!-- END FACT -->**
+**<!-- START FACT -->Fish that live more than 800 meters below the ocean surface don't have eyes.<!-- END FACT -->**
