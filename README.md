@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Chameleons can move their eyes in two directions at the same time.<!-- END FACT -->**
+**<!-- START FACT -->Cats have over 100 vocal sounds; dogs only have 10.<!-- END FACT -->**
