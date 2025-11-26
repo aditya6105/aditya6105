@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.<!-- END FACT -->**
+**<!-- START FACT -->Czechs are the biggest consumers of beer per male in the world.<!-- END FACT -->**
