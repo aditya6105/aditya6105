@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cats have over one hundred vocal sounds; dogs only have about ten.<!-- END FACT -->**
+**<!-- START FACT -->“Canada” is an Indian word meaning “Big Village”.<!-- END FACT -->**
