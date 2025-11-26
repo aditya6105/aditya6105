@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cats have over 100 vocal sounds; dogs only have 10.<!-- END FACT -->**
+**<!-- START FACT -->There are a million ants for every person on Earth.<!-- END FACT -->**
