@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Walt Disney was afraid of mice.<!-- END FACT -->**
+**<!-- START FACT -->The ZIP in “ZIP code” means Zoning Improvement Plan.<!-- END FACT -->**
