@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It's possible to lead a cow upstairs...but not downstairs.<!-- END FACT -->**
+**<!-- START FACT -->More than 90% of the Nicaraguan people are Roman Catholic.<!-- END FACT -->**
