@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.<!-- END FACT -->**
+**<!-- START FACT -->The people of France eat more cheese than any other country in the world.<!-- END FACT -->**
