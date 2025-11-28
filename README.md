@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The people of France eat more cheese than any other country in the world.<!-- END FACT -->**
+**<!-- START FACT -->Owls are the only birds that can see the color blue.<!-- END FACT -->**
