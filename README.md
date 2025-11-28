@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Americans on the average eat 18 acres of pizza every day.<!-- END FACT -->**
+**<!-- START FACT -->Blondes have more hair than dark-haired people do.<!-- END FACT -->**
