@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One out of every 43 prisoners escapes from jail. 94% are recaptured.<!-- END FACT -->**
+**<!-- START FACT -->A lion in the wild usually makes no more than 20 kills a year.<!-- END FACT -->**
