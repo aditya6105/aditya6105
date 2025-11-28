@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Laredo, Texas is the U.S.'s farthest inland port.<!-- END FACT -->**
+**<!-- START FACT -->John Lennon’s first girlfriend was named Thelma Pickles.<!-- END FACT -->**
