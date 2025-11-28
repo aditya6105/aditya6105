@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.<!-- END FACT -->**
+**<!-- START FACT -->The placement of a donkey's eyes in it’s' heads enables it to see all four feet at all times!<!-- END FACT -->**
