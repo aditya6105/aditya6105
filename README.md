@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->About 14% of injecting drug users are HIV positive.<!-- END FACT -->**
+**<!-- START FACT -->Americans on average eat 18 acres of pizza every day.<!-- END FACT -->**
