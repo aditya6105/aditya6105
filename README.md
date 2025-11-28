@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street.<!-- END FACT -->**
+**<!-- START FACT -->John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son.<!-- END FACT -->**
