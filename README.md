@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Americans on the average eat 18 acres of pizza every day.<!-- END FACT -->**
+**<!-- START FACT -->The only real person to ever to appear on a pez dispenser was Betsy Ross.<!-- END FACT -->**
