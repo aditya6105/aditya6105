@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In England, the Speaker of the House is not allowed to speak.<!-- END FACT -->**
+**<!-- START FACT -->In Japan, watermelons are squared. It's easier to stack them that way.<!-- END FACT -->**
