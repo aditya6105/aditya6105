@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 240 dots on an arcade Pac-Man game<!-- END FACT -->**
+**<!-- START FACT -->The serial number of the first MAC ever produced was 2001.<!-- END FACT -->**
