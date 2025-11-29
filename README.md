@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The past-tense of the English word “dare” is “durst”<!-- END FACT -->**
+**<!-- START FACT -->There was once an undersea post office in the Bahamas.<!-- END FACT -->**
