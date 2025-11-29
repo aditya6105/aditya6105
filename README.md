@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One quarter of the bones in your body are in your feet.<!-- END FACT -->**
+**<!-- START FACT -->The giant squid has the largest eyes in the world. <!-- END FACT -->**
