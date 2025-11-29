@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.<!-- END FACT -->**
+**<!-- START FACT -->Eskimos have over 15 words for the English word of 'Snow'<!-- END FACT -->**
