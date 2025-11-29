@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Japan, watermelons are squared. It's easier to stack them that way.<!-- END FACT -->**
+**<!-- START FACT -->In every episode of “Seinfeld” there is a Superman picture or reference somewhere.<!-- END FACT -->**
