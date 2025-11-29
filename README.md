@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A mole can dig a tunnel 300 feet (91 m) long in just one night.<!-- END FACT -->**
+**<!-- START FACT -->One quarter of the bones in your body are in your feet.<!-- END FACT -->**
