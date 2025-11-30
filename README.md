@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Until 1997, there were more pigs than people in Denmark.<!-- END FACT -->**
+**<!-- START FACT -->Honey is the only natural food that is made without destroying any kind of life.<!-- END FACT -->**
