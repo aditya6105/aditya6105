@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average shelf-life of a latex condom is about two years.<!-- END FACT -->**
+**<!-- START FACT -->The past-tense of the English word “dare” is “durst”<!-- END FACT -->**
