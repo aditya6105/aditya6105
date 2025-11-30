@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It's possible to lead a cow upstairs...but not downstairs.<!-- END FACT -->**
+**<!-- START FACT -->Male bats have the highest rate of homosexuality of any mammal.<!-- END FACT -->**
