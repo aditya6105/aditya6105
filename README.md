@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Abraham Lincoln’s ghost is said to haunt the White House.<!-- END FACT -->**
+**<!-- START FACT -->The Declaration of Independence was written on hemp (marijuana) paper.<!-- END FACT -->**
