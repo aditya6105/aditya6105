@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first toilet ever seen on television was on "Leave It to Beaver."<!-- END FACT -->**
+**<!-- START FACT -->A giraffe can go without water longer than a camel.<!-- END FACT -->**
