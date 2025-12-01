@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.<!-- END FACT -->**
+**<!-- START FACT -->The serial number of the first MAC ever produced was 2001.<!-- END FACT -->**
