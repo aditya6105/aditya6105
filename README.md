@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It takes the stomach an hour to break down cows’ milk.<!-- END FACT -->**
+**<!-- START FACT -->Napoleon`s penis was sold to an American Urologist for $40,000.<!-- END FACT -->**
