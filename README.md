@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 41,806 different spoken languages in the world today.<!-- END FACT -->**
+**<!-- START FACT -->The first bomb the Allies dropped on Berlin in WWII killed the only elephant in the Berlin Zoo.<!-- END FACT -->**
