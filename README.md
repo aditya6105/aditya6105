@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.<!-- END FACT -->**
+**<!-- START FACT -->It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.<!-- END FACT -->**
