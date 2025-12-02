@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The angel falls in Venezuela are nearly 20 times taller than Niagara Falls.<!-- END FACT -->**
+**<!-- START FACT -->A “quidnunc” is a person who is eager to know the latest news and gossip.<!-- END FACT -->**
