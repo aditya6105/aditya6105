@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in ten people live on an island.<!-- END FACT -->**
+**<!-- START FACT -->In golf, a ‘Bo Derek’ is a score of 10.<!-- END FACT -->**
