@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Los Angeles’ full name is “El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula”.<!-- END FACT -->**
+**<!-- START FACT -->“Canada” is an Indian word meaning “Big Village”.<!-- END FACT -->**
