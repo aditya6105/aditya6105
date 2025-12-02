@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your skull is made up of 29 different bones.<!-- END FACT -->**
+**<!-- START FACT -->There are 41,806 different spoken languages in the world today.<!-- END FACT -->**
