@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.<!-- END FACT -->**
+**<!-- START FACT -->Sweden has the least number of murders annually.<!-- END FACT -->**
