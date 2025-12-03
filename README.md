@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Gary, Indiana is the murder capital of the U.S. - probably the world.<!-- END FACT -->**
+**<!-- START FACT -->In most watch advertisements the time displayed on a watch is 10:10.<!-- END FACT -->**
