@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"I" is the most spoken word in the English language<!-- END FACT -->**
+**<!-- START FACT -->Venus is the only planet that rotates clockwise.<!-- END FACT -->**
