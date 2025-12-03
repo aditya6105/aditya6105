@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 1984, a Canadian farmer began renting advertising space on his cows.<!-- END FACT -->**
+**<!-- START FACT -->Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.<!-- END FACT -->**
