@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sweden has the least number of murders annually.<!-- END FACT -->**
+**<!-- START FACT -->The plastic things on the end of shoelaces are called aglets.<!-- END FACT -->**
