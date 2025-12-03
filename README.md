@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->28% of Africa is classified as wilderness. In North America, its 38%.<!-- END FACT -->**
+**<!-- START FACT -->There are approximately 100 million acts of sexual intercourse each day.<!-- END FACT -->**
