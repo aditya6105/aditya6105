@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The "pound" key on your keyboard (#) is called an octotroph. <!-- END FACT -->**
+**<!-- START FACT -->The word “maverick” came into use after Samuel Maverick, a Texan refused to brand his cattle.<!-- END FACT -->**
