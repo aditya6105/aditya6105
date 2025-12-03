@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Almost" is the longest word in the English language with all the letters in alphabetical order.<!-- END FACT -->**
+**<!-- START FACT -->By raising your legs slowly and lying on your back, you cannot sink into quicksand.<!-- END FACT -->**
