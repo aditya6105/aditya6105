@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A “jiffy” is the scientific name for 1/100th of a second.<!-- END FACT -->**
+**<!-- START FACT -->The first CD pressed in the US was Bruce Springsteen’s “Born in the USA”.<!-- END FACT -->**
