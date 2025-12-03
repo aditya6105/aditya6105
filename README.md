@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In most watch advertisements the time displayed on a watch is 10:10.<!-- END FACT -->**
+**<!-- START FACT -->There are 45 miles of nerves in the skin of a human being.<!-- END FACT -->**
