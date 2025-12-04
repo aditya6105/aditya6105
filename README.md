@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The king of hearts is the only king without a mustache.<!-- END FACT -->**
+**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->The king of hearts is the only king without a mustache.<!-- END FACT --> Cancer.<!-- END FACT -->**
