@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Stewardesses" is the longest word typed with only the left hand.<!-- END FACT -->**
+**<!-- START FACT -->Donald Duck`s middle name is Fauntleroy.  <!-- END FACT -->**
