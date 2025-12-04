@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in every 9000 people is an albino.<!-- END FACT -->**
+**<!-- START FACT -->Giraffes and rats can last longer without water than camels.<!-- END FACT -->**
