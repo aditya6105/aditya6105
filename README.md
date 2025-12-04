@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Giraffes and rats can last longer without water than camels.<!-- END FACT -->**
+**<!-- START FACT -->In most watch advertisements the time displayed on a watch is 10:10.<!-- END FACT -->**
