@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Montpelier, Vermont is the only state capital without a McDonalds.<!-- END FACT -->**
+**<!-- START FACT -->Hawaii is the only coffee producing state.<!-- END FACT -->**
