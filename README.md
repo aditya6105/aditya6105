@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hawaii is the only coffee producing state.<!-- END FACT -->**
+**<!-- START FACT -->One in every 9000 people is an albino.<!-- END FACT -->**
