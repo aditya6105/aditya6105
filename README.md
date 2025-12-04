@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The placement of a donkey's eyes in it’s' heads enables it to see all four feet at all times!<!-- END FACT -->**
+**<!-- START FACT -->One in every 9000 people is an albino.<!-- END FACT -->**
