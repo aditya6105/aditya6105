@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sweden has the least number of murders annually.<!-- END FACT -->**
+**<!-- START FACT -->"Stewardesses" is the longest word typed with only the left hand.<!-- END FACT -->**
