@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mr. Rogers was an ordained Presbyterian minister.<!-- END FACT -->**
+**<!-- START FACT -->0.3% of all road accidents in Canada involve a Moose.<!-- END FACT -->**
