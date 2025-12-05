@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most collect calls are made on father`s day.<!-- END FACT -->**
+**<!-- START FACT -->The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.<!-- END FACT -->**
