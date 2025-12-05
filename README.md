@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A rhinoceros horn is made of compacted hair.<!-- END FACT -->**
+**<!-- START FACT -->A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.<!-- END FACT -->**
