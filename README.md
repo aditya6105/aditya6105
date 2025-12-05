@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On a Canadian two-dollar bill, the American flag is flying over the Parliament Building.<!-- END FACT -->**
+**<!-- START FACT -->In Vermont, the ratio of cows to people is 10:1<!-- END FACT -->**
