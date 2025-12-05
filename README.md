@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There were always 56 curls in Shirley Temple`s hair.<!-- END FACT -->**
+**<!-- START FACT -->The country code for Russia is "007".<!-- END FACT -->**
