@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->3.6 cans of Spam are consumed each second.<!-- END FACT -->**
+**<!-- START FACT -->The Automated Teller Machine (ATM) was introduced in England in 1965.<!-- END FACT -->**
