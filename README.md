@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average a hedgehog's heart beats 300 times a minute.<!-- END FACT -->**
+**<!-- START FACT -->The international telephone dialing code for Antarctica is 672.<!-- END FACT -->**
