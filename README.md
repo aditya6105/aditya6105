@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The U.S. bought Alaska for 2 cents an acre from Russia.<!-- END FACT -->**
+**<!-- START FACT -->Peter Falk, who played "Columbo," has a glass eye.<!-- END FACT -->**
