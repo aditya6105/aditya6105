@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. <!-- END FACT -->**
+**<!-- START FACT -->There are 41,806 different spoken languages in the world today.<!-- END FACT -->**
