@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sherlock Holmes NEVER said “Elementary, my dear Watson”<!-- END FACT -->**
+**<!-- START FACT -->Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”<!-- END FACT -->**
