@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 41,806 different spoken languages in the world today.<!-- END FACT -->**
+**<!-- START FACT -->The average human eats 8 spiders in their lifetime at night.<!-- END FACT -->**
