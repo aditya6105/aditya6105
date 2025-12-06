@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average raindrop falls at 7 miles per hour.<!-- END FACT -->**
+**<!-- START FACT -->The U.S. bought Alaska for 2 cents an acre from Russia.<!-- END FACT -->**
