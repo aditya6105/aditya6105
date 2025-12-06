@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More Monopoly money is printed in a year, than real money throughout the world.<!-- END FACT -->**
+**<!-- START FACT -->The surface of the human skin is 6.5 square feet (2m).<!-- END FACT -->**
