@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.<!-- END FACT -->**
+**<!-- START FACT -->The symbol on the "pound" key (#) is called an octothorpe..  <!-- END FACT -->**
