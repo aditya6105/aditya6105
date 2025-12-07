@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->No matter where you stand in Michigan, you are never more than 85 miles from a Great Lake.<!-- END FACT -->**
+**<!-- START FACT -->A rat can last longer without water than a camel.<!-- END FACT -->**
