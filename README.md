@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Venus and Uranus are the only planets that rotate opposite to the direction of their orbit.<!-- END FACT -->**
+**<!-- START FACT -->Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.<!-- END FACT -->**
