@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 336 dimples on a regulation golf ball.<!-- END FACT -->**
+**<!-- START FACT -->During the chariot scene in "Ben Hur," a small red car can be seen in the distance.<!-- END FACT -->**
