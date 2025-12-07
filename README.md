@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cat's jaw cannot move sideways.<!-- END FACT -->**
+**<!-- START FACT -->Alabama was the first state to recognize Christmas as an official holiday.<!-- END FACT -->**
