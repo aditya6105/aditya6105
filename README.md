@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In medieval France, unfaithful wives were made to chase a chicken through town naked.<!-- END FACT -->**
+**<!-- START FACT -->No matter where you stand in Michigan, you are never more than 85 miles from a Great Lake.<!-- END FACT -->**
