@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  <!-- END FACT -->**
+**<!-- START FACT -->Russians generally answer the phone by saying, "I'm listening".<!-- END FACT -->**
