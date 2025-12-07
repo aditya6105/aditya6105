@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->When we think of Big Ben in London, we think of the clock. Actually, it's the bell.<!-- END FACT -->**
+**<!-- START FACT -->Emus and kangaroos can't walk backwards.<!-- END FACT -->**
