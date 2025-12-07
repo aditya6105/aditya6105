@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 336 dimples on a regulation US golf ball. In the UK its 330.<!-- END FACT -->**
+**<!-- START FACT -->Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  <!-- END FACT -->**
