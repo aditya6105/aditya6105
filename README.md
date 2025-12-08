@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. <!-- END FACT -->**
+**<!-- START FACT -->William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth<!-- END FACT -->**
