@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The mother of Michael Nesmith of "The Monkees" invented whiteout.<!-- END FACT -->**
+**<!-- START FACT -->The glue on Israeli postage is certified kosher.<!-- END FACT -->**
