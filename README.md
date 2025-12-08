@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The U.S. Post Office handles 43 percent of the world’s mail.<!-- END FACT -->**
+**<!-- START FACT -->There are about 2 chickens for every human in the world.<!-- END FACT -->**
