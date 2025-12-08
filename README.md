@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On a Canadian two-dollar bill, the American flag is flying over the Parliament Building.<!-- END FACT -->**
+**<!-- START FACT -->The Bible, the world's best-selling book, is also the world's most shoplifted book.<!-- END FACT -->**
