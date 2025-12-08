@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Japan, watermelons are squared. It's easier to stack them that way.<!-- END FACT -->**
+**<!-- START FACT -->A standard slinky measures 87 feet when stretched out.<!-- END FACT -->**
