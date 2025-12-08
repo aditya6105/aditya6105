@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are about 2 chickens for every human in the world.<!-- END FACT -->**
+**<!-- START FACT -->In “Silence of the Lambs”, Hannibal Lector (Anthony Hopkins) never blinks.<!-- END FACT -->**
