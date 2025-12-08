@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most dust particles in your house are made from dead skin!<!-- END FACT -->**
+**<!-- START FACT -->The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. <!-- END FACT -->**
