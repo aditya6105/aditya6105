@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Switzerland is the only country with a square flag.<!-- END FACT -->**
+**<!-- START FACT -->Al Capone’s business card said he was a used furniture dealer.<!-- END FACT -->**
