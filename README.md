@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In a survey of 200000 ostriches over 80 years, not one tried to bury its head in the sand.<!-- END FACT -->**
+**<!-- START FACT -->God is not mentioned once in the book of Esther.<!-- END FACT -->**
