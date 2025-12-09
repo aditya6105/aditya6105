@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average American/Canadian will eat about 11.9 pounds of cereal per year!<!-- END FACT -->**
+**<!-- START FACT -->It’s estimated that at any one time around 0.7% of the world’s population is drunk.<!-- END FACT -->**
