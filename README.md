@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There was once an undersea post office in the Bahamas.<!-- END FACT -->**
+**<!-- START FACT -->In golf, a ‘Bo Derek’ is a score of 10.<!-- END FACT -->**
