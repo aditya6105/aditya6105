@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The thyroid cartilage is more commonly known as the adams apple.<!-- END FACT -->**
+**<!-- START FACT -->Sharkskin has tiny tooth-like scales all over.<!-- END FACT -->**
