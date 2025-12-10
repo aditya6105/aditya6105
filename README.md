@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Humans and dolphins are the only species that have sex for pleasure.<!-- END FACT -->**
+**<!-- START FACT -->It's illegal to spit on the sidewalk in Norfolk, Virginia.<!-- END FACT -->**
