@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.<!-- END FACT -->**
+**<!-- START FACT -->Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.<!-- END FACT -->**
