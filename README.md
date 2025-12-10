@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An average human loses about 200 head hairs per day.<!-- END FACT -->**
+**<!-- START FACT -->Netherlands is the only country with a national dog.<!-- END FACT -->**
