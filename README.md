@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A “2 by 4" is really 1 1/2 by 3 1/2.<!-- END FACT -->**
+**<!-- START FACT -->In the 17th century, the value of pi was known to 35 decimal places. Today, to 1.2411 trillion.<!-- END FACT -->**
