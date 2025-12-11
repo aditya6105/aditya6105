@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.<!-- END FACT -->**
+**<!-- START FACT -->In ancient Rome, when a man testified in court he would swear on his testicles.<!-- END FACT -->**
