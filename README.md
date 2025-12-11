@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is a city in Norway called "Hell"<!-- END FACT -->**
+**<!-- START FACT -->Elephants only sleep for two hours each day.<!-- END FACT -->**
