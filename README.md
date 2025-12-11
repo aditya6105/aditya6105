@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Elephants only sleep for two hours each day.<!-- END FACT -->**
+**<!-- START FACT -->Peanuts are one of the ingredients of dynamite.<!-- END FACT -->**
