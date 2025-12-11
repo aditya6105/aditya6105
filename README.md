@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Daffy Duck`s middle name is "Dumas"<!-- END FACT -->**
+**<!-- START FACT -->There is a city in Norway called "Hell"<!-- END FACT -->**
