@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most lipstick contains fish scales.<!-- END FACT -->**
+**<!-- START FACT -->Because metal was scarce, the Oscars given out during World War II were made of wood.<!-- END FACT -->**
