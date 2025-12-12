@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Pepsi originally contained pepsin, thus the name. <!-- END FACT -->**
+**<!-- START FACT -->Starfish have no brains.<!-- END FACT -->**
