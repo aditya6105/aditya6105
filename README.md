@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Winston Churchill was born in a ladies room during a dance.<!-- END FACT -->**
+**<!-- START FACT -->A “jiffy” is the scientific name for 1/100th of a second.<!-- END FACT -->**
