@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sherlock Holmes NEVER said “Elementary, my dear Watson”<!-- END FACT -->**
+**<!-- START FACT -->Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.<!-- END FACT -->**
