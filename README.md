@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Only one in two billion people will live to be 116 or older.<!-- END FACT -->**
+**<!-- START FACT -->Each of us generates about 3.5 pounds of rubbish a day, most of it paper.<!-- END FACT -->**
