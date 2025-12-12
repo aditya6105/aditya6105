@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.<!-- END FACT -->**
+**<!-- START FACT -->In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.<!-- END FACT -->**
