@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.<!-- END FACT -->**
+**<!-- START FACT -->There is a town in Newfoundland, Canada called Dildo.<!-- END FACT -->**
