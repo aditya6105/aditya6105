@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cher's last name was "Sarkissian." She changed it because no one could pronounce it.<!-- END FACT -->**
+**<!-- START FACT -->In a survey of 200000 ostriches over 80 years, not one tried to bury its head in the sand.<!-- END FACT -->**
