@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The placement of a donkey's eyes in it’s' heads enables it to see all four feet at all times!<!-- END FACT -->**
+**<!-- START FACT -->The thyroid cartilage is more commonly known as the adams apple.<!-- END FACT -->**
