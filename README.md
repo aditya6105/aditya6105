@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.<!-- END FACT -->**
+**<!-- START FACT -->The Bible, the world's best-selling book, is also the world's most shoplifted book.<!-- END FACT -->**
