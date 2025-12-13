@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It takes more calories to eat a piece of celery than the celery has in it to begin with.<!-- END FACT -->**
+**<!-- START FACT -->Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.<!-- END FACT -->**
