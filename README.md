@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The international telephone dialing code for Antarctica is 672.<!-- END FACT -->**
+**<!-- START FACT -->In Japan, watermelons are squared. It's easier to stack them that way.<!-- END FACT -->**
