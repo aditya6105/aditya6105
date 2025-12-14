@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A snail can sleep for 3 years.<!-- END FACT -->**
+**<!-- START FACT -->A shark can detect one part of blood in 100 million parts of water.<!-- END FACT -->**
