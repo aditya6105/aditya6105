@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bruce Lee was so fast that they had to slow the film down so you could see his moves.<!-- END FACT -->**
+**<!-- START FACT -->The world's youngest parents were 8 and 9 and lived in China in 1910.<!-- END FACT -->**
