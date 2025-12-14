@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can lead a cow upstairs but not downstairs.<!-- END FACT -->**
+**<!-- START FACT -->The average chocolate bar has 8 insects’ legs melted into it.<!-- END FACT -->**
