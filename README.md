@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Michigan was the first state to have roadside picnic tables.<!-- END FACT -->**
+**<!-- START FACT -->40% of McDonald’s profits come from the sales of Happy Meals.<!-- END FACT -->**
