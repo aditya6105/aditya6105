@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average chocolate bar has 8 insects’ legs melted into it.<!-- END FACT -->**
+**<!-- START FACT -->The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.<!-- END FACT -->**
