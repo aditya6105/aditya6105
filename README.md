@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Australian $5 to $100 notes are made of plastic.<!-- END FACT -->**
+**<!-- START FACT -->A snail can sleep for 3 years.<!-- END FACT -->**
