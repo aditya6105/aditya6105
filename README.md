@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.<!-- END FACT -->**
+**<!-- START FACT -->Bruce Lee was so fast that they had to slow the film down so you could see his moves.<!-- END FACT -->**
