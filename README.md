@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Slugs have four noses.<!-- END FACT -->**
+**<!-- START FACT -->A chameleon's tongue is twice the length of its body.<!-- END FACT -->**
