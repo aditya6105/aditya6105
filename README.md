@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Pearls melt in vinegar.<!-- END FACT -->**
+**<!-- START FACT -->In 1984, a Canadian farmer began renting advertising space on his cows.<!-- END FACT -->**
