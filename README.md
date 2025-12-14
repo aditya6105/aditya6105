@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A chameleon's tongue is twice the length of its body.<!-- END FACT -->**
+**<!-- START FACT -->One in every 9000 people is an albino.<!-- END FACT -->**
