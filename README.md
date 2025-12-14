@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Maine is the only state (in USA) whose name is just one syllable. <!-- END FACT -->**
+**<!-- START FACT -->Cats have over one hundred vocal sounds; dogs only have about ten.<!-- END FACT -->**
