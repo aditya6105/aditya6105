@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A shark can detect one part of blood in 100 million parts of water.<!-- END FACT -->**
+**<!-- START FACT -->The katydid bug hears through holes in its hind legs!<!-- END FACT -->**
