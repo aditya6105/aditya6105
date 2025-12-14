@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Wyoming was the first state to give women the right to vote in 1869.<!-- END FACT -->**
+**<!-- START FACT -->More people speak English in China than the United States.<!-- END FACT -->**
