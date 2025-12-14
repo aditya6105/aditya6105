@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The surface of the Earth is about 60% water and 10% ice.<!-- END FACT -->**
+**<!-- START FACT -->Andorra, a tiny country between France <!-- START FACT -->The surface of the Earth is about 60% water and 10% ice.<!-- END FACT --> Spain, has the longest average lifespan: 83.49 years.<!-- END FACT -->**
