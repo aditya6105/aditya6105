@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Arizona was the last of the 48 adjoining continental states to enter the Union.<!-- END FACT -->**
+**<!-- START FACT -->The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.<!-- END FACT -->**
