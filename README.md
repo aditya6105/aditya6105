@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->98% of all murders and rapes are by a close family member or friend of the victim.<!-- END FACT -->**
+**<!-- START FACT -->Each year in America there are about 300,000 deaths that can be attributed to obesity.<!-- END FACT -->**
