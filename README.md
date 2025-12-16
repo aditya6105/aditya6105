@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A blue whales heart only beats nine times per minute.<!-- END FACT -->**
+**<!-- START FACT -->A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.<!-- END FACT -->**
