@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.<!-- END FACT -->**
+**<!-- START FACT -->Georgia's state motto is "Wisdom, Justice and Moderation."<!-- END FACT -->**
