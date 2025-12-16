@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Guinness Book of Records holds the record for being the book most often stolen from Libraries.<!-- END FACT -->**
+**<!-- START FACT -->John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son.<!-- END FACT -->**
