@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Dreamt" is the only English word that ends in the letters "mt."<!-- END FACT -->**
+**<!-- START FACT -->Your skull is made up of 29 different bones.<!-- END FACT -->**
