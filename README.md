@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->14% of Americans have skinny-dipped with a member of the opposite sex at least once.<!-- END FACT -->**
+**<!-- START FACT -->Lightning strikes the earth about 8 million times a day.<!-- END FACT -->**
