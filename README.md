@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Dreamt" is the only English word that ends in the letters "mt." <!-- END FACT -->**
+**<!-- START FACT -->The average human head weighs about 8 pounds.<!-- END FACT -->**
