@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.<!-- END FACT -->**
+**<!-- START FACT -->Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.<!-- END FACT -->**
