@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Arabic numerals are not really Arabic; they were created in India.<!-- END FACT -->**
+**<!-- START FACT -->In New York State, it is illegal to but any alcohol on Sundays before noon.<!-- END FACT -->**
