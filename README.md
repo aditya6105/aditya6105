@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Human thigh bones are stronger than concrete.<!-- END FACT -->**
+**<!-- START FACT -->When you sneeze, all your bodily functions stop even your heart.<!-- END FACT -->**
