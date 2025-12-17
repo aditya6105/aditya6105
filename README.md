@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person laughs 10 times a day!<!-- END FACT -->**
+**<!-- START FACT -->A man's beard grows fastest when he anticipates sex.<!-- END FACT -->**
