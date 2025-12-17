@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Human eyes never grow, but nose and ears never stop growing.<!-- END FACT -->**
+**<!-- START FACT -->Venus and Uranus are the only planets that rotate opposite to the direction of their orbit.<!-- END FACT -->**
