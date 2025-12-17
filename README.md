@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The world's youngest parents were 8 and 9 and lived in China in 1910.<!-- END FACT -->**
+**<!-- START FACT -->Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.<!-- END FACT -->**
