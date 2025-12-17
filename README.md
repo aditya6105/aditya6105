@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Butterflies taste with their feet.<!-- END FACT -->**
+**<!-- START FACT -->A cat's jaw cannot move sideways.<!-- END FACT -->**
