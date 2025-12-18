@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->98% of all murders and rapes are by a close family member or friend of the victim.<!-- END FACT -->**
+**<!-- START FACT -->Cats have over one hundred vocal sounds, while dogs only have about ten.<!-- END FACT -->**
