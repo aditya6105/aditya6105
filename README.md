@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first toilet ever seen on television was on "Leave It to Beaver."<!-- END FACT -->**
+**<!-- START FACT -->Illinois has the highest number of personalized license plates than any other state.<!-- END FACT -->**
