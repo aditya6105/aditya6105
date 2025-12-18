@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bats always turn left when exiting a cave.<!-- END FACT -->**
+**<!-- START FACT -->Elephants are the only animals that can`t jump.<!-- END FACT -->**
