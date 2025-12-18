@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Giraffes have no vocal cords.<!-- END FACT -->**
+**<!-- START FACT -->It is illegal to eat oranges while bathing in California.<!-- END FACT -->**
