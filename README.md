@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The US has more personal computers than the next 7 countries combined.<!-- END FACT -->**
+**<!-- START FACT -->On average, 100 people choke to death on ball-point pens every year.<!-- END FACT -->**
