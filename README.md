@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.<!-- END FACT -->**
+**<!-- START FACT -->The only capital letter in the Roman alphabet with exactly one end point is P. <!-- END FACT -->**
