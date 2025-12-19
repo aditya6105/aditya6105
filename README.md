@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 100 people choke to death on ballpoint pens every year.<!-- END FACT -->**
+**<!-- START FACT -->Two-thirds of the world’s eggplant is grown in New Jersey.<!-- END FACT -->**
