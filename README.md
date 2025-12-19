@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average life of a taste bud is 10 days.<!-- END FACT -->**
+**<!-- START FACT -->The surface of the human skin is 6.5 square feet (2m).<!-- END FACT -->**
