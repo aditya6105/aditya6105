@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in fourteen women in America is a natural blonde. Only one in sixteen men is.<!-- END FACT -->**
+**<!-- START FACT -->Average number of people airborne over the US any given hour: 61,000.<!-- END FACT -->**
