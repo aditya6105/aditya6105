@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Columbia University is the second largest landowner in New York City, after the Catholic Church.<!-- END FACT -->**
+**<!-- START FACT -->King Louis XIX ruled France for 15 minutes.<!-- END FACT -->**
