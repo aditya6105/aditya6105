@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.<!-- END FACT -->**
+**<!-- START FACT -->A polar bears skin is black. Its fur is actually clear, but like snow it appears white.<!-- END FACT -->**
