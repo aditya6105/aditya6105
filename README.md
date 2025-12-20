@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person will accidentally eat just under a pound of insects every year.<!-- END FACT -->**
+**<!-- START FACT -->The word "set" has more definitions than any other word in the English language.<!-- END FACT -->**
