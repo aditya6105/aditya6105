@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In America you will see an average of 500 advertisements a day.<!-- END FACT -->**
+**<!-- START FACT -->John Adams, Thomas Jefferson, and James Monroe died on July 4th.<!-- END FACT -->**
