@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rodent's teeth never stop growing.<!-- END FACT -->**
+**<!-- START FACT -->Rape is reported every six minutes in the U.S.<!-- END FACT -->**
