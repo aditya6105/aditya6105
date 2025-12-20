@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sharon Stone was the first Star Search spokes model.<!-- END FACT -->**
+**<!-- START FACT -->The San Francisco Cable cars are the only mobile National Monuments<!-- END FACT -->**
