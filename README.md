@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Paper was invented early in the second century by Chinese eunuch.<!-- END FACT -->**
+**<!-- START FACT -->Honeybees have a type of hair on their eyes!<!-- END FACT -->**
