@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hedenophobic means fear of pleasure.<!-- END FACT -->**
+**<!-- START FACT -->Human thigh bones are stronger than concrete.<!-- END FACT -->**
