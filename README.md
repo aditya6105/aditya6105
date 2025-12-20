@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The most common name in Italy is Mario Rossi.<!-- END FACT -->**
+**<!-- START FACT -->Johnny Appleseed planted apples so that people could use apple cider to make alcohol.<!-- END FACT -->**
