@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A bull can inseminate 300 cows from one single ejaculation.<!-- END FACT -->**
+**<!-- START FACT -->Dogs and cats consume over $11 billion worth of pet food a year<!-- END FACT -->**
