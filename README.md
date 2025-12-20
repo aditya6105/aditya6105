@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are over 58 million dogs in the US<!-- END FACT -->**
+**<!-- START FACT -->“Ithyphallophobia" is a morbid fear of seeing, thinking about or having an erect penis.<!-- END FACT -->**
