@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A polar bears skin is black. Its fur is actually clear, but like snow it appears white.<!-- END FACT -->**
+**<!-- START FACT -->Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.<!-- END FACT -->**
