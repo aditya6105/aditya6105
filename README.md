@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There`s a systematic lull in conversation every 7 minutes.<!-- END FACT -->**
+**<!-- START FACT -->Montpelier, Vermont is the only state capital without a McDonalds.<!-- END FACT -->**
