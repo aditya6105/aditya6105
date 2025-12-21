@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most dust particles in your house are made from dead skin!<!-- END FACT -->**
+**<!-- START FACT -->The Guinness Book of Records holds the record for being the book most often stolen from Libraries.<!-- END FACT -->**
