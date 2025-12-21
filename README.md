@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".<!-- END FACT -->**
+**<!-- START FACT -->In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark<!-- END FACT -->**
