@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Honking of car horns for a couple that just got married is an old superstition to insure great sex.<!-- END FACT -->**
+**<!-- START FACT -->Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.<!-- END FACT -->**
