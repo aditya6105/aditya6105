@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Montpelier, Vermont is the only state capital without a McDonalds.<!-- END FACT -->**
+**<!-- START FACT -->A man's beard grows fastest when he anticipates sex.<!-- END FACT -->**
