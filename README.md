@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Gary, Indiana is the murder capital of the U.S. - probably the world.<!-- END FACT -->**
+**<!-- START FACT -->A dragonfly has a lifespan of 24 hours.<!-- END FACT -->**
