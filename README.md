@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rugby, North Dakota is the geographical center of North America.<!-- END FACT -->**
+**<!-- START FACT -->You can't kill yourself by holding your breath<!-- END FACT -->**
