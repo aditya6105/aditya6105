@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lizards can self-amputate their tails for protection. It grows back after a few months.<!-- END FACT -->**
+**<!-- START FACT -->The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.<!-- END FACT -->**
