@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.<!-- END FACT -->**
+**<!-- START FACT -->There is no solid proof of who built the Taj Mahal.<!-- END FACT -->**
