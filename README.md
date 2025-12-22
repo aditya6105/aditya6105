@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It is impossible to lick your elbow.<!-- END FACT -->**
+**<!-- START FACT -->The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. <!-- END FACT -->**
