@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Americans on the average eat 18 acres of pizza every day.<!-- END FACT -->**
+**<!-- START FACT -->The February of 1865 is the only month in recorded history not to have a full moon.<!-- END FACT -->**
