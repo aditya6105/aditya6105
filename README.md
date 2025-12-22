@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are more psychoanalysts per capita in Buenos Aires than any other place in the world.<!-- END FACT -->**
+**<!-- START FACT -->A skunk's smell can be detected by a human a mile away.<!-- END FACT -->**
