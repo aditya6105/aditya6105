@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the average lifetime, a person will walk the equivalent of 5 times around the equator.<!-- END FACT -->**
+**<!-- START FACT -->If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.<!-- END FACT -->**
