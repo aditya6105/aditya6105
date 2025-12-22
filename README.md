@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A skunk's smell can be detected by a human a mile away.<!-- END FACT -->**
+**<!-- START FACT -->Americans on the average eat 18 acres of pizza every day.<!-- END FACT -->**
