@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Maine is the only state that has borders with only one other state.<!-- END FACT -->**
+**<!-- START FACT -->Your skull is made up of 29 different bones.<!-- END FACT -->**
