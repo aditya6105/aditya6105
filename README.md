@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The most popular first name in the world is Muhammad.<!-- END FACT -->**
+**<!-- START FACT -->A 2" X 4" is really 1-1/2" by 3-1/2".<!-- END FACT -->**
