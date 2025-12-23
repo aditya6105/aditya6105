@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A giraffe can go without water longer than a camel.<!-- END FACT -->**
+**<!-- START FACT -->A man named Charles Osborne had the hiccups for 69 years!<!-- END FACT -->**
