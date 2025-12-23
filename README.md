@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ants closely resemble human manners:  When they wake, they stretch <!-- START FACT -->The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of "ough" in the English Language.<!-- END FACT --> appear to yawn in a human manner before taking up the tasks of the day.<!-- END FACT -->**
+**<!-- START FACT -->The Hawaiian alphabet has only 12 letters.<!-- END FACT -->**
