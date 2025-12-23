@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most toilets flush in E flat.<!-- END FACT -->**
+**<!-- START FACT -->28% of Africa is classified as wilderness. In North America, its 38%.<!-- END FACT -->**
