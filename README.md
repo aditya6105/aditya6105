@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->During the chariot scene in "Ben Hur," a small red car can be seen in the distance.<!-- END FACT -->**
+**<!-- START FACT -->Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.<!-- END FACT -->**
