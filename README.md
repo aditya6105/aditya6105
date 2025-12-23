@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The country code for Russia is "007".<!-- END FACT -->**
+**<!-- START FACT -->On average, 100 people choke to death on ball-point pens every year.<!-- END FACT -->**
