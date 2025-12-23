@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Columbia University is the second largest landowner in New York City, after the Catholic Church.<!-- END FACT -->**
+**<!-- START FACT -->More people are afraid of open spaces (kenophobia) than of tight spaces (claustrophobia).<!-- END FACT -->**
