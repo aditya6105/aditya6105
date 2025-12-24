@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Russians generally answer the phone by saying, "I'm listening".<!-- END FACT -->**
+**<!-- START FACT -->People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.<!-- END FACT -->**
