@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are no words in the dictionary that rhyme with orange, purple, silver and month.<!-- END FACT -->**
+**<!-- START FACT -->Orville Wright was involved in the first aircraft accident. His passenger, a Frenchman, was killed.<!-- END FACT -->**
