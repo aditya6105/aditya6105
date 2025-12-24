@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Banging your head against a wall uses 150 calories an hour.<!-- END FACT -->**
+**<!-- START FACT -->Russians generally answer the phone by saying, "I'm listening".<!-- END FACT -->**
