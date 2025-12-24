@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Van Gogh only sold one painting when he was alive.<!-- END FACT -->**
+**<!-- START FACT -->A blue whales heart only beats nine times per minute.<!-- END FACT -->**
