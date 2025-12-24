@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A rat can last longer without water than a camel.<!-- END FACT -->**
+**<!-- START FACT -->The first novel ever written on a typewriter is Tom Sawyer.<!-- END FACT -->**
