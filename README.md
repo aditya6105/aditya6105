@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.<!-- END FACT -->**
+**<!-- START FACT -->Gabriel, Michael, and Lucifer are the only angels named in the Bible.<!-- END FACT -->**
