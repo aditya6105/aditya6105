@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hawaii is the only coffee producing state.<!-- END FACT -->**
+**<!-- START FACT -->“Duff” is the decaying organic matter found on a forest floor.<!-- END FACT -->**
