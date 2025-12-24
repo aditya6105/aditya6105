@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In “Silence of the Lambs”, Hannibal Lector (Anthony Hopkins) never blinks.<!-- END FACT -->**
+**<!-- START FACT -->Frank Lloyd Wright's son invented Lincoln Logs.<!-- END FACT -->**
