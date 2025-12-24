@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Bible, the world's best-selling book, is also the world's most shoplifted book.<!-- END FACT -->**
+**<!-- START FACT -->California has issued 6 drivers licenses to people named "Jesus Christ."<!-- END FACT -->**
