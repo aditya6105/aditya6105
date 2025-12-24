@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Blondes have more hair than dark-haired people do.<!-- END FACT -->**
+**<!-- START FACT -->There are 41,806 different spoken languages in the world today.<!-- END FACT -->**
