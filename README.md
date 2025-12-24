@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A dime has 118 ridges around the edge.<!-- END FACT -->**
+**<!-- START FACT -->There are no words in the dictionary that rhyme with orange, purple, silver and month.<!-- END FACT -->**
