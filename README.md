@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most Egyptians died by the time they were 30 about 300 years ago,<!-- END FACT -->**
+**<!-- START FACT -->A polar bears skin is black. Its fur is actually clear, but like snow it appears white.<!-- END FACT -->**
