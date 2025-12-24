@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.<!-- END FACT -->**
+**<!-- START FACT -->The international telephone dialing code for Antarctica is 672.<!-- END FACT -->**
