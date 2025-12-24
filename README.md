@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The ZIP in “ZIP code” means Zoning Improvement Plan.<!-- END FACT -->**
+**<!-- START FACT -->In Utah, it is illegal to swear in front of a dead person.<!-- END FACT -->**
