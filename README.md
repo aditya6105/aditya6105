@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is no solid proof of who built the Taj Mahal.<!-- END FACT -->**
+**<!-- START FACT -->Stephen Hawking was born exactly 300 years after Galileo died.<!-- END FACT -->**
