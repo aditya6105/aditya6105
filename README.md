@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. <!-- END FACT -->**
+**<!-- START FACT -->The Amazon is the world's largest river, 3,890 miles (6,259 km) long.<!-- END FACT -->**
