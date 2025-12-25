@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The human heart creates enough pressure to squirt blood 30ft.<!-- END FACT -->**
+**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->The human heart creates enough pressure to squirt blood 30ft.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
