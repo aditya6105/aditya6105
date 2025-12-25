@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Fingernails grow nearly 4 times faster than toenails!<!-- END FACT -->**
+**<!-- START FACT -->On average, 100 people choke to death on ball-point pens every year.<!-- END FACT -->**
