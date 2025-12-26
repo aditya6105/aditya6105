@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest.<!-- END FACT -->**
+**<!-- START FACT -->The surface of the human skin is 6.5 square feet (2m).<!-- END FACT -->**
