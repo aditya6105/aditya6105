@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Humans and dolphins are the only species that have sex for pleasure.<!-- END FACT -->**
+**<!-- START FACT -->A Boeing 747s wingspan is longer than the Wright brother's first flight.<!-- END FACT -->**
