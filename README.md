@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person spends about two years on the phone in a lifetime.<!-- END FACT -->**
+**<!-- START FACT -->There are no words in the dictionary that rhyme with orange, purple, silver and month.<!-- END FACT -->**
