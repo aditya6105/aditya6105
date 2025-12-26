@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A polar bears skin is black. Its fur is actually clear, but like snow it appears white.<!-- END FACT -->**
+**<!-- START FACT -->3.9% of all women do not wear underwear.<!-- END FACT -->**
