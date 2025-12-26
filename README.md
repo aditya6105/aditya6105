@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A man will ejaculate approximately 18 quarts of semen in his lifetime.<!-- END FACT -->**
+**<!-- START FACT -->The average raindrop falls at 7 miles per hour.<!-- END FACT -->**
