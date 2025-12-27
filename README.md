@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The largest NFL stadium is the Pontiac Silverdome in Detroit, Michigan.<!-- END FACT -->**
+**<!-- START FACT -->At the height of its power in 400 BC, the Greek city of Sparta had 25,000 citizens and 500,000 slaves.<!-- END FACT -->**
