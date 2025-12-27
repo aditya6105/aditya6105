@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most collect calls are made on father`s day.<!-- END FACT -->**
+**<!-- START FACT -->If you feed a seagull Alka-Seltzer, its stomach will explode.<!-- END FACT -->**
