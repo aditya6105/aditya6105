@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you feed a seagull Alka-Seltzer, its stomach will explode.<!-- END FACT -->**
+**<!-- START FACT -->Julius Caesar’s autograph is worth about $2,000,000.<!-- END FACT -->**
