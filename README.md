@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Eskimos have over 15 words for the English word of 'Snow'<!-- END FACT -->**
+**<!-- START FACT -->The volume of the earth's moon is the same as the volume of the Pacific Ocean. <!-- END FACT -->**
