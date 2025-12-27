@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->40,000 Americans are injured by toilets each year.<!-- END FACT -->**
+**<!-- START FACT -->The average person spends about two years on the phone in a lifetime.<!-- END FACT -->**
