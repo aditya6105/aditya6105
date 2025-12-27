@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Orville Wright was involved in the first aircraft accident. His passenger, a Frenchman, was killed.<!-- END FACT -->**
+**<!-- START FACT -->15 million blood cells are destroyed in the human body every second.<!-- END FACT -->**
