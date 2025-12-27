@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"You" is the second most spoken English word<!-- END FACT -->**
+**<!-- START FACT -->Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.<!-- END FACT -->**
