@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Relative to size, the strongest muscle in the body is the tongue.<!-- END FACT -->**
+**<!-- START FACT -->Eskimos have over 15 words for the English word of 'Snow'<!-- END FACT -->**
