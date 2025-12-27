@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most collect calls are made on father`s day.<!-- END FACT -->**
+**<!-- START FACT -->Orville Wright was involved in the first aircraft accident. His passenger, a Frenchman, was killed.<!-- END FACT -->**
