@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”<!-- END FACT -->**
+**<!-- START FACT -->Truck driving is the most dangerous occupation by accidental deaths (799 in 2001).<!-- END FACT -->**
