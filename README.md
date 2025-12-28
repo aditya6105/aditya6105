@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->11% of the world is left-handed.<!-- END FACT -->**
+**<!-- START FACT -->An average human scalp has 100,000 hairs.<!-- END FACT -->**
