@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.<!-- END FACT -->**
+**<!-- START FACT -->The name of the girl on the statue of liberty is Mother of Exiles.<!-- END FACT -->**
