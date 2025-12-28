@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->They NEVER said “Beam me up, Scotty” on Star Trek.<!-- END FACT -->**
+**<!-- START FACT -->Women blink nearly twice as much as men.<!-- END FACT -->**
