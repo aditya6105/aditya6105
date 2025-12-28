@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Switzerland is the only country with a square flag.<!-- END FACT -->**
+**<!-- START FACT -->Mongolia is the largest landlocked country.<!-- END FACT -->**
