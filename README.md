@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An average human scalp has 100,000 hairs.<!-- END FACT -->**
+**<!-- START FACT -->The average person laughs 10 times a day!<!-- END FACT -->**
