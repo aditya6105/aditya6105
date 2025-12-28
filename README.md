@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.<!-- END FACT -->**
+**<!-- START FACT -->The penguin is the only bird that can’t fly but can swim.<!-- END FACT -->**
