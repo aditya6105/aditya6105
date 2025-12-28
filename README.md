@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Fingernails grow nearly 4 times faster than toenails!<!-- END FACT -->**
+**<!-- START FACT -->The electric chair was invented by a dentist.<!-- END FACT -->**
