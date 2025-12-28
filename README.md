@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Chinese Crested dogs can get acne. <!-- END FACT -->**
+**<!-- START FACT -->Dr. Seuss pronounced his name “soyce”.<!-- END FACT -->**
