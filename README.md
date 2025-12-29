@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A goldfish has a memory span of three seconds.  <!-- END FACT -->**
+**<!-- START FACT -->Your tongue is the only muscle in your body that is attached at only one end.<!-- END FACT -->**
