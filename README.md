@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Thirty-five percent of the people who use personal ads for dating are already married.<!-- END FACT -->**
+**<!-- START FACT -->Winston Churchill was born in a ladies` room during a dance.<!-- END FACT -->**
