@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ninety percent of all species that have become extinct have been birds.<!-- END FACT -->**
+**<!-- START FACT -->Some worms will eat themselves if they can't find any food!<!-- END FACT -->**
