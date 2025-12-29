@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The San Francisco Cable cars are the only mobile National Monuments<!-- END FACT -->**
+**<!-- START FACT -->Antarctica is the only continent that does not have land areas below sea level.<!-- END FACT -->**
