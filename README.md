@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your tongue is the only muscle in your body that is attached at only one end.<!-- END FACT -->**
+**<!-- START FACT -->A dime has 118 ridges around the edge.<!-- END FACT -->**
