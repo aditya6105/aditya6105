@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Some worms will eat themselves if they can't find any food!<!-- END FACT -->**
+**<!-- START FACT -->Abraham Lincoln’s ghost is said to haunt the White House.<!-- END FACT -->**
