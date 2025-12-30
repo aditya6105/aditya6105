@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One third of all cancers are sun related.<!-- END FACT -->**
+**<!-- START FACT -->God is not mentioned once in the book of Esther.<!-- END FACT -->**
