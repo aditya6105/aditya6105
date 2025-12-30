@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->25% of a human’s bones are in its feet.<!-- END FACT -->**
+**<!-- START FACT -->The first owner of the Marlboro company died of lung cancer.<!-- END FACT -->**
