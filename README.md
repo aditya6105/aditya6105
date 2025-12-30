@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->Andorra, a tiny country between France <!-- START FACT -->Warren Beatty and Shirley McLaine are brother and sister.<!-- END FACT --> Spain, has the longest average lifespan: 83.49 years.<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.<!-- END FACT -->**
