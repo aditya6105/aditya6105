@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.<!-- END FACT -->**
+**<!-- START FACT -->Venus and Uranus are the only planets that rotate opposite to the direction of their orbit.<!-- END FACT -->**
