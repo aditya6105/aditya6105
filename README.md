@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Utah, it is illegal to swear in front of a dead person.<!-- END FACT -->**
+**<!-- START FACT -->You share your birthday with at least 9 million other people in the world.<!-- END FACT -->**
