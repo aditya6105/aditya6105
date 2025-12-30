@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A “2 by 4" is really 1 1/2 by 3 1/2.<!-- END FACT -->**
+**<!-- START FACT -->The dot over the letter `i` is called a tittle.  <!-- END FACT -->**
