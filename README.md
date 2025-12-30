@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The world's youngest parents were 8 and 9 and lived in China in 1910.<!-- END FACT -->**
+**<!-- START FACT -->In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.<!-- END FACT -->**
