@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cat's jaw cannot move sideways.<!-- END FACT -->**
+**<!-- START FACT -->The word “lethologica” describes the state of not being able to remember the word you want.<!-- END FACT -->**
