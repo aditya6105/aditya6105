@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average human head weighs about 8 pounds.<!-- END FACT -->**
+**<!-- START FACT -->In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan letters.<!-- END FACT -->**
