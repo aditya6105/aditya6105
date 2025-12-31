@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the White House, there are 13,092 knives, forks and spoons!<!-- END FACT -->**
+**<!-- START FACT -->Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.<!-- END FACT -->**
