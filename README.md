@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->Chinese Crested dogs can get acne. <!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->Prince Charles is an avid collecter of toilet seats.<!-- END FACT -->**
