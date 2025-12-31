@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Shakespeare spelled his OWN name several different ways.<!-- END FACT -->**
+**<!-- START FACT -->Abraham Lincoln’s ghost is said to haunt the White House.<!-- END FACT -->**
