@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the U.S, Frisbees outsell footballs, baseballs and basketballs combined.<!-- END FACT -->**
+**<!-- START FACT -->Average number of days a West German goes without washing his underwear: 7<!-- END FACT -->**
