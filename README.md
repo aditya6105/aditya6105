@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dr. Seuss pronounced his name “soyce”.<!-- END FACT -->**
+**<!-- START FACT -->Arizona was the last of the 48 adjoining continental states to enter the Union.<!-- END FACT -->**
