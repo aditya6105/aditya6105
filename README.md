@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 12 newborns will be given to the wrong parents every day.<!-- END FACT -->**
+**<!-- START FACT -->Dogs and cats consume over $11 billion worth of pet food a year<!-- END FACT -->**
