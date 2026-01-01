@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The only real person to be a PEZ head was Betsy Ross.<!-- END FACT -->**
+**<!-- START FACT -->On a Canadian two-dollar bill, the American flag is flying over the Parliament Building.<!-- END FACT -->**
