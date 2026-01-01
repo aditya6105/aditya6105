@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.<!-- END FACT -->**
+**<!-- START FACT -->The human brain uses the same amount of energy as a 10-watt light bulb<!-- END FACT -->**
