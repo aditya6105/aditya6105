@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average chocolate bar has 8 insects’ legs melted into it.<!-- END FACT -->**
+**<!-- START FACT -->The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com<!-- END FACT -->**
