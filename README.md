@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Utah, it is illegal to swear in front of a dead person.<!-- END FACT -->**
+**<!-- START FACT -->The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.<!-- END FACT -->**
