@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hummingbirds are the only animals that can fly backwards. <!-- END FACT -->**
+**<!-- START FACT -->Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.<!-- END FACT -->**
