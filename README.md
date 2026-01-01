@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.<!-- END FACT -->**
+**<!-- START FACT -->”Judge Judy” has a $25,000,000 salary, while Supreme Court Justice Ginsberg has a $190,100 salary.<!-- END FACT -->**
