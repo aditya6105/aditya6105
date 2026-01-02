@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Stephen Hawking was born exactly 300 years after Galileo died.<!-- END FACT -->**
+**<!-- START FACT -->There was once an undersea post office in the Bahamas.<!-- END FACT -->**
