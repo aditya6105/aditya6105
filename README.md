@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ten percent of the Russian government`s income comes from the sale of vodka.<!-- END FACT -->**
+**<!-- START FACT -->Czechs are the biggest consumers of beer per male in the world.<!-- END FACT -->**
