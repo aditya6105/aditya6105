@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A blue whales heart only beats nine times per minute.<!-- END FACT -->**
+**<!-- START FACT -->On average, 100 people choke to death on ball-point pens every year.<!-- END FACT -->**
