@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.<!-- END FACT -->**
+**<!-- START FACT -->Coca-Cola would be green if coloring weren’t added to it.<!-- END FACT -->**
