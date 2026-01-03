@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Camels chew in a figure 8 pattern.<!-- END FACT -->**
+**<!-- START FACT -->No piece of square dry paper can be folded in half more than 7 times<!-- END FACT -->**
