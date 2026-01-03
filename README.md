@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More than 90% of the Nicaraguan people are Roman Catholic.<!-- END FACT -->**
+**<!-- START FACT -->There are 318,979,564,000 possible combinations of the first four moves in Chess.<!-- END FACT -->**
