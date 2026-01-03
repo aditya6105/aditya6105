@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Each year there is one ton of cement poured for each man woman and child in the world. <!-- END FACT -->**
+**<!-- START FACT -->Jupiter is bigger than all the other planets in our solar system combined.<!-- END FACT -->**
