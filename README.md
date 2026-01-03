@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Quebec, there is an old law that states margarine must be a different color than butter.<!-- END FACT -->**
+**<!-- START FACT -->The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.<!-- END FACT -->**
