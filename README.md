@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->“Lassie” was played by a group of male dogs; the main one was named Pal.<!-- END FACT -->**
+**<!-- START FACT -->Rhode Island is the only state which the hammer throw is a legal high school sport.<!-- END FACT -->**
