@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The human body is comprised of 80% water.<!-- END FACT -->**
+**<!-- START FACT -->The highest point in Pennsylvania is lower than the lowest point in Colorado.<!-- END FACT -->**
