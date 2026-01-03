@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A duck's quack doesn't echo, and no one knows why.<!-- END FACT -->**
+**<!-- START FACT -->Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.<!-- END FACT -->**
