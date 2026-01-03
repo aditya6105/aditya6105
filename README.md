@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->About 55% of all movies are rated R.<!-- END FACT -->**
+**<!-- START FACT -->The average person will accidentally eat just under a pound of insects every year.<!-- END FACT -->**
