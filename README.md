@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Benjamin Franklin was the fifth in a series of the youngest son of the youngest son.<!-- END FACT -->**
+**<!-- START FACT -->There is an average of 61,000 people airborne over the US at any given moment.<!-- END FACT -->**
