@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.<!-- END FACT -->**
+**<!-- START FACT -->To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.<!-- END FACT -->**
