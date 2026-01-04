@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Amazon is the world's largest river, 3,890 miles (6,259 km) long.<!-- END FACT -->**
+**<!-- START FACT -->Czechs are the biggest consumers of beer per male in the world.<!-- END FACT -->**
