@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Czechs are the biggest consumers of beer per male in the world.<!-- END FACT -->**
+**<!-- START FACT -->US gold coins used to say “In Gold We Trust”.<!-- END FACT -->**
