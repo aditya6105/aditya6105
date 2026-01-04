@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cockroach can live several weeks with its head cut off!<!-- END FACT -->**
+**<!-- START FACT -->“Lassie” was played by a group of male dogs; the main one was named Pal.<!-- END FACT -->**
