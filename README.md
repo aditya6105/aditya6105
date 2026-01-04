@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Kelsey Grammar sings and plays the piano for the theme song of Fraiser.<!-- END FACT -->**
+**<!-- START FACT -->One out of every 43 prisoners escapes from jail. 94% are recaptured.<!-- END FACT -->**
