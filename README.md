@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->US gold coins used to say “In Gold We Trust”.<!-- END FACT -->**
+**<!-- START FACT -->Sigmund Freud had a morbid fear of ferns.<!-- END FACT -->**
