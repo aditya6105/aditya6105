@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Rhythm" is the longest English word without a vowel.<!-- END FACT -->**
+**<!-- START FACT -->11% of the world is left-handed.<!-- END FACT -->**
