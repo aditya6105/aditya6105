@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The angel falls in Venezuela are nearly 20 times taller than Niagara Falls.<!-- END FACT -->**
+**<!-- START FACT -->Shakespeare is quoted 33,150 times in the Oxford English dictionary.<!-- END FACT -->**
