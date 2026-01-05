@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every person, including identical twins, has a unique eye <!-- START FACT -->There are 269 steps to the top of the Leaning Tower of Pisa<!-- END FACT --> tongue print along with their finger print.<!-- END FACT -->**
+**<!-- START FACT -->Giraffes and rats can last longer without water than camels.<!-- END FACT -->**
