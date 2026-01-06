@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bulgarians are known to be the biggest yogurt eaters in the world.<!-- END FACT -->**
+**<!-- START FACT -->A duck`s quack doesn`t echo, and no one knows why.<!-- END FACT -->**
