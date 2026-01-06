@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are a million ants for every person on Earth.<!-- END FACT -->**
+**<!-- START FACT -->The name Wendy was made up for the book "Peter Pan."<!-- END FACT -->**
