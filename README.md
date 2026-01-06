@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Laredo, Texas is the U.S.'s farthest inland port.<!-- END FACT -->**
+**<!-- START FACT -->Denver, Colorado lays claim to the invention of the cheeseburger.<!-- END FACT -->**
