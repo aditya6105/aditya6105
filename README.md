@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average chocolate bar has 8 insects' legs in it.<!-- END FACT -->**
+**<!-- START FACT -->The number "four" is considered unlucky in Japan because it is pronounced the same as "death".<!-- END FACT -->**
