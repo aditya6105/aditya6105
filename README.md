@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"You" is the second most spoken English word<!-- END FACT -->**
+**<!-- START FACT -->On average, 100 people choke to death on ballpoint pens every year.<!-- END FACT -->**
