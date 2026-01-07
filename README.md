@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first streetlights in America were installed in Philadelphia around 1757.<!-- END FACT -->**
+**<!-- START FACT -->There are a million ants for every person on Earth.<!-- END FACT -->**
