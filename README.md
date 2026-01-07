@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  <!-- END FACT -->**
+**<!-- START FACT -->The first streetlights in America were installed in Philadelphia around 1757.<!-- END FACT -->**
