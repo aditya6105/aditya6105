@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->98% of Japanese are cremated.<!-- END FACT -->**
+**<!-- START FACT -->One quarter of the bones in your body are in your feet.<!-- END FACT -->**
