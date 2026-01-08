@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A mole can dig a tunnel 300 feet (91 m) long in just one night.<!-- END FACT -->**
+**<!-- START FACT -->The average human brain has about 100 billion nerve cells.<!-- END FACT -->**
