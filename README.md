@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->1 in 5 of the world's doctors are Russian.<!-- END FACT -->**
+**<!-- START FACT -->Hawaii is the only coffee producing state.<!-- END FACT -->**
