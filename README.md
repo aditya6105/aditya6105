@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->They NEVER said “Beam me up, Scotty” on Star Trek.<!-- END FACT -->**
+**<!-- START FACT -->Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.<!-- END FACT -->**
