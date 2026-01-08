@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your ribs move about 5 million times a year, every time you breathe!<!-- END FACT -->**
+**<!-- START FACT -->Sex burns 360 calories per hour.<!-- END FACT -->**
