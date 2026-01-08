@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mercury is the only planet whose orbit is coplanar with its equator.<!-- END FACT -->**
+**<!-- START FACT -->There are 336 dimples on a regulation US golf ball. In the UK its 330.<!-- END FACT -->**
