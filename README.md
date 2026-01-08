@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.<!-- END FACT -->**
+**<!-- START FACT -->Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.<!-- END FACT -->**
