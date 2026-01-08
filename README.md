@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Paper was invented early in the second century by Chinese eunuch.<!-- END FACT -->**
+**<!-- START FACT -->God is not mentioned once in the book of Esther.<!-- END FACT -->**
