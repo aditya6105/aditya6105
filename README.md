@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It has NEVER rained in Calama, a town in the Atacama Desert of Chile.<!-- END FACT -->**
+**<!-- START FACT -->Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.<!-- END FACT -->**
