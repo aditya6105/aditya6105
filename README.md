@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 12 newborns will be given to the wrong parents daily.<!-- END FACT -->**
+**<!-- START FACT -->The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.<!-- END FACT -->**
