@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Blondes have more hair than dark-haired people do.<!-- END FACT -->**
+**<!-- START FACT -->1,800 cigarettes are smoked per person each year in China.<!-- END FACT -->**
