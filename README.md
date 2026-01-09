@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->God is not mentioned once in the book of Esther.<!-- END FACT -->**
+**<!-- START FACT -->The only capital letter in the Roman alphabet with exactly one end point is P. <!-- END FACT -->**
