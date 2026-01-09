@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One third of all cancers are sun related.<!-- END FACT -->**
+**<!-- START FACT -->Rubber bands last longer when refrigerated.<!-- END FACT -->**
