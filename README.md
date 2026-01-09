@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A Czech man, Jan Honza Zampa, holds the record for drinking one liter of beer in 4.11 seconds.<!-- END FACT -->**
+**<!-- START FACT -->The first license plate on a car in the United States was issued in Denver, Colorado in 1908.<!-- END FACT -->**
