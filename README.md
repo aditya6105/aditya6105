@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Switzerland is the only country with a square flag.<!-- END FACT -->**
+**<!-- START FACT -->Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.<!-- END FACT -->**
