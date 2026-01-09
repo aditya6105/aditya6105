@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The penguin is the only bird that can’t fly but can swim.<!-- END FACT -->**
+**<!-- START FACT -->Switzerland is the only country with a square flag.<!-- END FACT -->**
