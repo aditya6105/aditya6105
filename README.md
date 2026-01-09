@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Slugs have four noses.<!-- END FACT -->**
+**<!-- START FACT -->Chinese Crested dogs can get acne. <!-- END FACT -->**
