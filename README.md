@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The highest point in Pennsylvania is lower than the lowest point in Colorado.<!-- END FACT -->**
+**<!-- START FACT -->The “spot” on the 7-Up logo comes from its inventor who had red eyes. He was an albino.<!-- END FACT -->**
