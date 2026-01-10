@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The most popular first name in the world is Muhammad.<!-- END FACT -->**
+**<!-- START FACT -->Sex burns 360 calories per hour.<!-- END FACT -->**
