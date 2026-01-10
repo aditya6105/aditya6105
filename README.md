@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A shark can detect one part of blood in 100 million parts of water.<!-- END FACT -->**
+**<!-- START FACT -->Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street.<!-- END FACT -->**
