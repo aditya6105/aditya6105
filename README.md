@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.<!-- END FACT -->**
+**<!-- START FACT -->Columbia University is the second largest landowner in New York City, after the Catholic Church.<!-- END FACT -->**
