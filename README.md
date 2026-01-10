@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In New York State, it is illegal to but any alcohol on Sundays before noon.<!-- END FACT -->**
+**<!-- START FACT -->A giraffe can clean its ears with its 21-inch tongue!<!-- END FACT -->**
