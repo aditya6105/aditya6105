@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Honey is the only natural food that is made without destroying any kind of life.<!-- END FACT -->**
+**<!-- START FACT -->The original story from "Tales of 1001 Arabian Nights" begins, "Aladdin was a little Chinese boy." <!-- END FACT -->**
