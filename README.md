@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A standard slinky measures 87 feet when stretched out.<!-- END FACT -->**
+**<!-- START FACT -->98% of Japanese are cremated.<!-- END FACT -->**
