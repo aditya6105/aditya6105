@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The original story from "Tales of 1001 Arabian Nights" begins, "Aladdin was a little Chinese boy." <!-- END FACT -->**
+**<!-- START FACT -->The sound of E.T. walking was made by someone squishing her hands in jelly.<!-- END FACT -->**
