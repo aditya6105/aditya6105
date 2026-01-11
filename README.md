@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Australian $5 to $100 notes are made of plastic.<!-- END FACT -->**
+**<!-- START FACT -->A man will ejaculate approximately 18 quarts of semen in his lifetime.<!-- END FACT -->**
