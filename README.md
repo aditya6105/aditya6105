@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average chocolate bar has 8 insects’ legs melted into it.<!-- END FACT -->**
+**<!-- START FACT -->1,800 cigarettes are smoked per person each year in China.<!-- END FACT -->**
