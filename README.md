@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most household dust is made of dead skin cells.<!-- END FACT -->**
+**<!-- START FACT -->The average chocolate bar has 8 insects’ legs melted into it.<!-- END FACT -->**
