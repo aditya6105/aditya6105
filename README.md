@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Fingernails grow nearly 4 times faster than toenails!<!-- END FACT -->**
+**<!-- START FACT -->No piece of square dry paper can be folded in half more than 7 times<!-- END FACT -->**
