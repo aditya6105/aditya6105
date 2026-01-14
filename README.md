@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.<!-- END FACT -->**
+**<!-- START FACT -->One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.<!-- END FACT -->**
