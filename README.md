@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A skunk's smell can be detected by a human a mile away.<!-- END FACT -->**
+**<!-- START FACT -->1 in 5 of the world's doctors are Russian.<!-- END FACT -->**
