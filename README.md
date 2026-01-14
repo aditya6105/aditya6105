@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Weatherman Willard Scott was the first original Ronald McDonald.<!-- END FACT -->**
+**<!-- START FACT -->Pinocchio is Italian for "pine head."<!-- END FACT -->**
