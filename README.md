@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->Honey is the only food that does not spoil.<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->There are no clocks in Las Vegas gambling casinos.<!-- END FACT -->**
