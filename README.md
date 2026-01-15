@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Americans on average eat 18 acres of pizza every day.<!-- END FACT -->**
+**<!-- START FACT -->The name Wendy was made up for the book Peter Pan. There was never a recorded Wendy before it.<!-- END FACT -->**
