@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."<!-- END FACT -->**
+**<!-- START FACT -->$283,200 is the absolute highest amount of money you can win on Jeopardy.<!-- END FACT -->**
