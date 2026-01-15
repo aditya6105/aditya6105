@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sherlock Holmes NEVER said, "Elementary, my dear Watson."<!-- END FACT -->**
+**<!-- START FACT -->Gabriel, Michael, and Lucifer are the only angels named in the Bible.<!-- END FACT -->**
