@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A pound of houseflies contains more protein than a pound of beef<!-- END FACT -->**
+**<!-- START FACT -->There is no solid proof of who built the Taj Mahal.<!-- END FACT -->**
