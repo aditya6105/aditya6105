@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hannibal had only one eye after getting a disease while attacking Rome.<!-- END FACT -->**
+**<!-- START FACT -->Right handed people live, on average, nine years longer than left-handed people<!-- END FACT -->**
