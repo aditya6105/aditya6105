@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word “maverick” came into use after Samuel Maverick, a Texan refused to brand his cattle.<!-- END FACT -->**
+**<!-- START FACT -->Cher's last name was "Sarkissian." She changed it because no one could pronounce it.<!-- END FACT -->**
