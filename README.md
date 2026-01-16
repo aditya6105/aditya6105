@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->California consumes more bottled water than any other product.<!-- END FACT -->**
+**<!-- START FACT -->Icelanders consume more Coca-Cola per Capita than any other nation.<!-- END FACT -->**
