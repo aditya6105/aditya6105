@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in seven workers in Boston, Massachusetts walks to work.<!-- END FACT -->**
+**<!-- START FACT -->On average people fear spiders more than they do death.<!-- END FACT -->**
