@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is an average of 61,000 people airborne over the US at any given moment.<!-- END FACT -->**
+**<!-- START FACT -->Cats have over 100 vocal sounds; dogs only have 10.<!-- END FACT -->**
