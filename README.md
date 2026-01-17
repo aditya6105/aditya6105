@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There was once an undersea post office in the Bahamas.<!-- END FACT -->**
+**<!-- START FACT -->Hawaii is the only coffee producing state.<!-- END FACT -->**
