@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An Olympic gold medal must contain 92.5 percent silver<!-- END FACT -->**
+**<!-- START FACT -->In Miconesia, coins are 12 feet across.<!-- END FACT -->**
