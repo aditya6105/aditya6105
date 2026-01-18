@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average life of a taste bud is 10 days.<!-- END FACT -->**
+**<!-- START FACT -->The state of Florida is bigger than England.<!-- END FACT -->**
