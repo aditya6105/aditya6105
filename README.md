@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Al Capone’s business card said he was a used furniture dealer.<!-- END FACT -->**
+**<!-- START FACT -->Each month, there is at least one report of UFOs from each province of Canada.<!-- END FACT -->**
