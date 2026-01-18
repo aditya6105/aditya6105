@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Vermont, the ratio of cows to people is 10:1<!-- END FACT -->**
+**<!-- START FACT -->Humans and dolphins are the only species that have sex for pleasure.<!-- END FACT -->**
