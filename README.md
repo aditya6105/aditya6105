@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.<!-- END FACT -->**
+**<!-- START FACT -->The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.<!-- END FACT -->**
