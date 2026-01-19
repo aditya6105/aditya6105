@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dolphins can look in different directions with each eye. They can sleep with one eye open.<!-- END FACT -->**
+**<!-- START FACT -->Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.<!-- END FACT -->**
