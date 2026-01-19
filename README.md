@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.<!-- END FACT -->**
+**<!-- START FACT -->Hair is made from the same substance as fingernails.<!-- END FACT -->**
