@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).<!-- END FACT -->**
+**<!-- START FACT -->Oak trees do not produce acorns until they are fifty years of age or older.<!-- END FACT -->**
