@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On a Canadian two dollar bill, the flag flying over the Parliament buildings is an American flag.<!-- END FACT -->**
+**<!-- START FACT -->The average person`s left hand does 56% of the typing.<!-- END FACT -->**
