@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An average human loses about 200 head hairs per day.<!-- END FACT -->**
+**<!-- START FACT -->American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.<!-- END FACT -->**
