@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Great Wall of China is the only man-made structure visible from space.<!-- END FACT -->**
+**<!-- START FACT -->Los Angeles’ full name is “El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula”.<!-- END FACT -->**
