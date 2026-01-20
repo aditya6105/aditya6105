@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lightning strikes the earth about 8 million times a day.<!-- END FACT -->**
+**<!-- START FACT -->There are about 450 types of cheese in the world. 240 come from France.<!-- END FACT -->**
