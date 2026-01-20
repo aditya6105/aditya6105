@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are more than 10 million bricks in the Empire State Building.<!-- END FACT -->**
+**<!-- START FACT -->Every time you lick a stamp, you're consuming 1/10 of a calorie.<!-- END FACT -->**
