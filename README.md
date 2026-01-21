@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->$283,200 is the absolute highest amount of money you can win on Jeopardy.<!-- END FACT -->**
+**<!-- START FACT -->Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. <!-- END FACT -->**
