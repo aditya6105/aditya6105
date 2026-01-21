@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->They NEVER said “Beam me up, Scotty” on Star Trek.<!-- END FACT -->**
+**<!-- START FACT -->Chewing gum while peeling onions will keep you from crying.<!-- END FACT -->**
