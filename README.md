@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Prince Charles and Prince William never travel on the same airplane in case there is a crash.<!-- END FACT -->**
+**<!-- START FACT -->A man will ejaculate approximately 18 quarts of semen in his lifetime.<!-- END FACT -->**
