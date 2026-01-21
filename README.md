@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The official beverage of Ohio is tomato juice.<!-- END FACT -->**
+**<!-- START FACT -->The US has more personal computers than the next 7 countries combined.<!-- END FACT -->**
