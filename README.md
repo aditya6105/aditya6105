@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Utah, it is illegal to swear in front of a dead person.<!-- END FACT -->**
+**<!-- START FACT -->Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street.<!-- END FACT -->**
