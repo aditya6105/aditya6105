@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Shakespeare invented the words “assassination” and “bump.”<!-- END FACT -->**
+**<!-- START FACT -->There are 45 miles of nerves in the skin of a human being.<!-- END FACT -->**
