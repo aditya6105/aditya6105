@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It's illegal to spit on the sidewalk in Norfolk, Virginia.<!-- END FACT -->**
+**<!-- START FACT -->US gold coins used to say “In Gold We Trust”.<!-- END FACT -->**
