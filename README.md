@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Louisiana's capital building is the tallest one of any U.S. state.<!-- END FACT -->**
+**<!-- START FACT -->A pound of houseflies contains more protein than a pound of beef<!-- END FACT -->**
