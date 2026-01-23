@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Al Capone’s business card said he was a used furniture dealer.<!-- END FACT -->**
+**<!-- START FACT -->The surface of the Earth is about 60% water and 10% ice.<!-- END FACT -->**
