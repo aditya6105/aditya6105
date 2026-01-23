@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Alabama was the first state to recognize Christmas as an official holiday.<!-- END FACT -->**
+**<!-- START FACT -->Americans on the average eat 18 acres of pizza every day.<!-- END FACT -->**
