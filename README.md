@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average a hedgehog's heart beats 300 times a minute.<!-- END FACT -->**
+**<!-- START FACT -->Mercury is the only planet whose orbit is coplanar with its equator.<!-- END FACT -->**
