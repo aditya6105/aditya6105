@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every year 4 people in the UK die putting their trousers on.<!-- END FACT -->**
+**<!-- START FACT -->A pig`s orgasm lasts for 30 minutes.<!-- END FACT -->**
