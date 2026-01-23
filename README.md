@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A pound of houseflies contains more protein than a pound of beef<!-- END FACT -->**
+**<!-- START FACT -->The Declaration of Independence was written on hemp (marijuana) paper.<!-- END FACT -->**
