@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->15 million blood cells are destroyed in the human body every second.<!-- END FACT -->**
+**<!-- START FACT -->Tom Sawyer was the first novel written on a typewriter.<!-- END FACT -->**
