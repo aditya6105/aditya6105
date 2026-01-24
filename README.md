@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A giraffe can clean its ears with its 21-inch tongue!<!-- END FACT -->**
+**<!-- START FACT -->The praying mantis is the only insect that can turn its head<!-- END FACT -->**
