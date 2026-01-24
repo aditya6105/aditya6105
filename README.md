@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A rhinoceros horn is made of compacted hair.<!-- END FACT -->**
+**<!-- START FACT -->Dueling is legal in Paraguay as long as both parties are registered blood donors.<!-- END FACT -->**
