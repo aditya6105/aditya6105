@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The dot over the letter “i” is called a tittle.<!-- END FACT -->**
+**<!-- START FACT -->If you feed a seagull Alka-Seltzer, its stomach will explode.<!-- END FACT -->**
