@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->1 in 8 Americans has worked at a McDonalds restaurant.<!-- END FACT -->**
+**<!-- START FACT -->In ancient Greece "idiot" meant a private citizen or layman.<!-- END FACT -->**
