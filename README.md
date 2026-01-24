@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Grapes explode when you put them in the microwave. Go on, try it then<!-- END FACT -->**
+**<!-- START FACT -->Koalas never drink water. They get fluids from the eucalyptus leaves they eat.<!-- END FACT -->**
