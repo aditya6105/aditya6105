@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.<!-- END FACT -->**
+**<!-- START FACT -->A polar bears skin is black. Its fur is actually clear, but like snow it appears white.<!-- END FACT -->**
