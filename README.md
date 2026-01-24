@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hawaii is the only coffee producing state.<!-- END FACT -->**
+**<!-- START FACT -->The February of 1865 is the only month in recorded history not to have a full moon.<!-- END FACT -->**
