@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Koalas never drink water. They get fluids from the eucalyptus leaves they eat.<!-- END FACT -->**
+**<!-- START FACT -->Camels chew in a figure 8 pattern.<!-- END FACT -->**
