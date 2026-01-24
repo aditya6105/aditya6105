@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The strongest muscle in the human body is the tongue. (the heart is not a muscle)<!-- END FACT -->**
+**<!-- START FACT -->The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.<!-- END FACT -->**
