@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items.<!-- END FACT -->**
+**<!-- START FACT -->At the height of its power in 400 BC, the Greek city of Sparta had 25,000 citizens and 500,000 slaves.<!-- END FACT -->**
