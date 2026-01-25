@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->No word in the English language rhymes with month, orange, silver, or purple.<!-- END FACT -->**
+**<!-- START FACT -->Australian soldiers used the song "We're Off to See the Wizard" as a marching song in WWII.<!-- END FACT -->**
