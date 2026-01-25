@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the 17th century, the value of pi was known to 35 decimal places. Today, to 1.2411 trillion.<!-- END FACT -->**
+**<!-- START FACT -->The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.<!-- END FACT -->**
