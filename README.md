@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->By raising your legs slowly and lying on your back, you cannot sink into quicksand.<!-- END FACT -->**
+**<!-- START FACT -->14% of Americans have skinny-dipped with a member of the opposite sex at least once.<!-- END FACT -->**
