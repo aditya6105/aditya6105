@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.<!-- END FACT -->**
+**<!-- START FACT -->In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.<!-- END FACT -->**
