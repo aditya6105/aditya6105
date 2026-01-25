@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dr. Seuss pronounced his name “soyce”.<!-- END FACT -->**
+**<!-- START FACT -->You can lead a cow upstairs but not downstairs.<!-- END FACT -->**
