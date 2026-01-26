@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Antarctica is the only continent that does not have land areas below sea level.<!-- END FACT -->**
+**<!-- START FACT -->Banging your head against a wall uses 150 calories an hour.<!-- END FACT -->**
