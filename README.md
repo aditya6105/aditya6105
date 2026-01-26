@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Shakespeare invented the words “assassination” and “bump.”<!-- END FACT -->**
+**<!-- START FACT -->A pound of houseflies contains more protein than a pound of beef<!-- END FACT -->**
