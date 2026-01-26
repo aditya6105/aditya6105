@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average woman consumes 6 lbs of lipstick in her lifetime.<!-- END FACT -->**
+**<!-- START FACT -->The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.<!-- END FACT -->**
