@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are more donut shops in Canada per capita than any other country.<!-- END FACT -->**
+**<!-- START FACT -->Some worms will eat themselves if they can't find any food!<!-- END FACT -->**
