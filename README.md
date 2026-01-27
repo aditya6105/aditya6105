@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->13% of Americans actually believe that some parts of the moon are made of cheese.<!-- END FACT -->**
+**<!-- START FACT -->Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.<!-- END FACT -->**
