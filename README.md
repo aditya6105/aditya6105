@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest one-syllable word in the English language is "screeched." <!-- END FACT -->**
+**<!-- START FACT -->The town of Calma, Chile in the Atacama Desert has never had rain.<!-- END FACT -->**
