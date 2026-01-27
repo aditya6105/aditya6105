@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Russians generally answer the phone by saying, "I'm listening".<!-- END FACT -->**
+**<!-- START FACT -->A jellyfish is 95% water.<!-- END FACT -->**
