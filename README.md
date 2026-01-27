@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Because metal was scarce, the Oscars given out during World War II were made of wood.<!-- END FACT -->**
+**<!-- START FACT -->14% of all facts and statistics are made up and 27% of people know that fact.<!-- END FACT -->**
