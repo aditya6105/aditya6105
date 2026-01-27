@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->13% of Americans actually believe that some parts of the moon are made of cheese.<!-- END FACT -->**
+**<!-- START FACT -->Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.<!-- END FACT -->**
