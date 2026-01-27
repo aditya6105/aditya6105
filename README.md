@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->14% of all facts and statistics are made up and 27% of people know that fact.<!-- END FACT -->**
+**<!-- START FACT -->The town of Calma, Chile in the Atacama Desert has never had rain.<!-- END FACT -->**
