@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Wyoming was the first state to give women the right to vote in 1869.<!-- END FACT -->**
+**<!-- START FACT -->Because metal was scarce, the Oscars given out during World War II were made of wood.<!-- END FACT -->**
