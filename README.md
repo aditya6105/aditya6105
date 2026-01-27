@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Owls are one of the only birds who can see the color blue!<!-- END FACT -->**
+**<!-- START FACT -->Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”<!-- END FACT -->**
