@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Over 1000 birds a year die from smashing into windows!<!-- END FACT -->**
+**<!-- START FACT -->There is a hotel in Sweden built entirely out of ice; it is rebuilt every year.<!-- END FACT -->**
