@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A man named Charles Osborne had the hiccups for 69 years!<!-- END FACT -->**
+**<!-- START FACT -->Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest.<!-- END FACT -->**
