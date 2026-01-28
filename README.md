@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.<!-- END FACT -->**
+**<!-- START FACT -->Sex is biochemically no different from eating large quantities of chocolate.<!-- END FACT -->**
