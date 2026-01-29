@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->When sharks take a bite, their eyes roll back and their teeth jut out.<!-- END FACT -->**
+**<!-- START FACT -->Dr. Seuss pronounced his name “soyce”.<!-- END FACT -->**
