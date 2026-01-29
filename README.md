@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most dust particles in your house are made from dead skin!<!-- END FACT -->**
+**<!-- START FACT -->In 10 minutes, a hurricane releases more energy than all the world’s nuclear weapons combined.<!-- END FACT -->**
