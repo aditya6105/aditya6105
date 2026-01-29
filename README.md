@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dr. Seuss pronounced his name “soyce”.<!-- END FACT -->**
+**<!-- START FACT -->The people of Israel consume more turkeys per capita than any other country.<!-- END FACT -->**
