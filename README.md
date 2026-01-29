@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An average human scalp has 100,000 hairs.<!-- END FACT -->**
+**<!-- START FACT -->There is a hotel in Sweden built entirely out of ice; it is rebuilt every year.<!-- END FACT -->**
