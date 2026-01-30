@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The mother of Michael Nesmith of "The Monkees" invented whiteout.<!-- END FACT -->**
+**<!-- START FACT -->"Venus observa" is the technical term for the "missionary position."<!-- END FACT -->**
