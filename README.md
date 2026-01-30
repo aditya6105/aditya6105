@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates<!-- END FACT -->**
+**<!-- START FACT -->American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.<!-- END FACT -->**
