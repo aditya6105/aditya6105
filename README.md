@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Americans are responsible for about 1/5 of the world’s garbage annually.<!-- END FACT -->**
+**<!-- START FACT -->For every 230 cars that are made, 1 will be stolen.<!-- END FACT -->**
