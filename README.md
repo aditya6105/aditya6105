@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person laughs 10 times a day!<!-- END FACT -->**
+**<!-- START FACT -->The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.<!-- END FACT -->**
