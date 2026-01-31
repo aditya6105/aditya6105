@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One quarter of the bones in your body are in your feet.<!-- END FACT -->**
+**<!-- START FACT -->You are more likely to be killed by a champagne cork than by a poisonous spider.<!-- END FACT -->**
