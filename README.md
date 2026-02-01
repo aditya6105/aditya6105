@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It`s possible to lead a cow upstairs but not downstairs.<!-- END FACT -->**
+**<!-- START FACT -->Maine is the only state (in USA) whose name is just one syllable. <!-- END FACT -->**
