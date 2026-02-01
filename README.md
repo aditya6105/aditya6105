@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A Boeing 747s wingspan is longer than the Wright brother's first flight.<!-- END FACT -->**
+**<!-- START FACT -->28% of Africa is classified as wilderness. In North America, its 38%.<!-- END FACT -->**
