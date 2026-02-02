@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->38% of American men say they love their cars more than women<!-- END FACT -->**
+**<!-- START FACT -->You share your birthday with at least 9 million other people in the world.<!-- END FACT -->**
