@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cow gives nearly 200,000 glasses of milk in her lifetime.<!-- END FACT -->**
+**<!-- START FACT -->India has a Bill of Rights for cows.<!-- END FACT -->**
