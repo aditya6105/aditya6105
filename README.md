@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The highest per capita Jell-O comsumption in the US is Des Moines.<!-- END FACT -->**
+**<!-- START FACT -->A cow gives nearly 200,000 glasses of milk in her lifetime.<!-- END FACT -->**
