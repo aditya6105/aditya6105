@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.<!-- END FACT -->**
+**<!-- START FACT -->When the Titanic sank, 2228 people were on it. Only 706 survived.<!-- END FACT -->**
