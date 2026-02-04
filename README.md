@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In America you will see an average of 500 advertisements a day.<!-- END FACT -->**
+**<!-- START FACT -->While in Alcatraz, Al Capone was inmate #85.<!-- END FACT -->**
