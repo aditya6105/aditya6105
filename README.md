@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.<!-- END FACT -->**
+**<!-- START FACT -->In America you will see an average of 500 advertisements a day.<!-- END FACT -->**
