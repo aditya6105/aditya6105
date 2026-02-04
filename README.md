@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rubber bands last longer when refrigerated.<!-- END FACT -->**
+**<!-- START FACT -->A crocodiles tongue is attached to the roof of its mouth.<!-- END FACT -->**
