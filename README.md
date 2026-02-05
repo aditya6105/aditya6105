@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Golf courses cover 4% of North America.<!-- END FACT -->**
+**<!-- START FACT -->In golf, a ‘Bo Derek’ is a score of 10.<!-- END FACT -->**
