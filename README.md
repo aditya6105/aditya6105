@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lizards can self-amputate their tails for protection. It grows back after a few months.<!-- END FACT -->**
+**<!-- START FACT -->US gold coins used to say “In Gold We Trust”.<!-- END FACT -->**
