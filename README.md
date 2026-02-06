@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.<!-- END FACT -->**
+**<!-- START FACT -->Buckingham Palace has 602 rooms.<!-- END FACT -->**
