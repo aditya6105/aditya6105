@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.<!-- END FACT -->**
+**<!-- START FACT -->Baby Ruth candy bar was named after Grover Cleveland’s daughter, Ruth, not the baseball player.<!-- END FACT -->**
