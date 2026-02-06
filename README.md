@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Buckingham Palace has 602 rooms.<!-- END FACT -->**
+**<!-- START FACT -->One in fourteen women in America is a natural blonde. Only one in sixteen men is.<!-- END FACT -->**
