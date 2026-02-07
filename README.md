@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.<!-- END FACT -->**
+**<!-- START FACT -->There is a 1 in 4 chance that New York will have a white Christmas.<!-- END FACT -->**
