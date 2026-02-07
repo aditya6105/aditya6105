@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.<!-- END FACT -->**
+**<!-- START FACT -->When we think of Big Ben in London, we think of the clock. Actually, it's the bell.<!-- END FACT -->**
