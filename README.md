@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Our eyes are always the same size from birth, but our nose and ears never stop growing.<!-- END FACT -->**
+**<!-- START FACT -->The average Japanese household watches more than 10 hours of television a day.<!-- END FACT -->**
