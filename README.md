@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the 1980`s American migraines increased by 60%.<!-- END FACT -->**
+**<!-- START FACT -->Rape is reported every six minutes in the U.S.<!-- END FACT -->**
