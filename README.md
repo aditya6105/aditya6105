@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A chameleon's tongue is twice the length of its body.<!-- END FACT -->**
+**<!-- START FACT -->40% of McDonald’s profits come from the sales of Happy Meals.<!-- END FACT -->**
