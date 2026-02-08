@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rape is reported every six minutes in the U.S.<!-- END FACT -->**
+**<!-- START FACT -->Greenland is the largest island in the world.<!-- END FACT -->**
