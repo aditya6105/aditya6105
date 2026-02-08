@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in ten people live on an island.<!-- END FACT -->**
+**<!-- START FACT -->The country code for Russia is "007".<!-- END FACT -->**
