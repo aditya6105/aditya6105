@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.<!-- END FACT -->**
+**<!-- START FACT -->Because of the rotation of the earth, an object can be thrown farther if it is thrown west.<!-- END FACT -->**
