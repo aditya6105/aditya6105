@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Human thighbones are stronger than concrete.<!-- END FACT -->**
+**<!-- START FACT -->US Dollar bills are made out of cotton and linen.<!-- END FACT -->**
