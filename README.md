@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ancient Egyptian priests would pluck every hair from their bodies.<!-- END FACT -->**
+**<!-- START FACT -->Your skull is made up of 29 different bones.<!-- END FACT -->**
