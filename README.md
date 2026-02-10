@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"I" is the most spoken word in the English language<!-- END FACT -->**
+**<!-- START FACT -->A mole can dig a tunnel 300 feet (91 m) long in just one night.<!-- END FACT -->**
