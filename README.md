@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Some lions mate over 50 times a day.<!-- END FACT -->**
+**<!-- START FACT -->Columbia University is the second largest landowner in New York City, after the Catholic Church.<!-- END FACT -->**
