@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It has been estimated that humans use only 10% of their brain.<!-- END FACT -->**
+**<!-- START FACT -->Koalas never drink water. They get fluids from the eucalyptus leaves they eat.<!-- END FACT -->**
