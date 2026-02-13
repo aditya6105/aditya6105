@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jamaica has the most churches per square mile than any other country in the world.<!-- END FACT -->**
+**<!-- START FACT -->The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida.<!-- END FACT -->**
