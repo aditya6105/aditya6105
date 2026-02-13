@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The surface of the Earth is about 60% water and 10% ice.<!-- END FACT -->**
+**<!-- START FACT -->"I" is the most spoken word in the English language<!-- END FACT -->**
