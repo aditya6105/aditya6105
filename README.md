@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Georgia's state motto is "Wisdom, Justice and Moderation."<!-- END FACT -->**
+**<!-- START FACT -->There are 1,792 steps in the Eiffel Tower<!-- END FACT -->**
