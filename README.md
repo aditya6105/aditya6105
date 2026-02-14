@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->No word in the English language rhymes with month, orange, silver, or purple.<!-- END FACT -->**
+**<!-- START FACT -->There are no words in the dictionary that rhyme with orange, purple, silver and month.<!-- END FACT -->**
