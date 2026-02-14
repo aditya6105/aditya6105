@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tom Sawyer was the first novel written on a typewriter.<!-- END FACT -->**
+**<!-- START FACT -->One out of every 43 prisoners escapes from jail. 94% are recaptured.<!-- END FACT -->**
