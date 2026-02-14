@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In “Silence of the Lambs”, Hannibal Lector (Anthony Hopkins) never blinks.<!-- END FACT -->**
+**<!-- START FACT -->The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.<!-- END FACT -->**
