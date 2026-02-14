@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Mr. Rogers was an ordained Presbyterian minister.<!-- END FACT -->**
+**<!-- START FACT -->Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items.<!-- END FACT -->**
