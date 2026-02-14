@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Children grow faster in the springtime.<!-- END FACT -->**
+**<!-- START FACT -->Between 25% and 33% of the population sneeze when exposed to light.<!-- END FACT -->**
