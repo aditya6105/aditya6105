@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.<!-- END FACT -->**
+**<!-- START FACT -->The strongest muscle in the human body is the tongue. (the heart is not a muscle)<!-- END FACT -->**
