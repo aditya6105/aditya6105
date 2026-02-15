@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you keep a goldfish in the dark room, it will eventually turn white.<!-- END FACT -->**
+**<!-- START FACT -->Most lipstick contains fish scales!<!-- END FACT -->**
