@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A female ferret will die if it goes into heat and cannot find a mate.<!-- END FACT -->**
+**<!-- START FACT -->A man named Charles Osborne had the hiccups for 69 years!<!-- END FACT -->**
