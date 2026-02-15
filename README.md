@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.<!-- END FACT -->**
+**<!-- START FACT -->On average people fear spiders more than they do death.<!-- END FACT -->**
