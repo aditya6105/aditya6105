@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Prince Charles and Prince William never travel on the same airplane in case there is a crash.<!-- END FACT -->**
+**<!-- START FACT -->Denver, Colorado lays claim to the invention of the cheeseburger.<!-- END FACT -->**
