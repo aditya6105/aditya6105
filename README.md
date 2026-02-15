@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Denver, Colorado lays claim to the invention of the cheeseburger.<!-- END FACT -->**
+**<!-- START FACT -->Banging your head against a wall uses 150 calories an hour.<!-- END FACT -->**
