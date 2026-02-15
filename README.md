@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest word comprised of one row on the keyboard is: TYPEWRITER<!-- END FACT -->**
+**<!-- START FACT -->The odds of being born male are about 51.2%, according to census.<!-- END FACT -->**
