@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first bomb the Allies dropped on Berlin in WWII killed the only elephant in the Berlin Zoo.<!-- END FACT -->**
+**<!-- START FACT -->There is no solid proof of who built the Taj Mahal.<!-- END FACT -->**
