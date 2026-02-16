@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are more donut shops in Canada per capita than any other country.<!-- END FACT -->**
+**<!-- START FACT -->$203,000,000 is spent on barbed wire each year in the U.S.<!-- END FACT -->**
