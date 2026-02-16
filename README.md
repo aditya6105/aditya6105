@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most American car horns honk in the key of F.<!-- END FACT -->**
+**<!-- START FACT -->Half of all bank robberies take place on a Friday.<!-- END FACT -->**
