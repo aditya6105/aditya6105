@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A “quidnunc” is a person who is eager to know the latest news and gossip.<!-- END FACT -->**
+**<!-- START FACT -->The state of Florida is bigger than England!<!-- END FACT -->**
