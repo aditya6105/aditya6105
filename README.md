@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average human eats 8 spiders in their lifetime at night.<!-- END FACT -->**
+**<!-- START FACT -->Right-handed people live, on average; nine years longer than left handed people.<!-- END FACT -->**
