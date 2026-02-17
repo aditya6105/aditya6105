@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is no solid proof of who built the Taj Mahal.<!-- END FACT -->**
+**<!-- START FACT -->“Lassie” was played by a group of male dogs; the main one was named Pal.<!-- END FACT -->**
