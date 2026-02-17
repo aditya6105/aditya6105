@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.<!-- END FACT -->**
+**<!-- START FACT -->A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.<!-- END FACT -->**
