@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Children grow faster in the springtime.<!-- END FACT -->**
+**<!-- START FACT -->Every US president has worn glasses (just not always in public).<!-- END FACT -->**
