@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If done perfectly, a rubix cube combination can be solved in 17 turns.<!-- END FACT -->**
+**<!-- START FACT -->A mole can dig a tunnel 300 feet (91 m) long in just one night.<!-- END FACT -->**
