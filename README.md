@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A mole can dig a tunnel 300 feet (91 m) long in just one night.<!-- END FACT -->**
+**<!-- START FACT -->In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.<!-- END FACT -->**
