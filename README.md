@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The only domestic animal not mentioned in the Bible is the cat. <!-- END FACT -->**
+**<!-- START FACT -->The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.<!-- END FACT -->**
