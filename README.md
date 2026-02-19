@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average human eats 8 spiders in their lifetime at night.<!-- END FACT -->**
+**<!-- START FACT -->In America you will see an average of 500 advertisements a day.<!-- END FACT -->**
