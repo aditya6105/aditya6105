@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hummingbirds are the only animals that can fly backwards. <!-- END FACT -->**
+**<!-- START FACT -->Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street.<!-- END FACT -->**
