@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Olympic was the sister ship of the Titanic, and she provided twenty-five years of service.<!-- END FACT -->**
+**<!-- START FACT -->Earth is the only planet not named after a god.<!-- END FACT -->**
