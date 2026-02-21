@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More people are killed each year from bees than from snakes.<!-- END FACT -->**
+**<!-- START FACT -->Maine is the only state that has borders with only one other state.<!-- END FACT -->**
