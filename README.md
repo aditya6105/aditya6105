@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).<!-- END FACT -->**
+**<!-- START FACT -->During his entire life, Vincent Van Gogh sold exactly one painting, “Red Vineyard at Arles”.<!-- END FACT -->**
