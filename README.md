@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Blondes have more hair than dark-haired people do.<!-- END FACT -->**
+**<!-- START FACT -->Chocolate can kill dogs; it directly affects their heart and nervous system.<!-- END FACT -->**
