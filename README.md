@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->During his entire life, Vincent Van Gogh sold exactly one painting, “Red Vineyard at Arles”.<!-- END FACT -->**
+**<!-- START FACT -->Women manage the money and pay the bills in  75% of all Americans households.<!-- END FACT -->**
