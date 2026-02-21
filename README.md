@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.<!-- END FACT -->**
+**<!-- START FACT -->No matter where you stand in Michigan, you are never more than 85 miles from a Great Lake.<!-- END FACT -->**
