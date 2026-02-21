@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->“Canada” is an Indian word meaning “Big Village”.<!-- END FACT -->**
+**<!-- START FACT -->Rubber bands last longer when refrigerated. <!-- END FACT -->**
