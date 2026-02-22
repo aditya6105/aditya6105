@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is a hotel in Sweden built entirely out of ice; it is rebuilt every year.<!-- END FACT -->**
+**<!-- START FACT -->If done perfectly, a rubix cube combination can be solved in 17 turns.<!-- END FACT -->**
