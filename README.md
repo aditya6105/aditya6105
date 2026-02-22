@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Camels have three eyelids to protect themselves from blowing sand!<!-- END FACT -->**
+**<!-- START FACT -->Columbia University is the second largest landowner in New York City, after the Catholic Church.<!-- END FACT -->**
