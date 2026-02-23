@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first female guest host of "Saturday Night Live" was Candace Bergen.<!-- END FACT -->**
+**<!-- START FACT -->Rugby, North Dakota is the geographical center of North America.<!-- END FACT -->**
