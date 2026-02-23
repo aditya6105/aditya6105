@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.<!-- END FACT -->**
+**<!-- START FACT -->    Dueling is legal in Paraguay as long as both parties are registered blood donors.<!-- END FACT -->**
