@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Andorra, a tiny country between France <!-- START FACT -->There are more than 10 million bricks in the Empire State Building!<!-- END FACT --> Spain, has the longest average lifespan: 83.49 years.<!-- END FACT -->**
+**<!-- START FACT -->Georgia's state motto is "Wisdom, Justice and Moderation."<!-- END FACT -->**
