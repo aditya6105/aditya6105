@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average human head weighs about 8 pounds.<!-- END FACT -->**
+**<!-- START FACT -->11% of the world is left-handed.<!-- END FACT -->**
