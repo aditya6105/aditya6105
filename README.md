@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->11% of the world is left-handed.<!-- END FACT -->**
+**<!-- START FACT -->It takes the stomach an hour to break down cows’ milk.<!-- END FACT -->**
