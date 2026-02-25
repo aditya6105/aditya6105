@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average American looks at eight houses before buying one.<!-- END FACT -->**
+**<!-- START FACT -->Emus and kangaroos can't walk backwards.<!-- END FACT -->**
