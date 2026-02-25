@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The strongest muscle in the human body is the tongue. (the heart is not a muscle)<!-- END FACT -->**
+**<!-- START FACT -->"Go." is the shortest complete sentence in the English language.<!-- END FACT -->**
