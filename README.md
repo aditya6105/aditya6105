@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->“The sixth sick sheik’s sixth sheep’s sick” is said to be the toughest tongue twister in English.<!-- END FACT -->**
+**<!-- START FACT -->Cats have over one hundred vocal sounds; dogs only have about ten.<!-- END FACT -->**
