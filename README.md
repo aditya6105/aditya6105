@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sound of E.T. walking was made by someone squishing her hands in jelly.<!-- END FACT -->**
+**<!-- START FACT -->Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen.<!-- END FACT -->**
