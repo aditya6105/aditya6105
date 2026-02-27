@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An average human loses about 200 head hairs per day.<!-- END FACT -->**
+**<!-- START FACT -->PEZ candy even comes in a Coffee flavor.<!-- END FACT -->**
