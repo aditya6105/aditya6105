@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->40% of all people who come to a party in your home snoop in your medicine cabinet<!-- END FACT -->**
+**<!-- START FACT -->A whale`s penis is called a dork.<!-- END FACT -->**
