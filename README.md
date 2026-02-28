@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Australian soldiers used the song "We're Off to See the Wizard" as a marching song in WWII.<!-- END FACT -->**
+**<!-- START FACT -->The only real person to be a PEZ head was Betsy Ross.<!-- END FACT -->**
