@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items.<!-- END FACT -->**
+**<!-- START FACT -->Each year in America there are about 300,000 deaths that can be attributed to obesity.<!-- END FACT -->**
