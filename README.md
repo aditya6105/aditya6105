@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Falkland Isles (pop. about 2000) has over 700000 sheep (350 per person).<!-- END FACT -->**
+**<!-- START FACT -->Johnny Appleseed planted apples so that people could use apple cider to make alcohol.<!-- END FACT -->**
