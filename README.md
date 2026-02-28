@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Camel’s have three eyelids.<!-- END FACT -->**
+**<!-- START FACT -->The state of Florida is bigger than England.<!-- END FACT -->**
