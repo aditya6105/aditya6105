@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->80% of burglaries are committed by people aged 13-21.<!-- END FACT -->**
+**<!-- START FACT -->You can`t kill yourself by holding your breath.  <!-- END FACT -->**
