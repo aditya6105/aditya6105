@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A man's beard grows fastest when he anticipates sex.<!-- END FACT -->**
+**<!-- START FACT -->Porcupines can float in water.<!-- END FACT -->**
