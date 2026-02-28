@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Los Angeles’ full name is “El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula”.<!-- END FACT -->**
+**<!-- START FACT -->The first streetlights in America were installed in Philadelphia around 1757.<!-- END FACT -->**
