@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Eskimos have over 15 words for the English word of 'Snow'<!-- END FACT -->**
+**<!-- START FACT -->The average person spends 12 weeks a year `looking for things`.<!-- END FACT -->**
