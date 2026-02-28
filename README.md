@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The penguin is the only bird that can swim but can't fly.<!-- END FACT -->**
+**<!-- START FACT -->The pancreas produces Insulin.<!-- END FACT -->**
