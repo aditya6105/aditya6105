@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Canadian researchers have found that Einstein's brain was 15% wider than normal.<!-- END FACT -->**
+**<!-- START FACT -->The average human head weighs about 8 pounds.<!-- END FACT -->**
