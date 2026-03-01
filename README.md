@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In “Silence of the Lambs”, Hannibal Lector (Anthony Hopkins) never blinks.<!-- END FACT -->**
+**<!-- START FACT -->The surface of the Earth is about 60% water and 10% ice.<!-- END FACT -->**
