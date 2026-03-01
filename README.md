@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.<!-- END FACT -->**
+**<!-- START FACT -->Donald Duck comics were banned from Finland because he doesn`t wear pants!<!-- END FACT -->**
