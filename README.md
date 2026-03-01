@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average human will shed 40 pounds of skin in a lifetime.<!-- END FACT -->**
+**<!-- START FACT -->Sherlock Holmes NEVER said “Elementary, my dear Watson”<!-- END FACT -->**
