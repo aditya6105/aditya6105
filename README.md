@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A polar bears skin is black. Its fur is actually clear, but like snow it appears white.<!-- END FACT -->**
+**<!-- START FACT -->More than 1,000 different languages are spoken on the continent of Africa.<!-- END FACT -->**
