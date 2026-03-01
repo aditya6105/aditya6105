@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One out of every 43 prisoners escapes from jail. 94% are recaptured.<!-- END FACT -->**
+**<!-- START FACT -->In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.<!-- END FACT -->**
