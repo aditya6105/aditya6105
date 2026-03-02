@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lightning strikes the earth about 8 million times a day.<!-- END FACT -->**
+**<!-- START FACT -->A cat uses its whiskers to determine if a space is too small to squeeze through.<!-- END FACT -->**
