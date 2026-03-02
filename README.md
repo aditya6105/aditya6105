@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Two-thirds of the world’s eggplant is grown in New Jersey.<!-- END FACT -->**
+**<!-- START FACT -->Wyoming was the first state to give women the right to vote in 1869.<!-- END FACT -->**
