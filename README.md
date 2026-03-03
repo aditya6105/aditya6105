@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average Japanese household watches more than 10 hours of television a day.<!-- END FACT -->**
+**<!-- START FACT -->Ketchup was sold in the 1830s as medicine.<!-- END FACT -->**
