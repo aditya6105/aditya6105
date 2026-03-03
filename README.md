@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your stomach has to produce a new layer of mucus every two weeks or it will digest itself.<!-- END FACT -->**
+**<!-- START FACT -->An average human scalp has 100,000 hairs.<!-- END FACT -->**
