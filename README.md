@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Miconesia, coins are 12 feet across.<!-- END FACT -->**
+**<!-- START FACT -->The name Jeep comes from “GP”, the army abbreviation for General Purpose.<!-- END FACT -->**
