@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ketchup was sold in the 1830s as medicine.<!-- END FACT -->**
+**<!-- START FACT -->Your stomach has to produce a new layer of mucus every two weeks or it will digest itself.<!-- END FACT -->**
