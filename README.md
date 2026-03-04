@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person falls asleep in seven minutes.<!-- END FACT -->**
+**<!-- START FACT -->There is no solid proof of who built the Taj Mahal.<!-- END FACT -->**
