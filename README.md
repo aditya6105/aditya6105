@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It is illegal to eat oranges while bathing in California.<!-- END FACT -->**
+**<!-- START FACT -->Right handed people live, on average, nine years longer than left handed people do.<!-- END FACT -->**
