@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every US president has worn glasses (just not always in public).<!-- END FACT -->**
+**<!-- START FACT -->The average person falls asleep in seven minutes.<!-- END FACT -->**
