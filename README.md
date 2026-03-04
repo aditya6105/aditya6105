@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sound of E.T. walking was made by someone squishing her hands in jelly.<!-- END FACT -->**
+**<!-- START FACT -->The only real person to ever to appear on a pez dispenser was Betsy Ross.<!-- END FACT -->**
