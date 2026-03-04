@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first license plate on a car in the United States was issued in Denver, Colorado in 1908.<!-- END FACT -->**
+**<!-- START FACT -->40,000 Americans are injured by toilets each year.<!-- END FACT -->**
