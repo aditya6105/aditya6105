@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Beethoven dipped his head in cold water before he composed.<!-- END FACT -->**
+**<!-- START FACT -->Half of all bank robberies take place on a Friday.<!-- END FACT -->**
