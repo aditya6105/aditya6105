@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More people are killed each year from bees than from snakes.<!-- END FACT -->**
+**<!-- START FACT -->60% of electrocutions occur while talking on the telephone during a thunderstorm.<!-- END FACT -->**
