@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average human brain has about 100 billion nerve cells.<!-- END FACT -->**
+**<!-- START FACT -->Stephen Hawking was born exactly 300 years after Galileo died.<!-- END FACT -->**
