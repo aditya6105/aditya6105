@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The house fly hums in the middle octave key of F. <!-- END FACT -->**
+**<!-- START FACT -->Ninety percent of all species that have become extinct have been birds.<!-- END FACT -->**
