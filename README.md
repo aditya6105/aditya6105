@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Utah, it is illegal to swear in front of a dead person.<!-- END FACT -->**
+**<!-- START FACT -->Banging your head against a wall uses 150 calories an hour.<!-- END FACT -->**
