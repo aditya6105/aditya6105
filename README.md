@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A snail can sleep for 3 years.<!-- END FACT -->**
+**<!-- START FACT -->There were 240 pedestrian fatalities in New York City in 1994.<!-- END FACT -->**
