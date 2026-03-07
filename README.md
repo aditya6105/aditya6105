@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An ant always falls over on its right side when intoxicated.<!-- END FACT -->**
+**<!-- START FACT -->Walt Disney was afraid of mice.<!-- END FACT -->**
