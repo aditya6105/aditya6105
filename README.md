@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The toothbrush was invented in China in 1498.<!-- END FACT -->**
+**<!-- START FACT -->About 200,000,000 M<!-- START FACT -->The toothbrush was invented in China in 1498.<!-- END FACT -->Ms are sold each day in the United States.<!-- END FACT -->**
