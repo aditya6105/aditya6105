@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).<!-- END FACT -->**
+**<!-- START FACT -->The Australian $5 to $100 notes are made of plastic.<!-- END FACT -->**
