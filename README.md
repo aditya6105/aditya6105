@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Until 1994, world maps and globes sold in Albania only had Albania on them.<!-- END FACT -->**
+**<!-- START FACT -->A crocodiles tongue is attached to the roof of its mouth.<!-- END FACT -->**
