@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in eight million people has progeria, a disease that causes people to grow faster than they age.<!-- END FACT -->**
+**<!-- START FACT -->Maine is the only state (in USA) whose name is just one syllable. <!-- END FACT -->**
