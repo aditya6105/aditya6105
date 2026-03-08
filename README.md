@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ninety percent of all species that have become extinct have been birds.<!-- END FACT -->**
+**<!-- START FACT -->There is a city called Rome on every continent.<!-- END FACT -->**
