@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.<!-- END FACT -->**
+**<!-- START FACT -->Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.<!-- END FACT -->**
