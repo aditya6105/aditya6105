@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->For every 230 cars that are made, 1 will be stolen.<!-- END FACT -->**
+**<!-- START FACT -->It has been estimated that humans use only 10% of their brain.<!-- END FACT -->**
