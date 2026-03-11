@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In England, the Speaker of the House is not allowed to speak. <!-- END FACT -->**
+**<!-- START FACT -->California has issued 6 drivers licenses to people named "Jesus Christ."<!-- END FACT -->**
