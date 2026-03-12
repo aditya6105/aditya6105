@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.<!-- END FACT -->**
+**<!-- START FACT -->Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.<!-- END FACT -->**
