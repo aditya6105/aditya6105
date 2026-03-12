@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.<!-- END FACT -->**
+**<!-- START FACT -->The “spot” on the 7-Up logo comes from its inventor who had red eyes. He was an albino.<!-- END FACT -->**
