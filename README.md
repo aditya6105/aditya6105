@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ants closely resemble human manners:  When they wake, they stretch <!-- START FACT -->Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.<!-- END FACT --> appear to yawn in a human manner before taking up the tasks of the day.<!-- END FACT -->**
+**<!-- START FACT -->The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`<!-- END FACT -->**
