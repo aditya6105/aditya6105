@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bulgarians are known to be the biggest yogurt eaters in the world.<!-- END FACT -->**
+**<!-- START FACT -->Honeybees have a type of hair on their eyes!<!-- END FACT -->**
