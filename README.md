@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Honeybees have a type of hair on their eyes!<!-- END FACT -->**
+**<!-- START FACT -->There are 240 dots on an arcade Pac-Man game<!-- END FACT -->**
