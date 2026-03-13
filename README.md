@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.<!-- END FACT -->**
+**<!-- START FACT -->Bulgarians are known to be the biggest yogurt eaters in the world.<!-- END FACT -->**
