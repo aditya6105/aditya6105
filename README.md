@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average human blinks their eyes 6,205,000 times each year.<!-- END FACT -->**
+**<!-- START FACT -->There is a city called Rome on every continent.<!-- END FACT -->**
