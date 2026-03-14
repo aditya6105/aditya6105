@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan letters.<!-- END FACT -->**
+**<!-- START FACT -->11% of the world is left-handed.<!-- END FACT -->**
