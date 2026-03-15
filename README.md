@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.<!-- END FACT -->**
+**<!-- START FACT -->The highest point in Pennsylvania is lower than the lowest point in Colorado.<!-- END FACT -->**
