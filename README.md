@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If a rooster can`t fully extend its neck, it can`t crow.<!-- END FACT -->**
+**<!-- START FACT -->NBA superstar Michael Jordan was originally cut from his high school basketball team.<!-- END FACT -->**
