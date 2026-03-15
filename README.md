@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first female guest host of "Saturday Night Live" was Candace Bergen.<!-- END FACT -->**
+**<!-- START FACT -->People say “bless you” when you sneeze because your heart stops for a millisecond.<!-- END FACT -->**
