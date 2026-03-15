@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.<!-- END FACT -->**
+**<!-- START FACT -->Prince Charles and Prince William never travel on the same airplane in case there is a crash.<!-- END FACT -->**
