@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Baby robins eat 14 feet of earthworms every day<!-- END FACT -->**
+**<!-- START FACT -->A shark can detect one part of blood in 100 million parts of water.<!-- END FACT -->**
