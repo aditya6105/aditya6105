@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It`s possible to lead a cow upstairs but not downstairs.<!-- END FACT -->**
+**<!-- START FACT -->A horse can look forward with one eye and back with the other.<!-- END FACT -->**
