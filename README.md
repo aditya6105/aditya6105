@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ninety percent of New York City cabbies are recently arrived immigrants.<!-- END FACT -->**
+**<!-- START FACT -->You can't kill yourself by holding your breath<!-- END FACT -->**
