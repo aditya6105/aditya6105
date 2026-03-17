@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average child recognizes over 200 company logos by the time he enters first grade.<!-- END FACT -->**
+**<!-- START FACT -->By raising your legs slowly and lying on your back, you cannot sink into quicksand.<!-- END FACT -->**
