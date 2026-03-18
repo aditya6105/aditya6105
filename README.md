@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A crocodiles tongue is attached to the roof of its mouth.<!-- END FACT -->**
+**<!-- START FACT -->The longest one-syllable word in the English language is "screeched." <!-- END FACT -->**
