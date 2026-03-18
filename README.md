@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You can lead a cow upstairs but not downstairs.<!-- END FACT -->**
+**<!-- START FACT -->Illinois has the highest number of personalized license plates than any other state.<!-- END FACT -->**
