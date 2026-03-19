@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Marilyn Monroe had six toes.<!-- END FACT -->**
+**<!-- START FACT -->Shakespeare spelled his OWN name several different ways.<!-- END FACT -->**
