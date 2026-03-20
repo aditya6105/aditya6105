@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cat's jaw cannot move sideways.<!-- END FACT -->**
+**<!-- START FACT -->There are over 58 million dogs in the US<!-- END FACT -->**
