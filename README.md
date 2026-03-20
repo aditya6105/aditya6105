@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest recorded flight  of a chicken is 13 seconds<!-- END FACT -->**
+**<!-- START FACT -->On average, 100 people choke to death on ballpoint pens every year.<!-- END FACT -->**
