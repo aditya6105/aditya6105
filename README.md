@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first bomb the Allies dropped on Berlin in WWII killed the only elephant in the Berlin Zoo.<!-- END FACT -->**
+**<!-- START FACT -->Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.<!-- END FACT -->**
