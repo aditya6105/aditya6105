@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Barbie's full name is "Babara Millicent Roberts."<!-- END FACT -->**
+**<!-- START FACT -->Russians generally answer the phone by saying, "I'm listening".<!-- END FACT -->**
