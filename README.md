@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are a million ants for every person on Earth.<!-- END FACT -->**
+**<!-- START FACT -->Banging your head against a wall uses 150 calories an hour.<!-- END FACT -->**
