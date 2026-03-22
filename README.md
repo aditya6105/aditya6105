@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In York, it is perfectly legal to shoot a Scotsman with a bow and arrow (except on Sundays)<!-- END FACT -->**
+**<!-- START FACT -->In ancient Greece "idiot" meant a private citizen or layman.<!-- END FACT -->**
