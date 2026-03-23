@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first toilet ever seen on television was on "Leave It to Beaver."<!-- END FACT -->**
+**<!-- START FACT -->Daniel Boone hated coonskin caps.<!-- END FACT -->**
