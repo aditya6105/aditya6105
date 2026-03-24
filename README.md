@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Relative to size, the strongest muscle in the body is the tongue.<!-- END FACT -->**
+**<!-- START FACT -->Paper was invented early in the second century by Chinese eunuch.<!-- END FACT -->**
