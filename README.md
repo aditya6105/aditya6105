@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sharon Stone was the first Star Search spokes model.<!-- END FACT -->**
+**<!-- START FACT -->"Almost" is the longest word in the English language with all the letters in alphabetical order.<!-- END FACT -->**
