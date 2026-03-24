@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. <!-- END FACT -->**
+**<!-- START FACT -->It’s estimated that at any one time around 0.7% of the world’s population is drunk.<!-- END FACT -->**
