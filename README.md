@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.<!-- END FACT -->**
+**<!-- START FACT -->Giraffes and rats can last longer without water than camels.<!-- END FACT -->**
