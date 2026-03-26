@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A dime has 118 ridges around the edge. A quarter has 119.<!-- END FACT -->**
+**<!-- START FACT -->Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.<!-- END FACT -->**
