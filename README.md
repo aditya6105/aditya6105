@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word Pennsylvania is misspelled on the Liberty Bell.<!-- END FACT -->**
+**<!-- START FACT -->40,000 Americans are injured by toilets each year.<!-- END FACT -->**
