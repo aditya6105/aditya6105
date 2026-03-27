@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It is illegal to hunt camels in the state of Arizona.<!-- END FACT -->**
+**<!-- START FACT -->It's impossible to sneeze with your eyes open.<!-- END FACT -->**
