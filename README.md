@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->60% of electrocutions occur while talking on the telephone during a thunderstorm.<!-- END FACT -->**
+**<!-- START FACT -->Czechs are the biggest consumers of beer per male in the world.<!-- END FACT -->**
