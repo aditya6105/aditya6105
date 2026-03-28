@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Louisiana's capital building is the tallest one of any U.S. state.<!-- END FACT -->**
+**<!-- START FACT -->There are approximately 100 million acts of sexual intercourse each day.<!-- END FACT -->**
