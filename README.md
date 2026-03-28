@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in seven workers in Boston, Massachusetts walks to work.<!-- END FACT -->**
+**<!-- START FACT -->Two-thirds of the world`s eggplant is grown in New Jersey.  <!-- END FACT -->**
