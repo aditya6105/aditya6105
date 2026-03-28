@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Barbie's full name is "Babara Millicent Roberts."<!-- END FACT -->**
+**<!-- START FACT -->Van Gogh only sold one painting when he was alive.<!-- END FACT -->**
