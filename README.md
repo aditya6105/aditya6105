@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest recorded flight  of a chicken is 13 seconds<!-- END FACT -->**
+**<!-- START FACT -->Kelsey Grammar sings and plays the piano for the theme song of Fraiser.<!-- END FACT -->**
