@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The flea can jump 350 times its body length. It's like a human jumping the length of a football field.<!-- END FACT -->**
+**<!-- START FACT -->Buckingham Palace in England has over six hundred rooms.<!-- END FACT -->**
