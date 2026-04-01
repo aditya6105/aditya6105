@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dolphins can look in different directions with each eye. They can sleep with one eye open.<!-- END FACT -->**
+**<!-- START FACT -->In England, the Speaker of the House is not allowed to speak.<!-- END FACT -->**
