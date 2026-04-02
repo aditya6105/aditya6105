@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Buckingham Palace in England has over six hundred rooms.<!-- END FACT -->**
+**<!-- START FACT -->Some worms will eat themselves if they can't find any food!<!-- END FACT -->**
