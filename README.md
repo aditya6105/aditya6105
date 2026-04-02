@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Great Wall of China is the only man-made structure visible from space.<!-- END FACT -->**
+**<!-- START FACT -->The Falkland Isles (pop. about 2000) has over 700000 sheep (350 per person).<!-- END FACT -->**
