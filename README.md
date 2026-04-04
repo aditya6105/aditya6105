@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It's impossible to sneeze with your eyes open.<!-- END FACT -->**
+**<!-- START FACT -->11% of the world is left-handed.<!-- END FACT -->**
