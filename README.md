@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every year 4 people in the UK die putting their trousers on.<!-- END FACT -->**
+**<!-- START FACT -->In France, a five year old child can buy an alcoholic drink in a bar<!-- END FACT -->**
