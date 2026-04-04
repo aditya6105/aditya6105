@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dr. Seuss pronounced his name “soyce”.<!-- END FACT -->**
+**<!-- START FACT -->About 200,000,000 M<!-- START FACT -->Dr. Seuss pronounced his name “soyce”.<!-- END FACT -->Ms are sold each day in the United States.<!-- END FACT -->**
