@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rodent's teeth never stop growing.<!-- END FACT -->**
+**<!-- START FACT -->If you put a drop of liquor on a scorpion, it will instantly go mad and sting itself to death.<!-- END FACT -->**
