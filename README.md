@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The human body is comprised of 80% water.<!-- END FACT -->**
+**<!-- START FACT -->Cats have over one hundred vocal sounds; dogs only have about ten.<!-- END FACT -->**
