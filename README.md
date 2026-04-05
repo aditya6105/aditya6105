@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Starfish haven`t got brains.<!-- END FACT -->**
+**<!-- START FACT -->More people are afraid of open spaces (kenophobia) than of tight spaces (claustrophobia).<!-- END FACT -->**
