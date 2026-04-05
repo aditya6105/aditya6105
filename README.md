@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.<!-- END FACT -->**
+**<!-- START FACT -->Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.<!-- END FACT -->**
