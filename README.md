@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->South Dakota is the only U.S state which shares no letters with the name of it`s capital<!-- END FACT -->**
+**<!-- START FACT -->Every person, including identical twins, has a unique eye <!-- START FACT -->South Dakota is the only U.S state which shares no letters with the name of it`s capital<!-- END FACT --> tongue print along with their finger print.<!-- END FACT -->**
