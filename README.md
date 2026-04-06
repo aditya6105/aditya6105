@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It's impossible to sneeze with your eyes open.<!-- END FACT -->**
+**<!-- START FACT -->Pearls melt in vinegar.<!-- END FACT -->**
