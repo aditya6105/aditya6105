@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Georgia's state motto is "Wisdom, Justice and Moderation."<!-- END FACT -->**
+**<!-- START FACT -->The catfish has over 27000 taste buds (more than any other animal)<!-- END FACT -->**
