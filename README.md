@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street.<!-- END FACT -->**
+**<!-- START FACT -->80% of burglaries are committed by people aged 13-21.<!-- END FACT -->**
