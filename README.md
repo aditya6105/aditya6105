@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Coca-Cola would be green if coloring weren’t added to it.<!-- END FACT -->**
+**<!-- START FACT -->A “quidnunc” is a person who is eager to know the latest news and gossip.<!-- END FACT -->**
