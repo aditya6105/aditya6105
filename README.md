@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  <!-- END FACT -->**
+**<!-- START FACT -->All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.<!-- END FACT -->**
