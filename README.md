@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.<!-- END FACT -->**
+**<!-- START FACT -->It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.<!-- END FACT -->**
