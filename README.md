@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.<!-- END FACT -->**
+**<!-- START FACT -->Antarctica is the only continent that does not have land areas below sea level.<!-- END FACT -->**
