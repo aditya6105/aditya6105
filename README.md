@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Respiratory Disease is China's leading cause of death.<!-- END FACT -->**
+**<!-- START FACT -->A rat can last longer without water than a camel.<!-- END FACT -->**
