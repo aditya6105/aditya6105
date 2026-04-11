@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Insects outnumber humans 100,000,000 to one.<!-- END FACT -->**
+**<!-- START FACT -->Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.<!-- END FACT -->**
