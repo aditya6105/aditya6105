@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca<!-- END FACT -->**
+**<!-- START FACT -->Every person, including identical twins, has a unique eye <!-- START FACT -->Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca<!-- END FACT --> tongue print along with their finger print.<!-- END FACT -->**
