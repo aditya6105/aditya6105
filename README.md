@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.<!-- END FACT -->**
+**<!-- START FACT -->There are 293 ways to make change for a dollar.<!-- END FACT -->**
