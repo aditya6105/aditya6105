@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jamaica has the most churches per square mile than any other country in the world.<!-- END FACT -->**
+**<!-- START FACT -->Almonds are members of the peach family.<!-- END FACT -->**
