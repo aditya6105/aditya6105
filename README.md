@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cuba is the only island in the Caribbean to have a railroad.<!-- END FACT -->**
+**<!-- START FACT -->It's illegal to spit on the sidewalk in Norfolk, Virginia.<!-- END FACT -->**
