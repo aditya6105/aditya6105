@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Triskaidekaphobia means fear of the number 13.<!-- END FACT -->**
+**<!-- START FACT -->The king of hearts is the only king without a mustache.<!-- END FACT -->**
