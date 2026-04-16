@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More than 1,000 different languages are spoken on the continent of Africa.<!-- END FACT -->**
+**<!-- START FACT -->There are more donut shops in Canada per capita than any other country.<!-- END FACT -->**
