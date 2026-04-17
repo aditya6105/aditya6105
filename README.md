@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Johnny Appleseed planted apples so that people could use apple cider to make alcohol.<!-- END FACT -->**
+**<!-- START FACT -->In ancient Rome, when a man testified in court he would swear on his testicles.<!-- END FACT -->**
