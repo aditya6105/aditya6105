@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In ancient Rome, when a man testified in court he would swear on his testicles.<!-- END FACT -->**
+**<!-- START FACT -->There are no words in the dictionary that rhyme with orange, purple, silver and month.<!-- END FACT -->**
