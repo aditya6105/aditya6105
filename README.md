@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The name of the girl on the statue of liberty is Mother of Exiles.<!-- END FACT -->**
+**<!-- START FACT -->Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.<!-- END FACT -->**
