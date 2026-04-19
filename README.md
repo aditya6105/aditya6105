@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 45 miles of nerves in the skin of a human being.<!-- END FACT -->**
+**<!-- START FACT -->If you feed a seagull Alka-Seltzer, its stomach will explode.<!-- END FACT -->**
