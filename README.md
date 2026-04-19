@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An ostrich`s eye is bigger than its brain.  <!-- END FACT -->**
+**<!-- START FACT -->Earth is the only planet not named after a god.<!-- END FACT -->**
