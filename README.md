@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The human body is comprised of 80% water.<!-- END FACT -->**
+**<!-- START FACT -->Slugs have four noses.<!-- END FACT -->**
