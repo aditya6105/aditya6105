@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Our eyes are always the same size from birth, but our nose and ears never stop growing.<!-- END FACT -->**
+**<!-- START FACT -->There`s a systematic lull in conversation every 7 minutes.<!-- END FACT -->**
