@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Triskaidekaphobia means fear of the number 13.<!-- END FACT -->**
+**<!-- START FACT -->Camels chew in a figure 8 pattern.<!-- END FACT -->**
