@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Camels chew in a figure 8 pattern.<!-- END FACT -->**
+**<!-- START FACT -->During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.<!-- END FACT -->**
