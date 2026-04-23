@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 100 people choke to death on ball-point pens every year.<!-- END FACT -->**
+**<!-- START FACT -->A cockroach can live several weeks with its head cut off!<!-- END FACT -->**
