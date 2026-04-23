@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In most watch advertisements the time displayed on a watch is 10:10.<!-- END FACT -->**
+**<!-- START FACT -->The katydid bug hears through holes in its hind legs!<!-- END FACT -->**
