@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Almonds are members of the peach family.<!-- END FACT -->**
+**<!-- START FACT -->Sweden has the least number of murders annually.<!-- END FACT -->**
