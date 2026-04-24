@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The male seahorse carries the eggs until they hatch instead of the female.<!-- END FACT -->**
+**<!-- START FACT -->Almonds are members of the peach family.<!-- END FACT -->**
