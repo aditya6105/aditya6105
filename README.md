@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The storage capacity of human brain exceeds 4 Terabytes.<!-- END FACT -->**
+**<!-- START FACT -->Lizards can self-amputate their tails for protection. It grows back after a few months.<!-- END FACT -->**
