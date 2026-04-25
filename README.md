@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Male bats have the highest rate of homosexuality of any mammal.<!-- END FACT -->**
+**<!-- START FACT -->Almonds are members of the peach family.<!-- END FACT -->**
