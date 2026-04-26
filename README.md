@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word “maverick” came into use after Samuel Maverick, a Texan refused to brand his cattle.<!-- END FACT -->**
+**<!-- START FACT -->The catfish has the most taste buds of all animals, having over 27,000 of them.<!-- END FACT -->**
