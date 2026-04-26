@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Between 25% and 33% of the population sneeze when exposed to light.<!-- END FACT -->**
+**<!-- START FACT -->An average human loses about 200 head hairs per day.<!-- END FACT -->**
