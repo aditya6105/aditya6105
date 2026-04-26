@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ten percent of the Russian government`s income comes from the sale of vodka.<!-- END FACT -->**
+**<!-- START FACT -->One in eight million people has progeria, a disease that causes people to grow faster than they age.<!-- END FACT -->**
