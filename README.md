@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An average human loses about 200 head hairs per day.<!-- END FACT -->**
+**<!-- START FACT -->A Boeing 747s wingspan is longer than the Wright brother's first flight.<!-- END FACT -->**
