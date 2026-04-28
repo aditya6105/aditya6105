@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.<!-- END FACT -->**
+**<!-- START FACT -->The name of the girl on the statue of liberty is Mother of Exiles.<!-- END FACT -->**
