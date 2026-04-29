@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.<!-- END FACT -->**
+**<!-- START FACT -->The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!<!-- END FACT -->**
