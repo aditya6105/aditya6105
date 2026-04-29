@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are over 58 million dogs in the US<!-- END FACT -->**
+**<!-- START FACT -->A shrimp’s heart is in its head.<!-- END FACT -->**
