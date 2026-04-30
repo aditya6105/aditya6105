@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->All of the clocks in the movie "Pulp Fiction" are stuck on 4:20. <!-- END FACT -->**
+**<!-- START FACT -->The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.<!-- END FACT -->**
