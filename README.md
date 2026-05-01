@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The international telephone dialing code for Antarctica is 672.<!-- END FACT -->**
+**<!-- START FACT -->"Rhythm" is the longest English word without a vowel.<!-- END FACT -->**
