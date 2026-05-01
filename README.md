@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  <!-- END FACT -->**
+**<!-- START FACT -->The longest recorded flight  of a chicken is 13 seconds<!-- END FACT -->**
