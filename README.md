@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Right handed people live, on average, nine years longer than left-handed people<!-- END FACT -->**
+**<!-- START FACT -->The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.<!-- END FACT -->**
