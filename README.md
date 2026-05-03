@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in every 4 Americans has appeared on television.<!-- END FACT -->**
+**<!-- START FACT -->Most collect calls are made on father`s day.<!-- END FACT -->**
