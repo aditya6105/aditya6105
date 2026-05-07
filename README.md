@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.<!-- END FACT -->**
+**<!-- START FACT -->There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).<!-- END FACT -->**
