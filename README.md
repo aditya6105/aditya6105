@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).<!-- END FACT -->**
+**<!-- START FACT -->One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.<!-- END FACT -->**
