@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Right-handed people live, on average; nine years longer than left handed people.<!-- END FACT -->**
+**<!-- START FACT -->The Olympic was the sister ship of the Titanic, and she provided twenty-five years of service.<!-- END FACT -->**
