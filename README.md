@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every person, including identical twins, has a unique eye <!-- START FACT -->Albert Einstein and Charles Darwin both married their first cousins<!-- END FACT --> tongue print along with their finger print.<!-- END FACT -->**
+**<!-- START FACT -->IBM’s motto is “Think”. Apple later made their motto “Think different”.<!-- END FACT -->**
