@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ancient Egyptian priests would pluck every hair from their bodies.<!-- END FACT -->**
+**<!-- START FACT -->Koala is Aboriginal for "no drink".<!-- END FACT -->**
