@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->During the chariot scene in "Ben Hur," a small red car can be seen in the distance.<!-- END FACT -->**
+**<!-- START FACT --> was Harrison Ford`s idea so that he could take a bathroom break.<!-- END FACT -->**
