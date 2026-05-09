@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->“Duff” is the decaying organic matter found on a forest floor.<!-- END FACT -->**
+**<!-- START FACT -->Camels have three eyelids to protect themselves from blowing sand.<!-- END FACT -->**
