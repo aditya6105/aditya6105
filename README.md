@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The world's youngest parents were 8 and 9 and lived in China in 1910.<!-- END FACT -->**
+**<!-- START FACT -->A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.<!-- END FACT -->**
