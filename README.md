@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Between 25% and 33% of the population sneeze when exposed to light.<!-- END FACT -->**
+**<!-- START FACT -->On average, 12 newborns will be given to the wrong parents daily.<!-- END FACT -->**
