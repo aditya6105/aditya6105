@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The toothbrush was invented in China in 1498.<!-- END FACT -->**
+**<!-- START FACT -->No piece of square dry paper can be folded in half more than 7 times<!-- END FACT -->**
