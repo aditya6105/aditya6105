@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The sun is 330,330 times larger than the earth.<!-- END FACT -->**
+**<!-- START FACT -->The average child recognizes over 200 company logos by the time he enters first grade.<!-- END FACT -->**
