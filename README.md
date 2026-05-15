@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Declaration of Independence was written on hemp (marijuana) paper.<!-- END FACT -->**
+**<!-- START FACT -->God is not mentioned once in the book of Esther.<!-- END FACT -->**
