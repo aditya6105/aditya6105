@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first CD pressed in the US was Bruce Springsteen’s “Born in the USA”.<!-- END FACT -->**
+**<!-- START FACT -->Truck driving is the most dangerous occupation by accidental deaths (799 in 2001).<!-- END FACT -->**
