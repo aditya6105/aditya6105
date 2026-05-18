@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->3.9% of all women do not wear underwear.<!-- END FACT -->**
+**<!-- START FACT --> was Harrison Ford`s idea so that he could take a bathroom break.<!-- END FACT -->**
