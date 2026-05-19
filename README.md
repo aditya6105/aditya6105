@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your ribs move about 5 million times a year, every time you breathe!<!-- END FACT -->**
+**<!-- START FACT -->Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.<!-- END FACT -->**
