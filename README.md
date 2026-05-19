@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.<!-- END FACT -->**
+**<!-- START FACT -->The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.<!-- END FACT -->**
