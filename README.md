@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Q is the only letter in the alphabet that does not appear in the name of any of the United States!<!-- END FACT -->**
+**<!-- START FACT -->Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain.<!-- END FACT -->**
