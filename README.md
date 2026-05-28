@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Eskimos have over 15 words for the English word of 'Snow'<!-- END FACT -->**
+**<!-- START FACT -->You are more likely to be killed by a champagne cork than by a poisonous spider.<!-- END FACT -->**
