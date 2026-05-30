@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Respiratory Disease is China's leading cause of death.<!-- END FACT -->**
+**<!-- START FACT -->The Australian $5 to $100 notes are made of plastic.<!-- END FACT -->**
