@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most household dust is made of dead skin cells.<!-- END FACT -->**
+**<!-- START FACT -->There is actually no danger in swimming right after you eat, though it may feel uncomfortable.<!-- END FACT -->**
