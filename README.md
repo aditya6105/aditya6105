@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 12 newborns will be given to the wrong parents every day.<!-- END FACT -->**
+**<!-- START FACT -->You spend 7 years of your life in the bathroom.<!-- END FACT -->**
