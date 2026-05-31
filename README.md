@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sharkskin has tiny tooth-like scales all over.<!-- END FACT -->**
+**<!-- START FACT -->Most household dust is made of dead skin cells.<!-- END FACT -->**
