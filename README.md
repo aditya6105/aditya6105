@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->25% of a human’s bones are in its feet.<!-- END FACT -->**
+**<!-- START FACT -->Al Capone’s business card said he was a used furniture dealer.<!-- END FACT -->**
