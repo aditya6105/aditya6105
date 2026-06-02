@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Half of all bank robberies take place on a Friday.<!-- END FACT -->**
+**<!-- START FACT -->You burn more calories sleeping than you do watching TV.<!-- END FACT -->**
