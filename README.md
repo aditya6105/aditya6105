@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sherlock Holmes NEVER said, "Elementary, my dear Watson."<!-- END FACT -->**
+**<!-- START FACT -->Male bats have the highest rate of homosexuality of any mammal.<!-- END FACT -->**
