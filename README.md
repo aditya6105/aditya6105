@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Illinois has the highest number of personalized license plates than any other state.<!-- END FACT -->**
+**<!-- START FACT -->Andorra, a tiny country between France <!-- START FACT -->Illinois has the highest number of personalized license plates than any other state.<!-- END FACT --> Spain, has the longest average lifespan: 83.49 years.<!-- END FACT -->**
