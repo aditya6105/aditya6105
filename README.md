@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->The US has more personal computers than the next 7 countries combined.<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->Laredo, Texas is the U.S.'s farthest inland port.<!-- END FACT -->**
