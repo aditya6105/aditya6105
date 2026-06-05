@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Van Gogh only sold one painting when he was alive.<!-- END FACT -->**
+**<!-- START FACT -->Leonardo da Vinci could write with one hand while drawing with the other<!-- END FACT -->**
