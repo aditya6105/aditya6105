@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Winston Churchill was born in a ladies` room during a dance.<!-- END FACT -->**
+**<!-- START FACT -->The US has more personal computers than the next 7 countries combined.<!-- END FACT -->**
