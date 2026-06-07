@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You are more likely to be killed by a champagne cork than by a poisonous spider.<!-- END FACT -->**
+**<!-- START FACT -->Every acre of American crops harvested contains 100 pounds of insects.<!-- END FACT -->**
