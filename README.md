@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->February 1865 is the only month in recorded history not to have a full moon.<!-- END FACT -->**
+**<!-- START FACT -->Relative to size, the strongest muscle in the body is the tongue.<!-- END FACT -->**
