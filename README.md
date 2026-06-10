@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.<!-- END FACT -->**
+**<!-- START FACT -->Julius Caesar’s autograph is worth about $2,000,000.<!-- END FACT -->**
