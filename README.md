@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An American urologist bought Napoleon’s penis for $40,000.<!-- END FACT -->**
+**<!-- START FACT -->80% of burglaries are committed by people aged 13-21.<!-- END FACT -->**
