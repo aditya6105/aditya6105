@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Virginia Woolf wrote all her books standing.<!-- END FACT -->**
+**<!-- START FACT -->For every 230 cars that are made, 1 will be stolen.<!-- END FACT -->**
