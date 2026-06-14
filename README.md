@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hawaii is the only coffee producing state.<!-- END FACT -->**
+**<!-- START FACT -->A spider has transparent blood.<!-- END FACT -->**
