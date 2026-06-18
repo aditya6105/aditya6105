@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->null<!-- END FACT -->**
+**<!-- START FACT -->Isaac Asimov is the only author to have a book in every Dewey-decimal category.<!-- END FACT -->**
