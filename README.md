@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The US has more personal computers than the next 7 countries combined.<!-- END FACT -->**
+**<!-- START FACT -->The past-tense of the English word “dare” is “durst”<!-- END FACT -->**
