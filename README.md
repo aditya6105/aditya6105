@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  <!-- END FACT -->**
+**<!-- START FACT -->Honey is the only food which does not spoil.<!-- END FACT -->**
