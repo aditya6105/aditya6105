@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Georgia's state motto is "Wisdom, Justice and Moderation."<!-- END FACT -->**
+**<!-- START FACT -->King Louis XIX ruled France for 15 minutes.<!-- END FACT -->**
