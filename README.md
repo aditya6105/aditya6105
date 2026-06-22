@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Every person, including identical twins, has a unique eye <!-- START FACT -->There is approximately one chicken for every human being in the world.<!-- END FACT --> tongue print along with their finger print.<!-- END FACT -->**
+**<!-- START FACT -->Honey is the only food which does not spoil.<!-- END FACT -->**
