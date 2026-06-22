@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Negative emotions such as anxiety and depression can weaken your immune system.<!-- END FACT -->**
+**<!-- START FACT -->The original story from "Tales of 1001 Arabian Nights" begins, "Aladdin was a little Chinese boy." <!-- END FACT -->**
