@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 100 people choke to death on ball-point pens every year.<!-- END FACT -->**
+**<!-- START FACT -->Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.<!-- END FACT -->**
