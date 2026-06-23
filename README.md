@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Johnny Appleseed planted apples so that people could use apple cider to make alcohol.<!-- END FACT -->**
+**<!-- START FACT -->Each year there is one ton of cement poured for each man woman and child in the world. <!-- END FACT -->**
