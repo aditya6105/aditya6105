@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.<!-- END FACT -->**
+**<!-- START FACT -->In New York State, it is illegal to but any alcohol on Sundays before noon.<!-- END FACT -->**
