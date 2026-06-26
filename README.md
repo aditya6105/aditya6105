@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It's against the law to burp, or sneeze in a church in Nebraska, USA.<!-- END FACT -->**
+**<!-- START FACT -->40,000 Americans are injured by toilets each year.<!-- END FACT -->**
