@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Netherlands is the only country with a national dog.<!-- END FACT -->**
+**<!-- START FACT -->There are two credit cards for every person in the United States.<!-- END FACT -->**
