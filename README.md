@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dolphins can look in different directions with each eye. They can sleep with one eye open.<!-- END FACT -->**
+**<!-- START FACT -->The surface of the human skin is 6.5 square feet (2m).<!-- END FACT -->**
