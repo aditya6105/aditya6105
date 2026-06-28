@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sir Isaac Newton was only 23 years old when he discovered the law of universal gravitation.<!-- END FACT -->**
+**<!-- START FACT -->The word “maverick” came into use after Samuel Maverick, a Texan refused to brand his cattle.<!-- END FACT -->**
