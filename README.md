@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Over 60% of all those who marry get divorced.<!-- END FACT -->**
+**<!-- START FACT -->In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.<!-- END FACT -->**
