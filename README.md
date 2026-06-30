@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cockroach will live nine days without its head before it starves to death.<!-- END FACT -->**
+**<!-- START FACT -->In “Silence of the Lambs”, Hannibal Lector (Anthony Hopkins) never blinks.<!-- END FACT -->**
