@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It takes about 142.18 licks to reach the center of a Tootsie pop.<!-- END FACT -->**
+**<!-- START FACT -->If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.<!-- END FACT -->**
