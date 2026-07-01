@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- START FACT -->A cat uses its whiskers to determine if a space is too small to squeeze through.<!-- END FACT --> Elvis Presley.<!-- END FACT -->**
+**<!-- START FACT -->The average life of a taste bud is 10 days.<!-- END FACT -->**
