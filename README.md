@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Shakespeare invented the word `assassination` and `bump`.<!-- END FACT -->**
+**<!-- START FACT -->The average human blinks their eyes 6,205,000 times each year.<!-- END FACT -->**
