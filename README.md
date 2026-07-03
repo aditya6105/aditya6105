@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More than 90% of the Nicaraguan people are Roman Catholic.<!-- END FACT -->**
+**<!-- START FACT -->There are 336 dimples on a regulation US golf ball. In the UK its 330.<!-- END FACT -->**
