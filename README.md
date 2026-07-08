@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You spend 7 years of your life in the bathroom.<!-- END FACT -->**
+**<!-- START FACT -->The average chocolate bar has 8 insects' legs in it.<!-- END FACT -->**
