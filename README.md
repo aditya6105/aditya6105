@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Of all the words in the English language, the word 'set' has the most definitions!<!-- END FACT -->**
+**<!-- START FACT -->There is a 1 in 4 chance that New York will have a white Christmas.<!-- END FACT -->**
