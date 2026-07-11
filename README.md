@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.<!-- END FACT -->**
+**<!-- START FACT -->In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.<!-- END FACT -->**
