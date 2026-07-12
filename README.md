@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In every episode of “Seinfeld” there is a Superman picture or reference somewhere.<!-- END FACT -->**
+**<!-- START FACT -->There were always 56 curls in Shirley Temple`s hair.<!-- END FACT -->**
