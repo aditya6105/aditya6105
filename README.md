@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Japan, watermelons are squared. It's easier to stack them that way.<!-- END FACT -->**
+**<!-- START FACT -->A dime has 118 ridges around the edge. A quarter has 119.<!-- END FACT -->**
