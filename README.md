@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->An American urologist bought Napoleon’s penis for $40,000.<!-- END FACT -->**
+**<!-- START FACT -->In Japan, watermelons are squared. It's easier to stack them that way.<!-- END FACT -->**
