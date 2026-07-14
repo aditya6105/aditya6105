@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Icelanders consume more Coca-Cola per Capita than any other nation.<!-- END FACT -->**
+**<!-- START FACT -->The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.<!-- END FACT -->**
