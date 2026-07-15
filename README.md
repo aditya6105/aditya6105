@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You share your birthday with at least 9 million other people in the world.<!-- END FACT -->**
+**<!-- START FACT -->Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.<!-- END FACT -->**
