@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.<!-- END FACT -->**
+**<!-- START FACT -->The world’s oldest piece of chewing gum is 9000 years old!<!-- END FACT -->**
