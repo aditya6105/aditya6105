@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The most common name in world is Mohammed.<!-- END FACT -->**
+**<!-- START FACT -->Barbie's full name is "Babara Millicent Roberts."<!-- END FACT -->**
