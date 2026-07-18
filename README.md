@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->About 55% of all movies are rated R.<!-- END FACT -->**
+**<!-- START FACT -->In England, the Speaker of the House is not allowed to speak. <!-- END FACT -->**
