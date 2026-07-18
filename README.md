@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are more than 40,000 characters in the Chinese script.<!-- END FACT -->**
+**<!-- START FACT -->About 55% of all movies are rated R.<!-- END FACT -->**
