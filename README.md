@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Some lions mate over 50 times a day.<!-- END FACT -->**
+**<!-- START FACT -->Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).<!-- END FACT -->**
