@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Humans are the only primates that don`t have pigment in the palms of their hands.<!-- END FACT -->**
+**<!-- START FACT -->Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.<!-- END FACT -->**
