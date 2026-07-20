@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cockroach will live nine days without its head before it starves to death.<!-- END FACT -->**
+**<!-- START FACT -->Fingernails grow nearly 4 times faster than toenails!<!-- END FACT -->**
