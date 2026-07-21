@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Fingernails grow nearly 4 times faster than toenails!<!-- END FACT -->**
+**<!-- START FACT -->Your stomach produces a new layer of mucus every two weeks so that it doesn’t digest itself.<!-- END FACT -->**
