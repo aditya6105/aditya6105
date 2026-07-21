@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A lion's roar can be heard from five miles away.<!-- END FACT -->**
+**<!-- START FACT -->Rats and horses can’t vomit.<!-- END FACT -->**
