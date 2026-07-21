@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your stomach produces a new layer of mucus every two weeks so that it doesn’t digest itself.<!-- END FACT -->**
+**<!-- START FACT -->The odds of being born male are about 51.2%, according to census.<!-- END FACT -->**
