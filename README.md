@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The catfish has the most taste buds of all animals, having over 27,000 of them.<!-- END FACT -->**
+**<!-- START FACT -->President John F Kennedy could read 4 newspapers in 20 minutes.<!-- END FACT -->**
