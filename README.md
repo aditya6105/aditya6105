@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->About 200,000,000 M<!-- START FACT -->The state of Florida is bigger than England.<!-- END FACT -->Ms are sold each day in the United States.<!-- END FACT -->**
+**<!-- START FACT -->A chameleon's tongue is twice the length of its body.<!-- END FACT -->**
