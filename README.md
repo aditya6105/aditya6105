@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.<!-- END FACT -->**
+**<!-- START FACT -->You burn more calories sleeping than you do watching TV.<!-- END FACT -->**
