@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The only domestic animal not mentioned in the Bible is the cat. <!-- END FACT -->**
+**<!-- START FACT -->There is a city in Norway called "Hell"<!-- END FACT -->**
