@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is a city in Norway called "Hell"<!-- END FACT -->**
+**<!-- START FACT -->Butte County, South Dakota is the geographical center of the U.S.<!-- END FACT -->**
