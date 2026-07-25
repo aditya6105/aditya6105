@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Banging your head against a wall uses 150 calories an hour.<!-- END FACT -->**
+**<!-- START FACT -->An ant always falls over on its right side when intoxicated.<!-- END FACT -->**
