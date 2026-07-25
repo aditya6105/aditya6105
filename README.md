@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen.<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->2,000 pounds of space dust and other space debris fall on the Earth every day.<!-- END FACT -->**
