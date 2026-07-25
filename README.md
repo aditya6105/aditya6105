@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->On average, 100 people choke to death on ball-point pens every year.<!-- END FACT -->**
+**<!-- START FACT -->People say “bless you” when you sneeze because your heart stops for a millisecond.<!-- END FACT -->**
