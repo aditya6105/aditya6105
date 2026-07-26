@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More people are killed each year from bees than from snakes.<!-- END FACT -->**
+**<!-- START FACT -->A lion's roar can be heard from five miles away.<!-- END FACT -->**
