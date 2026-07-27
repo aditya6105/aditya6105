@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Wyoming was the first state to give women the right to vote in 1869.<!-- END FACT -->**
+**<!-- START FACT -->There are more than 10 million bricks in the Empire State Building.<!-- END FACT -->**
