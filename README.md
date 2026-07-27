@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In New York State, it is illegal to but any alcohol on Sundays before noon.<!-- END FACT -->**
+**<!-- START FACT -->There are 240 dots on an arcade Pac-Man game<!-- END FACT -->**
