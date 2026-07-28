@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The ZIP in “ZIP code” means Zoning Improvement Plan.<!-- END FACT -->**
+**<!-- START FACT -->A cat has 32 muscles in each ear.<!-- END FACT -->**
