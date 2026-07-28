@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->A cat has 32 muscles in each ear.<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.<!-- END FACT -->**
