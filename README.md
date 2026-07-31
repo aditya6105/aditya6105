@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If done perfectly, a rubix cube combination can be solved in 17 turns.<!-- END FACT -->**
+**<!-- START FACT -->All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.<!-- END FACT -->**
