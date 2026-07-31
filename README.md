@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Gabriel, Michael, and Lucifer are the only angels named in the Bible.<!-- END FACT -->**
+**<!-- START FACT -->An Olympic gold medal must contain 92.5 percent silver<!-- END FACT -->**
