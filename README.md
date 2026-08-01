@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen.<!-- END FACT -->**
+**<!-- START FACT -->One out of every 43 prisoners escapes from jail. 94% are recaptured.<!-- END FACT -->**
