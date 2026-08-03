@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->38% of American men say they love their cars more than women<!-- END FACT -->**
+**<!-- START FACT -->The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  <!-- END FACT -->**
