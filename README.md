@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Each year in America there are about 300,000 deaths that can be attributed to obesity.<!-- END FACT -->**
+**<!-- START FACT -->The average human head weighs about 8 pounds.<!-- END FACT -->**
