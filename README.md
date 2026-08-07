@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average human eats 8 spiders in their lifetime at night.<!-- END FACT -->**
+**<!-- START FACT -->The catfish has over 27000 taste buds (more than any other animal)<!-- END FACT -->**
