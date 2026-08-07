@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The catfish has over 27000 taste buds (more than any other animal)<!-- END FACT -->**
+**<!-- START FACT -->The average chocolate bar has 8 insects' legs in it.<!-- END FACT -->**
