@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A 2" X 4" is really 1-1/2" by 3-1/2".<!-- END FACT -->**
+**<!-- START FACT -->The average shelf-life of a latex condom is about two years.<!-- END FACT -->**
