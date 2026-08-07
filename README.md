@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Utah, it is illegal to swear in front of a dead person.<!-- END FACT -->**
+**<!-- START FACT -->The Amazon is the world's largest river, 3,890 miles (6,259 km) long.<!-- END FACT -->**
