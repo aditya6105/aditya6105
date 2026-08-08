@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The surface of the human skin is 6.5 square feet (2m).<!-- END FACT -->**
+**<!-- START FACT -->The penguin is the only bird that can swim but can't fly.<!-- END FACT -->**
