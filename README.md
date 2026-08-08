@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The San Francisco Cable cars are the only mobile National Monuments<!-- END FACT -->**
+**<!-- START FACT -->The first McDonald's restaurant in Canada was in Richmond, British Columbia.<!-- END FACT -->**
