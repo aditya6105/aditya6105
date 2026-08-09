@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the U.S, Frisbees outsell footballs, baseballs and basketballs combined.<!-- END FACT -->**
+**<!-- START FACT -->In the average lifetime, a person will walk the equivalent of 5 times around the equator.<!-- END FACT -->**
