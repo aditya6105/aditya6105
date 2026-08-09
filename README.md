@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Jamaica has the most churches per square mile than any other country in the world.<!-- END FACT -->**
+**<!-- START FACT -->Coca-Cola would be green if coloring weren’t added to it.<!-- END FACT -->**
