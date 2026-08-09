@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->People say “bless you” when you sneeze because your heart stops for a millisecond.<!-- END FACT -->**
+**<!-- START FACT -->Icelanders consume more Coca-Cola per Capita than any other nation.<!-- END FACT -->**
