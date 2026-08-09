@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Ninety percent of New York City cabbies are recently arrived immigrants.<!-- END FACT -->**
+**<!-- START FACT -->For every 230 cars that are made, 1 will be stolen.<!-- END FACT -->**
