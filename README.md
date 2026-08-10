@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The catfish has the most taste buds of all animals, having over 27,000 of them.<!-- END FACT -->**
+**<!-- START FACT -->The first McDonald's restaurant in Canada was in Richmond, British Columbia.<!-- END FACT -->**
