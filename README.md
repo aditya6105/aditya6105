@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The angel falls in Venezuela are nearly 20 times taller than Niagara Falls.<!-- END FACT -->**
+**<!-- START FACT -->On average a hedgehog's heart beats 300 times a minute.<!-- END FACT -->**
