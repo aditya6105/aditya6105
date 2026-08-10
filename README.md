@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Months that begin on a Sunday will always have a `Friday the 13th`.<!-- END FACT -->**
+**<!-- START FACT -->The catfish has the most taste buds of all animals, having over 27,000 of them.<!-- END FACT -->**
