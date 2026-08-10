@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->If you put a drop of liquor on a scorpion, it will instantly go mad and sting itself to death.<!-- END FACT -->**
+**<!-- START FACT -->40% of McDonald’s profits come from the sales of Happy Meals.<!-- END FACT -->**
