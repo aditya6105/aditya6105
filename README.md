@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.<!-- END FACT -->**
+**<!-- START FACT -->In the 17th century, the value of pi was known to 35 decimal places. Today, to 1.2411 trillion.<!-- END FACT -->**
