@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Tasmania, Australia has the cleanest air in the inhabited world.<!-- END FACT -->**
+**<!-- START FACT -->John Adams, Thomas Jefferson, and James Monroe died on July 4th.<!-- END FACT -->**
