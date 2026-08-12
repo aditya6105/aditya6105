@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Donald Duck`s middle name is Fauntleroy.  <!-- END FACT -->**
+**<!-- START FACT -->Almonds are a member of the peach family.<!-- END FACT -->**
