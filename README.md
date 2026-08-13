@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.<!-- END FACT -->**
+**<!-- START FACT -->There are a million ants for every person on Earth.<!-- END FACT -->**
