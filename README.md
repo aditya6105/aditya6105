@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Rats multiply so quickly that in 18 months, two rats could have over million descendants.<!-- END FACT -->**
+**<!-- START FACT -->The first streetlights in America were installed in Philadelphia around 1757.<!-- END FACT -->**
