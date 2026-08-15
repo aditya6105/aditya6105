@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You are more likely to be killed by a champagne cork than by a poisonous spider.<!-- END FACT -->**
+**<!-- START FACT -->There`s a systematic lull in conversation every 7 minutes.<!-- END FACT -->**
