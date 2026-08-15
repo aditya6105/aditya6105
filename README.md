@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Owls are the only birds that can see the color blue.<!-- END FACT -->**
+**<!-- START FACT -->You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.<!-- END FACT -->**
