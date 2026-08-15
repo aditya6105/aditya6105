@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A jellyfish is 95 percent water!<!-- END FACT -->**
+**<!-- START FACT -->You are more likely to be killed by a champagne cork than by a poisonous spider.<!-- END FACT -->**
