@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Venus observa" is the technical term for the "missionary position."<!-- END FACT -->**
+**<!-- START FACT -->King Louis XIX ruled France for 15 minutes.<!-- END FACT -->**
