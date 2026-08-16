@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Almost" is the longest word in the English language with all the letters in alphabetical order.<!-- END FACT -->**
+**<!-- START FACT -->Pinocchio is Italian for "pine head."<!-- END FACT -->**
