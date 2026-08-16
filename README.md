@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Barbie`s full name is Barbara Millicent Roberts.<!-- END FACT -->**
+**<!-- START FACT -->Most household dust is made of dead skin cells.<!-- END FACT -->**
