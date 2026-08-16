@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.<!-- END FACT -->**
+**<!-- START FACT -->Our eyes are always the same size from birth, but our nose and ears never stop growing.<!-- END FACT -->**
