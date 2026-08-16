@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It’s estimated that at any one time around 0.7% of the world’s population is drunk.<!-- END FACT -->**
+**<!-- START FACT -->In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.<!-- END FACT -->**
