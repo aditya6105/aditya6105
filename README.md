@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Each month, there is at least one report of UFOs from each province of Canada.<!-- END FACT -->**
+**<!-- START FACT -->Some lions mate over 50 times a day.<!-- END FACT -->**
