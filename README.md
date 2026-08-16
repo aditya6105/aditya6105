@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A female ferret will die if it goes into heat and cannot find a mate.<!-- END FACT -->**
+**<!-- START FACT -->Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.<!-- END FACT -->**
