@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average child recognizes over 200 company logos by the time he enters first grade.<!-- END FACT -->**
+**<!-- START FACT -->0.3% of all road accidents in Canada involve a Moose.<!-- END FACT -->**
