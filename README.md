@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.<!-- END FACT -->**
+**<!-- START FACT -->The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.<!-- END FACT -->**
