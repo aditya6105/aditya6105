@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Bulgarians are known to be the biggest yogurt eaters in the world.<!-- END FACT -->**
+**<!-- START FACT -->The Amazon is the world's largest river, 3,890 miles (6,259 km) long.<!-- END FACT -->**
