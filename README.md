@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->India has a Bill of Rights for cows.<!-- END FACT -->**
+**<!-- START FACT -->It's against the law to burp, or sneeze in a church in Nebraska, USA.<!-- END FACT -->**
