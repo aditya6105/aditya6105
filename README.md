@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- START FACT -->Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.<!-- END FACT --> Cancer.<!-- END FACT -->**
+**<!-- START FACT -->In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark<!-- END FACT -->**
