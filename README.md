@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.<!-- END FACT -->**
+**<!-- START FACT -->$283,200 is the absolute highest amount of money you can win on Jeopardy.<!-- END FACT -->**
