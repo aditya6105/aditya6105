@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Denver, Colorado lays claim to the invention of the cheeseburger.<!-- END FACT -->**
+**<!-- START FACT -->Ninety percent of New York City cabbies are recently arrived immigrants.<!-- END FACT -->**
