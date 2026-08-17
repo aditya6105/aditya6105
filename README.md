@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Most dust particles in your house are made from dead skin.<!-- END FACT -->**
+**<!-- START FACT -->Rugby, North Dakota is the geographical center of North America.<!-- END FACT -->**
