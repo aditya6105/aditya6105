@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.<!-- END FACT -->**
+**<!-- START FACT -->"I" is the most spoken word in the English language<!-- END FACT -->**
