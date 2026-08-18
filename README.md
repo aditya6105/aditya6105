@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"I" is the most spoken word in the English language<!-- END FACT -->**
+**<!-- START FACT -->A “2 by 4" is really 1 1/2 by 3 1/2.<!-- END FACT -->**
