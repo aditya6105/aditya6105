@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Coca-Cola would be green if coloring weren’t added to it.<!-- END FACT -->**
+**<!-- START FACT -->The average human blinks their eyes 6,205,000 times each year.<!-- END FACT -->**
