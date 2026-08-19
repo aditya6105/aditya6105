@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Like fingerprints, everyone's tongue print is different!<!-- END FACT -->**
+**<!-- START FACT -->Sex is biochemically no different from eating large quantities of chocolate.<!-- END FACT -->**
