@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lithuania has the highest suicide rate in the world.<!-- END FACT -->**
+**<!-- START FACT -->A honeybee can fly at fifteen miles per hour.<!-- END FACT -->**
