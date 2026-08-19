@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sharon Stone was the first Star Search spokes model.<!-- END FACT -->**
+**<!-- START FACT -->Yo-yos were used as weapons by warriors in the Philippines in the 16th century.<!-- END FACT -->**
