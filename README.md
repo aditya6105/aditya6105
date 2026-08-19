@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->California has issued 6 drivers licenses to people named "Jesus Christ."<!-- END FACT -->**
+**<!-- START FACT -->Like fingerprints, everyone's tongue print is different!<!-- END FACT -->**
