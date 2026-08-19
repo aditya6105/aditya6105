@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Eskimos have over 15 words for the English word of 'Snow'<!-- END FACT -->**
+**<!-- START FACT -->There are more than 40,000 characters in the Chinese script.<!-- END FACT -->**
