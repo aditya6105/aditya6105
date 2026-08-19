@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are more than 40,000 characters in the Chinese script.<!-- END FACT -->**
+**<!-- START FACT -->The first McDonald's restaurant in Canada was in Richmond, British Columbia.<!-- END FACT -->**
