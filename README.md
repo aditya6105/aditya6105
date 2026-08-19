@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Australian $5 to $100 notes are made of plastic.<!-- END FACT -->**
+**<!-- START FACT -->A “jiffy” is the scientific name for 1/100th of a second.<!-- END FACT -->**
