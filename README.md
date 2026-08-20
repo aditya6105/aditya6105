@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The town of Calma, Chile in the Atacama Desert has never had rain.<!-- END FACT -->**
+**<!-- START FACT -->There were 240 pedestrian fatalities in New York City in 1994.<!-- END FACT -->**
