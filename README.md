@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->It's illegal to spit on the sidewalk in Norfolk, Virginia.<!-- END FACT -->**
+**<!-- START FACT -->The number "four" is considered unlucky in Japan because it is pronounced the same as "death".<!-- END FACT -->**
