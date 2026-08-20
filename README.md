@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Yo-yos were used as weapons by warriors in the Philippines in the 16th century.<!-- END FACT -->**
+**<!-- START FACT -->A horse can look forward with one eye and back with the other.<!-- END FACT -->**
