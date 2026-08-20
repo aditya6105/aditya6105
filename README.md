@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->China has more English speakers than the United States.<!-- END FACT -->**
+**<!-- START FACT -->Yo-yos were used as weapons by warriors in the Philippines in the 16th century.<!-- END FACT -->**
