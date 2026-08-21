@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A goldfish has a memory span of three seconds.  <!-- END FACT -->**
+**<!-- START FACT -->$203,000,000 is spent on barbed wire each year in the U.S.<!-- END FACT -->**
