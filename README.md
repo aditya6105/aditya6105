@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->    Dueling is legal in Paraguay as long as both parties are registered blood donors.<!-- END FACT -->**
+**<!-- START FACT -->In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark<!-- END FACT -->**
