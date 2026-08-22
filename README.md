@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->1 in every 4 Americans has appeared someway or another on television.<!-- END FACT -->**
+**<!-- START FACT -->The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.<!-- END FACT -->**
