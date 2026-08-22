@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->More people are killed annually by donkeys than airplane crashes.<!-- END FACT -->**
+**<!-- START FACT -->All of the clocks in the movie "Pulp Fiction" are stuck on 4:20. <!-- END FACT -->**
