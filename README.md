@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in seven workers in Boston, Massachusetts walks to work.<!-- END FACT -->**
+**<!-- START FACT -->Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.<!-- END FACT -->**
