@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Sigmund Freud had a morbid fear of ferns.<!-- END FACT -->**
+**<!-- START FACT -->Blondes have more hair than dark-haired people do.<!-- END FACT -->**
