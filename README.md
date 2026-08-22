@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average American works 24,000 hours in their lifetime just to pay their taxes<!-- END FACT -->**
+**<!-- START FACT -->In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.<!-- END FACT -->**
