@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Lawn darts are illegal in Canada.<!-- END FACT -->**
+**<!-- START FACT -->The Simpsons is the longest running animated series on TV.<!-- END FACT -->**
