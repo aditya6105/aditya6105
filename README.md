@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Andorra, a tiny country between France <!-- START FACT -->If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.<!-- END FACT --> Spain, has the longest average lifespan: 83.49 years.<!-- END FACT -->**
+**<!-- START FACT -->The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.<!-- END FACT -->**
