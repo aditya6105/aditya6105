@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.<!-- END FACT -->**
+**<!-- START FACT -->Because of the rotation of the earth, an object can be thrown farther if it is thrown west.<!-- END FACT -->**
