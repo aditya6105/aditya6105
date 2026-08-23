@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->John Lennon’s first girlfriend was named Thelma Pickles.<!-- END FACT -->**
+**<!-- START FACT -->Only one person in two billion will live to be 116 or older.<!-- END FACT -->**
