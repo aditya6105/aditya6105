@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->James Bond`s car had three different license plates in Goldfinger<!-- END FACT -->**
+**<!-- START FACT -->The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.<!-- END FACT -->**
