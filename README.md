@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In Iceland, a Big Mac costs $5.50.<!-- END FACT -->**
+**<!-- START FACT -->There was once an undersea post office in the Bahamas.<!-- END FACT -->**
