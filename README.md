@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->`Obsession` is the most popular boat name.<!-- END FACT -->**
+**<!-- START FACT -->About 500 movies are made in the US and 800 in India annually.<!-- END FACT -->**
