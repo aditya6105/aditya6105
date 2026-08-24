@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average person falls asleep in seven minutes.<!-- END FACT -->**
+**<!-- START FACT -->The Automated Teller Machine (ATM) was introduced in England in 1965.<!-- END FACT -->**
