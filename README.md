@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The only capital letter in the Roman alphabet with exactly one end point is P. <!-- END FACT -->**
+**<!-- START FACT -->Two-thirds of the world’s eggplant is grown in New Jersey.<!-- END FACT -->**
