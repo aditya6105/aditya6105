@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cher's last name was "Sarkissian." She changed it because no one could pronounce it.<!-- END FACT -->**
+**<!-- START FACT -->One in fourteen women in America is a natural blonde. Only one in sixteen men is.<!-- END FACT -->**
