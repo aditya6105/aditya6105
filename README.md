@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->You're born with 300 bones, but by the time you become an adult, you only have 206.<!-- END FACT -->**
+**<!-- START FACT -->$283,200 is the absolute highest amount of money you can win on Jeopardy.<!-- END FACT -->**
