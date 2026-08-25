@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.<!-- END FACT -->**
+**<!-- START FACT -->The flea can jump 350 times its body length. It's like a human jumping the length of a football field.<!-- END FACT -->**
