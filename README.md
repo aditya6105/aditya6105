@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Andorra, a tiny country between France <!-- START FACT -->California has issued 6 drivers licenses to people named "Jesus Christ."<!-- END FACT --> Spain, has the longest average lifespan: 83.49 years.<!-- END FACT -->**
+**<!-- START FACT -->Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.<!-- END FACT -->**
