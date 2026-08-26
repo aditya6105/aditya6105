@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Hannibal had only one eye after getting a disease while attacking Rome.<!-- END FACT -->**
+**<!-- START FACT -->Dogs and cats consume over $11 billion worth of pet food a year<!-- END FACT -->**
