@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There are approximately 100 million acts of sexual intercourse each day.<!-- END FACT -->**
+**<!-- START FACT -->Arabic numerals are not really Arabic; they were created in India.<!-- END FACT -->**
