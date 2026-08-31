@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->No piece of square dry paper can be folded in half more than 7 times<!-- END FACT -->**
+**<!-- START FACT -->Two-thirds of the world`s eggplant is grown in New Jersey.  <!-- END FACT -->**
