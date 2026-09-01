@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.<!-- END FACT -->**
+**<!-- START FACT -->Sharkskin has tiny tooth-like scales all over.<!-- END FACT -->**
