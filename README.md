@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The international telephone dialing code for Antarctica is 672.<!-- END FACT -->**
+**<!-- START FACT -->Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.<!-- END FACT -->**
