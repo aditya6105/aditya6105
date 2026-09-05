@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.<!-- END FACT -->**
+**<!-- START FACT -->100% of lottery winners do gain weight<!-- END FACT -->**
