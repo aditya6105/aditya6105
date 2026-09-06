@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Pinocchio is Italian for "pine head."<!-- END FACT -->**
+**<!-- START FACT -->Grapes explode when you put them in the microwave. Go on, try it then<!-- END FACT -->**
