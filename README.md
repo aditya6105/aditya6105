@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Isaac Asimov is the only author to have a book in every Dewey-decimal category.<!-- END FACT -->**
+**<!-- START FACT -->Between 2 and 3 jockeys are killed each year in horse racing.<!-- END FACT -->**
