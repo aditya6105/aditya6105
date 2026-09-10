@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A chameleon's tongue is twice the length of its body.<!-- END FACT -->**
+**<!-- START FACT -->You share your birthday with at least 9 million other people in the world.<!-- END FACT -->**
