@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"Stewardesses" is the longest word typed with only the left hand.<!-- END FACT -->**
+**<!-- START FACT -->A skunk's smell can be detected by a human a mile away.<!-- END FACT -->**
