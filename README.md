@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Buckingham Palace has 602 rooms.<!-- END FACT -->**
+**<!-- START FACT -->Maine is the only state whose name is just one syllable.<!-- END FACT -->**
