@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->There is a city called Rome on every continent.<!-- END FACT -->**
+**<!-- START FACT -->More people are allergic to cow's milk than any other food.<!-- END FACT -->**
