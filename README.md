@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In New York State, it is illegal to but any alcohol on Sundays before noon.<!-- END FACT -->**
+**<!-- START FACT -->Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items.<!-- END FACT -->**
