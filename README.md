@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Barbie's full name is "Babara Millicent Roberts."<!-- END FACT -->**
+**<!-- START FACT -->Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. <!-- END FACT -->**
