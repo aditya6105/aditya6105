@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Dr. Jack Kevorkian first patient has Alzheimer`s disease.<!-- END FACT -->**
+**<!-- START FACT -->In 10 minutes, a hurricane releases more energy than all the world’s nuclear weapons combined.<!-- END FACT -->**
