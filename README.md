@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Butterflies taste with their hind feet.<!-- END FACT -->**
+**<!-- START FACT -->Astronaut Neil Armstrong first stepped on the moon with his left foot.<!-- END FACT -->**
