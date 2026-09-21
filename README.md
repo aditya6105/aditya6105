@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Cher's last name was "Sarkissian." She changed it because no one could pronounce it.<!-- END FACT -->**
+**<!-- START FACT -->The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow<!-- END FACT -->**
