@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->About 55% of all movies are rated R.<!-- END FACT -->**
+**<!-- START FACT -->There are more than 10 million bricks in the Empire State Building!<!-- END FACT -->**
