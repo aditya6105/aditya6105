@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A cockroach can live several weeks with its head cut off!<!-- END FACT -->**
+**<!-- START FACT -->The people of Israel consume more turkeys per capita than any other country.<!-- END FACT -->**
