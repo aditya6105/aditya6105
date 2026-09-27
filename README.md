@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In most advertisements, including newspapers, the time displayed on a watch is 10:10.<!-- END FACT -->**
+**<!-- START FACT -->A polar bears skin is black. Its fur is actually clear, but like snow it appears white.<!-- END FACT -->**
