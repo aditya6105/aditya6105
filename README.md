@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.<!-- END FACT -->**
+**<!-- START FACT -->Venus and Uranus are the only planets that rotate opposite to the direction of their orbit.<!-- END FACT -->**
