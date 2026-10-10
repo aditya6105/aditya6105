@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The average American looks at eight houses before buying one.<!-- END FACT -->**
+**<!-- START FACT -->One in every 4 Americans has appeared on television.<!-- END FACT -->**
