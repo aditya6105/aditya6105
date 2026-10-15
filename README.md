@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In the White House, there are 13,092 knives, forks and spoons!<!-- END FACT -->**
+**<!-- START FACT -->Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.<!-- END FACT -->**
