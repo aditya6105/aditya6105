@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Louisiana's capital building is the tallest one of any U.S. state.<!-- END FACT -->**
+**<!-- START FACT -->The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.<!-- END FACT -->**
