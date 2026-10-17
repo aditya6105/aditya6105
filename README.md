@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.<!-- END FACT -->**
+**<!-- START FACT -->166,875,000,000 pieces of mail are delivered each year in the US<!-- END FACT -->**
