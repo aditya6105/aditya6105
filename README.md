@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->"You" is the second most spoken English word<!-- END FACT -->**
+**<!-- START FACT -->Elephants are the only mammals that cannot jump.<!-- END FACT -->**
