@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The U.S. bought Alaska for 2 cents an acre from Russia.<!-- END FACT -->**
+**<!-- START FACT -->In 1386, a pig in France was executed by public hanging for the murder of a child<!-- END FACT -->**
