@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->38% of American men say they love their cars more than women<!-- END FACT -->**
+**<!-- START FACT -->In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.<!-- END FACT -->**
