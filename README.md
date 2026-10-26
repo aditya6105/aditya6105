@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->China has more English speakers than the United States.<!-- END FACT -->**
+**<!-- START FACT -->Andorra, a tiny country between France <!-- START FACT -->China has more English speakers than the United States.<!-- END FACT --> Spain, has the longest average lifespan: 83.49 years.<!-- END FACT -->**
