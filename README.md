@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in every 9000 people is an albino.<!-- END FACT -->**
+**<!-- START FACT -->Canada is the only country not to win a gold medal in the summer Olympic games while hosting.<!-- END FACT -->**
