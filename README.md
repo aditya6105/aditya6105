@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->2,000 pounds of space dust and other space debris fall on the Earth every day.<!-- END FACT -->**
+**<!-- START FACT -->Ramses brand condom is named after the great pharaoh Ramses II who fathered over 160 children.<!-- END FACT -->**
