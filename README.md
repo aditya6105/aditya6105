@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Your skull is made up of 29 different bones.<!-- END FACT -->**
+**<!-- START FACT -->Sigmund Freud had a morbid fear of ferns.<!-- END FACT -->**
