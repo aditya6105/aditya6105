@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->In York, it is perfectly legal to shoot a Scotsman with a bow and arrow (except on Sundays)<!-- END FACT -->**
+**<!-- START FACT -->The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).<!-- END FACT -->**
