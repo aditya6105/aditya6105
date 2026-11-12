@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->A B-25 bomber crashed into the 79th floor of the Empire State Building on July 28, 1945.<!-- END FACT -->**
+**<!-- START FACT -->The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."<!-- END FACT -->**
