@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->Icelanders consume more Coca-Cola per Capita than any other nation.<!-- END FACT -->**
+**<!-- START FACT -->Dueling is legal in Paraguay as long as both parties are registered blood donors.<!-- END FACT -->**
