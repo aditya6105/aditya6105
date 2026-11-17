@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->The first streetlights in America were installed in Philadelphia around 1757.<!-- END FACT -->**
+**<!-- START FACT -->Yo-yos were used as weapons by warriors in the Philippines in the 16th century.<!-- END FACT -->**
