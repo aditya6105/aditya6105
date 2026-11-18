@@ -31,4 +31,4 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 ## **Fun Facts** :
-**<!-- START FACT -->One in every 9000 people is an albino.<!-- END FACT -->**
+**<!-- START FACT -->In America you will see an average of 500 advertisements a day.<!-- END FACT -->**
